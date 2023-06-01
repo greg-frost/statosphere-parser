@@ -1,0 +1,15 @@
+<div class="field">
+	<label for="channels">{{.Channels.Caption}}</label>
+	<input type="text" name="channels" id="channels" value="{{.Channels.Value}}" class="big">
+</div>
+<div class="field">
+	<input type="checkbox" name="test" id="test"{{if .Test.Value}} checked="checked"{{end}}>
+	<label for="test">{{.Test.Caption}}</label>
+</div>
+<div class="field">
+	<label for="offset">{{.Offset.Caption}}</label>&nbsp;
+	<input type="text" name="offset" id="offset" value="{{.Offset.Value}}" class="small">
+	&nbsp;
+	<label for="limit">{{.Limit.Caption}}</label>
+	<input type="text" name="limit" id="limit" value="{{.Limit.Value}}" class="small">
+</div>

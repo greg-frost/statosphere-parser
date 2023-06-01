@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible"
+     content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    
+<meta property="og:title" content="">
+<meta property="og:image" content="https://cdn4.telegram-cdn.org/file/Yu8sLHfG_nW6P_eX4sb49EG-kmSJTfOqw-eAmUH00A59hXcvFcfjULUIuL9XmMn89IVfbRj8042k9SWwr5TrC0z8f-d2JC2BTu3t8GNA_3TPArzjl7C7K12BnHBZviyz3jLYzPHFhVpRIJfE7w5B8Gv25hOwRqlRZ_AbvRsQpcsFWz35s32WRYglCuhU2EN5O82KSEVT7rRsZzkDGcF_aF5tHY1lheNpi5Ffcek2XGftPx6K8TBMLZi1oyJMJSK96R44z_92fEVaZJGKFG1VxnjFf7B2LpQnNgyXxBNa7EUBiVrNP_okZrhbzdJ3nErfbwJNI-BN82udvkfG2kl8Gw.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="Публикуем интересные/полезные фичи/библиотеки языка.
+
+По вопросам сотрудничества: @adv_and_pr
+
+Канал на бирже:
+https://telega.in/c/seniorpy">
+
+<meta property="twitter:title" content="">
+<meta property="twitter:image" content="https://cdn4.telegram-cdn.org/file/Yu8sLHfG_nW6P_eX4sb49EG-kmSJTfOqw-eAmUH00A59hXcvFcfjULUIuL9XmMn89IVfbRj8042k9SWwr5TrC0z8f-d2JC2BTu3t8GNA_3TPArzjl7C7K12BnHBZviyz3jLYzPHFhVpRIJfE7w5B8Gv25hOwRqlRZ_AbvRsQpcsFWz35s32WRYglCuhU2EN5O82KSEVT7rRsZzkDGcF_aF5tHY1lheNpi5Ffcek2XGftPx6K8TBMLZi1oyJMJSK96R44z_92fEVaZJGKFG1VxnjFf7B2LpQnNgyXxBNa7EUBiVrNP_okZrhbzdJ3nErfbwJNI-BN82udvkfG2kl8Gw.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=seniorpy">
+
+<meta property="al:android:url" content="tg://resolve?domain=seniorpy">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="Публикуем интересные/полезные фичи/библиотеки языка.
+
+По вопросам сотрудничества: @adv_and_pr
+
+Канал на бирже:
+https://telega.in/c/seniorpy
+">
+
+    <link rel="prev" href="/s/seniorpy?before=1630">
+<link rel="canonical" href="/s/seniorpy?before=1651">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="//telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?66" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?37" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/s/seniorpy">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value="" />
+        <a href="/s/seniorpy" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor0" data-content="SD"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto"></span></div>
+              <div class="tgme_channel_info_header_labels"></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://t.me/seniorpy">@seniorpy</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">43.2K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">843</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">1</span> <span class="counter_type">video</span></div><div class="tgme_channel_info_counter"><span class="counter_value">274</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">Публикуем интересные/полезные фичи/библиотеки языка.<br/><br/>По вопросам сотрудничества: <a href="https://t.me/adv_and_pr" target="_blank">@adv_and_pr</a><br/><br/>Канал на бирже:<br/><a href="https://telega.in/c/seniorpy" target="_blank" rel="noopener">https://telega.in/c/seniorpy</a></div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=f0415703fe057379f7_16267353019690282601">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=f0415703fe057379f7_16267353019690282601">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://t.me/seniorpy">
+        <i class="tgme_page_photo_image bgcolor0" data-content="SD"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto"></span></div>
+          <div class="tgme_header_labels"></div>
+        </div>
+        <div class="tgme_header_counter">43.2K subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/seniorpy">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/seniorpy?before=1630" class="tme_messages_more js-messages_more" data-before="1630"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1630" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzMCwidCI6MTY4MzM1ODU1MSwiaCI6IjI5NjRiYmM3NzM0NjJhNjcwYSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<div class="tgme_widget_message_poll js-poll">
+  <div class="tgme_widget_message_poll_question">Каким будет результат выполнения кода выше?</div>
+  <div class="tgme_widget_message_poll_type">Anonymous Quiz</div>
+  <a class="tgme_widget_message_poll_options" href="https://t.me/seniorpy/1630">  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">30%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">[[1], [1], [1]]</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:50.5658%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">11%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">[1], [1], [1]</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:19.3069%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">59%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">[[], [1], []]</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:100%"></div>
+    </div>
+  </div></a>
+</div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_voters">2.4K</span><span class="copyonly"> voters</span><span class="tgme_widget_message_views">6.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1630"><time datetime="2023-04-27T17:35:12+00:00" class="time">17:35</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1631" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzMSwidCI6MTY4MzM1ODU1MSwiaCI6IjhkNWJmNGMzYmE4NjIxYmRkZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5933554717823187647 1381513364_456243903" href="https://t.me/seniorpy/1631" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/et25zh_NhibNwff3oj83jJTPnr0GWDdv5WG5IKytumZF0ExhFvMWbx8VP_A-3qzIISF-U65CMziZVFEA275hkwCwSWgomLrPd37L-UVqXYGh9CIyGVtoV1Vr5q-Nn0sRcw8zxGziTDAaYNQE-HMgoLzCAzgDGktXRfSIWhZ1kZJrAqa_EeIbDhj9lrONyUCX8ljt6-RAK3TVjxHmK7PoFE7naba2z1d7vKFfdADixeh_nCsHy7sppnO5Cqm3q7sRCn9n3NI-Z5NHfjOW6te_NuOkhQLPf7CMFKRaxsexcUOopl71aiXDkvu5RivSUPjVkKlHnHjDKwRb_ocY6i0EtQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:68%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>re.findall()<br/><br/></b>Функция <i>findall()</i> модуля <i>re</i> возвращает все неперекрывающиеся совпадения шаблона &quot;pattern&quot; в строке &quot;string&quot; в виде списка строк или список кортежей. Строка сканируется слева направо, и совпадения возвращаются в найденном порядке.<br/><br/><b>Результат зависит от количества групп захвата в шаблоне:<br/><br/></b>•Если групп нет, то возвращается список строк, соответствующих всему шаблону.<br/>•Если существует ровно одна группа, то возвращается список строк, соответствующих этой группе.<br/>•Если присутствует несколько групп, то возвращается список кортежей строк, соответствующих группам.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/seniorpy/1631"><time datetime="2023-04-28T12:33:51+00:00" class="time">12:33</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1633" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzMywidCI6MTY4MzM1ODU1MSwiaCI6IjVhOTllNTA2NGY4ZWZkZDQwZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5933554717823187695 1381513364_456243951" href="https://t.me/seniorpy/1633" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/qf12sQ7D6xpp6Q8TE-VbkD6WTeZmteOEAg7c6XppbTtMNJZbzLqzC4Hl-FbRzUEffGrlwBnm29j4LCDv0-kYoOZDMoaAfInJHCm8WKNio-7eNVq3AniRuyrwCCbQmhH_5RzYio9sCSlH94KU5rqnrfM7e761KZR-CW2RwXzB0jwN9Yk_qh8IeEonVOq0gIXvcd8JxqOVh6iPfA5A8hpx7Ck9gK8qxib1MLz82zazDHyq_jxM7vtfxoErZVR8WtuQAMgK0FlCc00S1L4PSKa2B5Z94DSOvj8EA96SlZ6D_Dza0Uw6U_f5Sl3w5Q8-OWr3xvEltb-xpQnU3EfXjx7Icw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:94.5%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>zlib.compress() и zlib.decompress()<br/><br/></b>Функция <i>compress()</i> сжимает данные <i>data</i> представленные в байтах, возвращая объект байтов, содержащий сжатые данные. Уровень level - целое число от 0 до 9 или -1, управляющее уровнем сжатия.<br/>Синтаксис: <pre>zlib.compress(data, level=-1)<br/></pre>1 - (Z_BEST_SPEED); <br/>9 - (Z_BEST_COMPRESSION);<br/>-1 - (Z_DEFAULT_COMPRESSION).<br/><br/>Функция <i>decompress()</i> распаковывает сжатые данные представленные как байты, возвращая объект байтов, содержащий несжатые данные.<br/>Синтаксис: <pre>zlib.decompress(data, wbits, bufsize)<br/></pre>data - сжатые байты;<br/>wbits- управляет размером буфера, форматом заголовка и трейлера;<br/>bufsize - начальный размер выходного буфера.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1633"><time datetime="2023-04-28T18:19:30+00:00" class="time">18:19</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1634" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzNCwidCI6MTY4MzM1ODU1MSwiaCI6IjYzOGQ5MTk0Y2E3MDAyYjdiNyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D1%81_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9">#вопросы_с_собеседований</a><br/><b>Что делает флаг </b><code>PYTHONOPTIMIZE</code><b>?<br/><br/></b>Флаг <code>PYTHONOPTIMIZE</code> - это переменная окружения, которая позволяет задавать уровень оптимизации для компилятора Python.<br/><br/>Когда этот флаг установлен в значение <code>1</code> или <code>2</code>, интерпретатор Python использует оптимизацию байт-кода для ускорения работы программы. Оптимизация включает в себя удаление никак не используемых переменных и функций, а также замену медленных операций на более быстрые.<br/><br/>Флаг <code>PYTHONOPTIMIZE</code> имеет следующие значения:<br/><br/><code>0</code> - оптимизация не используется.<br/><code>1</code> - включена базовая оптимизация (удаление никак не используемых переменных и функций).<br/><code>2</code> - включена оптимизация (удаление никак не используемых переменных и функций, замена медленных операций на более быстрые).<br/><br/>Важно отметить, что использование этого флага может приводить к неожиданным результатам и ошибкам в работе программы, поэтому его использование необходимо осуществлять с осторожностью.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1634"><time datetime="2023-04-29T14:02:45+00:00" class="time">14:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1635" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzNSwidCI6MTY4MzM1ODU1MSwiaCI6ImY2N2UyN2Q4YjU0YTIxMzIwYiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5361600623163854086 1248344924_456248582" href="https://t.me/seniorpy/1635" style="width:790px;background-image:url('https://cdn4.telegram-cdn.org/file/VNd9zDRqwgX5N6ODjDA87itDd1iWVcLwx3cqDS6g7phZhR_wogaWKqHNbNRIl9656F7OGUXToqN8OWKEJ1U4vc8UieWhiHn4TDy7AzvGeEQYtTqd0Q6kdpIWyd19pNgloB9OS9Om5xotvELLnZFQhh5WaFzqAHYahTDbKTNFXShh839Lgl4AKP54-PmzylFiVUia2WGikACrdTnDWgRunwgEDDaBgXe1wfwnoVCsXCQgDvIBuLTKNSa9dlO32dhKUVh5CaGvTDKXfMxOaK4w1s1RIjoKjM-RbP1Q6lOLz68WuDpptEZ_HVofN32ugbO1cAgw-8q9kkPAgm-vIW0aWw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:101.26582278481%"></div>
+</a>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1635"><time datetime="2023-04-29T17:15:03+00:00" class="time">17:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1636" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzNiwidCI6MTY4MzM1ODU1MSwiaCI6IjUzYmI0MjJjOTIwZmZhNDdmMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<div class="tgme_widget_message_poll js-poll">
+  <div class="tgme_widget_message_poll_question">Что произойдет в результате выполнения этого кода?</div>
+  <div class="tgme_widget_message_poll_type">Anonymous Quiz</div>
+  <a class="tgme_widget_message_poll_options" href="https://t.me/seniorpy/1636">  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">17%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Вывод &quot;11 11&quot;</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:25.9536%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">19%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Ошибка приведения типов int и str</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:29.1045%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">64%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Ошибка AttributeError</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:100%"></div>
+    </div>
+  </div></a>
+</div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_voters">1.9K</span><span class="copyonly"> voters</span><span class="tgme_widget_message_views">6.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1636"><time datetime="2023-04-29T17:15:05+00:00" class="time">17:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1637" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzNywidCI6MTY4MzM1ODU1MSwiaCI6Ijg3YjQwODZjY2JhYTNmZGRmNyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5938289635799186278 1382615798_456244070" href="https://t.me/seniorpy/1637" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/b4WC7DT6tFJMHHthvN60fpClomOQ5dfGcto2-3qLSVVd0hm2sXLfb3T1FvBZSy9wkwxJgmdUsCJrkJIZOR-wD1j2leMI95-h2pf78W1IaW9KyltzH5nRelZOKsCTs6p_GlEzF6sjbL2SudSQolsO7qXw1H-0_NOglH2dU8kHkm4wyKEFDjabUGrwTO3199uSYwCZsKCrVKPkfybMivnRNOQe46yUgY0Mf8pkB22PKiZ1HD3eMiU_FOfnNDtfzxW99Qv3yajU5EIQfnqYhhanW4Jhtw0HxFQDCBMIbKQYNhn3zuIEAQ9Hp5V0UwO8aGgR7d1TOXzWWVsRo5vDpWb1kQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:83%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Global Interpreter Lock (GIL)<br/><br/>GIL</b> - это механизм, который используется в Python для управления потоками выполнения. Он гарантирует, что в любой момент времени только один поток выполняется в интерпретаторе.<br/><br/>Он может быть полезен для задач, связанных с <b>вводом-выводом</b> или с <b>использованием сторонних библиотек</b>, написанных на языках, которые <b>не поддерживают многопоточность</b>.<br/><br/>В примере выше мы создаем два потока и запускаем их одновременно. Но из-за <i>GIL</i> каждый поток будет выполняться по очереди, а не параллельно.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1637"><time datetime="2023-04-30T18:01:25+00:00" class="time">18:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1638" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzOCwidCI6MTY4MzM1ODU1MSwiaCI6ImM1M2IxNjI1Zjc0NTQ5MTEyYyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5942856856777112243 1383679187_456243891" href="https://t.me/seniorpy/1638" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/F4LZ2RB8Ptdn5rLNAVMD0XpJ-S0uK0g5T1meRv76kVKxDv0BVKaUUdeIeW_qwsULVmt4_69B_1oJpW-sLtBcVl2nHP1M_xeuTc2mN5MGR5B3ZQ8y6DLceerppZ8OTbQvnvttILoy4grTPMp2GcEjIvDisTlrPxhwuQG6ck3NhnQstQxDNuxlrndaC78KpfKxGnwqvGBhMTsFpqYih9oZ8Q2L8x-CXTx22cYVMLrqIsxOsOcWw8ZtjG7euri8sou1O-U7xurK_pLZfNWOf8W4pC5fLJ1v8shUnZVhMdNvyP5ey3LiG7lpPBg1-a_SLNUvwNHafdTlUCtb_MLddX6VJw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:85.25%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Найдите ошибку в коде<br/><br/></b><tg-spoiler>При создании экземпляров класса <i>Developer</i> у каждого из них оказывается только 1 чашка кофе в переменной <i>coffee_cups</i>. Это происходит из-за того, что переменная <i>coffee_cups</i> является атрибутом класса, а не экземпляра. Таким образом, каждый раз при создании нового экземпляра класса, значение атрибута <i>coffee_cups</i> увеличивается на 1, но это происходит не для каждого экземпляра, а для всего класса.<br/><br/>Чтобы исправить это, необходимо изменить переменную <i>coffee_cups</i> на атрибут экземпляра, а не класса. Для этого необходимо использовать <i>self.coffee_cups</i> вместо <i>Developer.coffee_cups</i> в методе <i>__init__</i>.</tg-spoiler></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1638"><time datetime="2023-05-01T14:24:49+00:00" class="time">14:24</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1639" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTYzOSwidCI6MTY4MzM1ODU1MSwiaCI6IjY5NzYwNjA3YWVmMjRmNjBmZCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D1%81_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9">#вопросы_с_собеседований</a> <br/><b>Как упаковывать бинарные зависимости?<br/><br/></b>Есть несколько способов упаковки бинарных зависимостей в вашу программу:<br/><br/>1. <b>Включение бинарных файлов в вашу программу<br/></b>Вы можете включить бинарные файлы прямо в вашу программу, используя модуль <code>base64</code>. Однако, это увеличит размер вашего приложения и усложнит его сопровождение.<br/><br/>2. <b>Использование системы управления пакетами<br/></b>Вы можете использовать систему управления пакетами, такую как <code>pip</code>, чтобы установить бинарные зависимости вместе с вашим приложением. Это позволит вам легко устанавливать и обновлять зависимости, но может потребовать установки дополнительных компонентов на целевой машине.<br/><br/>3. <b>Использование инструментов упаковки<br/></b>Есть инструменты, такие как <code>py2exe</code> и <code>pyinstaller</code>, которые позволяют вам упаковать вашу программу и все ее зависимости в один исполняемый файл. Это облегчает развертывание вашей программы и ее использование на любой платформе, но может быть сложным для настройки и использования.<br/><br/>Какой способ выбрать зависит от ваших потребностей и ограничений вашего проекта.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1639"><time datetime="2023-05-01T19:22:20+00:00" class="time">19:22</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1640" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0MCwidCI6MTY4MzM1ODU1MSwiaCI6ImRhMDRkZmMzN2NmOGFhNTgxOCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5945108656590798210 1384203475_456244610" href="https://t.me/seniorpy/1640" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/RWwyCij3zJI5MnLRLc5wTKT9C_Xx0GDdatzo-pvlZh5OYruBahCw2Qk09wFv9NSKNSb9lo_VbiWJBR2DcF6SgrP5jK8ZhAqlPODEZnWJNaZNUGQjqbA4gI_ykeshZJze6jCkpNcZidqJhDl4j1ikOteyC9ZbMrt9iPxC6mH1f4CsLPEzPDYoKtJZh0AIW1SdBEwRxor96E6CrHvs9bW7MebEYQPxLKUCUvY9eIJf64D2zV6Zw_6zxpYOhqYfl0pnj82HJmM7RYvel12-MZQoUrwsNZBtHp2-R1OBza-qlwTcXjHCFylus7pf7q3sOAmiukEK4ZOQJUMTO2Hm4Av0Iw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:87.625%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>NotImplemented<br/><br/></b>Объект <code>NotImplemented</code> используется в случаях, когда операция не может быть выполнена или еще не реализована.<br/><br/>В данном примере мы определяем класс <code>MyClass</code>, который не поддерживает операцию сложения с другим объектом того же класса. При выполнении операции сложения объектов <code>obj1</code> и <code>obj2</code> будет возвращен объект <code>NotImplemented</code>.<br/><br/><code>NotImplemented</code> стоит использовать, чтобы избежать возникновения ошибок при выполнении операций, которые не могут быть выполнены или еще не реализованы. Это позволяет более гибко управлять ошибками в программе и дает возможность более точно определить, какая операция не может быть выполнена. Кроме того, использование <code>NotImplemented</code> позволяет более явно обозначать не реализованные операции в коде, что может помочь в дальнейшей разработке программы.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1640"><time datetime="2023-05-02T05:05:30+00:00" class="time">05:05</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1642" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0MiwidCI6MTY4MzM1ODU1MSwiaCI6ImY5ZGQ0MGQzNWMyMzYwMWE4YSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5945108656590798212 1384203475_456244612" href="https://t.me/seniorpy/1642" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/iZkhS7RjmtdZsHOrt6d0AwMqzR5pcGTej0nnaVfROITICzT-aah-KLdXm7goQiW4uSadLoxx-vpn7mO25P0mJjtIMIbxJsL-wKoxgvWbfEPirIj0NWH84_Y8pMT5a2NoN7wQPmbT0JuCUlZiqGSXzraVJpNrzqUjD0jH-Ok-1-YtYWWOuJl-RVFtcOduudErzVAZNs1MNEyFlKHHoSRBOzroEXgZNIkFU8_nMTSeB7LoXnw5GXgYklxStphZ7Bv20wzR7iwbXMOep58SUYhORw4JUWH-VFBcfi8Yk3toTcnwP9D-ya0kOFXBbA-y-jub3qjmoijDDTugBcfgdplUdg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:93.25%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>dataclass<br/><br/></b>Это декоратор, представленный в <b>Python 3.7</b>, который позволяет автоматически создавать методы класса для реализации структур данных. Это значительно упрощает написание классов, которые используются только для хранения данных.<br/><br/><b>Преимущества dataclass перед обычными классами<br/><br/></b><code>1</code>. Автоматически создает методы <code>__init__</code>, <code>__repr__</code>, <code>__eq__</code> и другие методы, которые обычно приходится писать вручную.<br/><code>2</code>. Уменьшает количество шаблонного кода, что делает код более читабельным и легко поддерживаемым.<br/><code>3</code>. Позволяет указывать типы данных для атрибутов и методов класса, что упрощает отладку кода и уменьшает вероятность появления ошибок.<br/><code>4</code>. Поддерживает наследование, что позволяет создавать более сложные структуры данных.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1642"><time datetime="2023-05-02T09:05:55+00:00" class="time">09:05</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1643" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0MywidCI6MTY4MzM1ODU1MSwiaCI6ImZkNzI0Y2JiZDlmYzRiYTE3NSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D1%81_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9">#вопросы_с_собеседований</a> <br/><b>Каковы технологические особенности реализации распределенных систем?<br/><br/></b><tg-spoiler>Распределенные системы представляют собой совокупность независимых компьютеров, которые взаимодействуют между собой для выполнения общей задачи.<br/><br/>Одной из главных особенностей является наличие библиотеки <i>Pyro4</i>, которая обеспечивает удаленный вызов методов объектов Python. <i>Pyro4</i> позволяет создавать распределенные системы на основе объектно-ориентированного программирования, что делает код более читаемым и поддерживаемым.<br/><br/>Также Python имеет встроенную библиотеку <i>pickle</i>, которая позволяет сериализовать и десериализовать объекты Python. Это позволяет передавать данные между удаленными узлами распределенной системы.<br/><br/>Помимо этого Python имеет множество библиотек для работы с сетью, например <i>asyncio</i> и <i>Twisted</i>. Они обеспечивают асинхронную обработку запросов и позволяют создавать масштабируемые и эффективные распределенные системы.</tg-spoiler></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1643"><time datetime="2023-05-03T12:49:42+00:00" class="time">12:49</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1644" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0NCwidCI6MTY4MzM1ODU1MSwiaCI6IjMxMzQyMDczMDRjMWVjNDg1MiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5368496949071824323 1249950600_456246723" href="https://t.me/seniorpy/1644" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/X3QMRw0gvCq1Myc79AoAU88lvxO6WsJI4GhjLquIMzoA-WMvGjGUQq5s4bQ5NCJZUq6ZZxVRZzY8y2-7R2vi5dWEZCCNpWf9IyHbRdSF1lgu4pRDHFDqhOTQxAOqZrNz00VcwLYTmtETMm0MY8MiE8jN0nnfxkkgWpnUGjDl4CxwZ1vOFhnN_Yzk2wVPUpU3oNpnH4jLKznWvVD2jS7cKfC3Ph9KYq0r7yfFKz6rTOR7hN5eEtE-j8Cf0FNVXjT51HT259LUpErX_Q5-9EUizhQ0gIyLvx0Wbbv5F1BBgJBGRBYGo5tTb1W4SW8hlgjTWv7XwlF6cWbvU3PqPIccgA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:55.875%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Псссс&#33; На связи Podlodka Crew — организатор онлайн-конференций.<br/><br/>Мы регулярно организовываем их по разным направлениям, но для «змееустов» ещё не проводили. Исправляемся: <b>15 мая стартует пятидневная Podlodka Python Crew</b>&#33;<br/><br/>Запускаться решили сразу с непростой темы — асинхронность. Но когда&nbsp;сложности останавливали опытных разработчиков? Ведь это шанс рассмотреть тему асинхронного программирования с разных сторон вместе с экспертами из Точка, ЛитРес, Novakid, winePad GmbH и других компаний.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F908D.png')"><b>🐍</b></i> Разберём основные принципы и сложности в работе с asyncio;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F908D.png')"><b>🐍</b></i> Поделимся кейсами использования asyncio в проекте с множеством CPU-bound операций;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F908D.png')"><b>🐍</b></i> Разберём по винтикам Event Loop;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F908D.png')"><b>🐍</b></i> Обсудим альтернативы asyncio и их преимущества.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA493.png')"><b>🤓</b></i> В дебютном сезоне у нас особенно много практики&#33; <b>Подробности — на сайте: </b><a href="https://podlodka.io/pythoncrew?utm_campaign=early_bird_python_crew_1&amp;amp;utm_source=telegram&amp;amp;utm_medium=paid&amp;amp;utm_content=seniorpy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"><b>https://podlodka.io/pythoncrew</b></a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA491.png')"><b>🤑</b></i> Успейте купить билет, пока не выросла цена. Скидка для ранних птичек — до 9 мая&#33;</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1644"><time datetime="2023-05-03T15:24:37+00:00" class="time">15:24</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1645" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0NSwidCI6MTY4MzM1ODU1MSwiaCI6IjNiNGRkMWFkYjg5N2YwZWVkMCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D1%81_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9">#вопросы_с_собеседований</a> <br/><b>Что такое дескрипторы?<br/><br/><i><tg-spoiler>Дескрипторы</tg-spoiler></i></b><tg-spoiler> - это механизм в Python, который позволяет настраивать доступ к атрибутам объектов. Они используются для определения поведения при доступе, изменении или удалении атрибута объекта.<br/><br/>Дескрипторы реализуются через три метода:<br/><br/>- __get__(self, instance, owner) - вызывается при доступе к атрибуту<br/>- <i>__set__(self, instance, value)</i> - вызывается при изменении атрибута<br/>- <i>__delete__(self, instance)</i> - вызывается при удалении атрибута<br/><br/>Дескрипторы могут быть определены как отдельный класс или внутри другого класса. Они могут быть использованы для создания свойств, которые имеют специальное поведение при доступе, изменении или удалении.</tg-spoiler></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1645"><time datetime="2023-05-03T17:25:00+00:00" class="time">17:25</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1646" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0NiwidCI6MTY4MzM1ODU1MSwiaCI6IjA5MjQ2NjhmMmQ2MWY1N2JmOSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5951554865631181744 1385704350_456244144" href="https://t.me/seniorpy/1646" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/HtJn88MMTDFN1jHf0IM6HzyAj6-1zbYm6UR21-RV5mkTtIjXd0A3ED1I7HBv8aqmCs37cU7w4WYC_CHNTA1QLIOBgQHei1OYpFwG5k81VSYjMpO-vzZNJo7h4HS5DWu6hr1HojKZVVRVD8wa_BpqOfbmy1gByIZ3Qer8H3T0Ho0wEtobYZ_ZtuhJkw8CZfuI2rK-0Sq8Q4l8dIjx65XkyB4yAqFxk5NbDz1okxvya8eVHBYzrnDS4Ziyu_OTQeYqVJGFrRNj8gsrOo3BCWlwdjjzskUotV_AHiWsgnsxo7wv1bZ54sKvWHXLqUglcvkue2RFajOQjoNCKhVAa57ogw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:79.25%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Декоратор </b><a href="https://t.me/frozen" target="_blank"><b>@frozen</b></a><b> для датакласса<br/><br/></b>Декоратор <code>@frozen</code> позволяет создавать <b>&quot;замороженные&quot; экземпляры датакласса</b>, т.е. экземпляры, которые <b>не могут быть изменены после создания</b>. Это достигается путем присвоения атрибутам экземпляра класса только для чтения свойства и запрета их изменения.<br/><br/>В этом примере мы создали датакласс <code>Person</code>, который был определен с использованием декоратора <code>@frozen</code>. Это означает, что <b>после создания экземпляра класса его атрибуты не могут быть изменены.<br/></b>Когда мы пытаемся изменить значение атрибута <code>age</code> для экземпляра класса <code>Person</code> <code>p</code>, мы получаем ошибку <code>FrozenInstanceError</code>.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1646"><time datetime="2023-05-04T11:03:13+00:00" class="time">11:03</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1647" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0NywidCI6MTY4MzM1ODU1MSwiaCI6IjVhMDEwOWFmMmJmNjQ2ZmIxZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5377662551015409538 1252084633_456247170" href="https://t.me/seniorpy/1647" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/rqgfppqG9RiXSljpQkdutAbaLJLnWMm3ZyvZ21lIYeN-F3q9eJX7SRaYdMr-aDWFYP23V0zRMC6VDhlZAgREx8pP5bWoxeoogqrmG6IhJWGrSCU2o526NxHqyV7tkOqickM4dZOVQXcaXZULFD3b9hnUk1ESijp8ojy3UWJ24ElJq_2xu5UJm1A72QrUNMeT1OlXsjTLV6HjBB_Cwpp9bzPx0pY0YeiUEHO0GFZRDJSKN4sdzCTNIJw7enVxz_Iw2gdVNUQl67Cpw_mS_1i6fpAUzGqtKqZDCpeO4arWz_aCjauRdI4Xh9D29UYNyxH2pvtdVTaMaEYL6sg3bey_5w.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> <a href="https://otus.ru/lessons/python-professional/assessment/?utm_source=telegram&amp;amp;utm_medium=cpm&amp;amp;utm_campaign=python&amp;amp;utm_term=seniorpy&amp;amp;utm_content=test" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"><b>Хардкорный тест по Python</b></a><b> (не для новичков), который проходит всего 30% разработчиков </b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><br/><br/>Ответьте на 20 вопросов и проверьте, насколько вы готовы к обучению на курсе — «Python Developer. Professional»<br/><br/>На курсе поймете структуру современной разработки ПО, научитесь писать простой и идиоматичный код, за который не будет мучительно стыдно, сможете тестировать и поддерживать код, научитесь создавать высоконагруженные системы и многое другое.<br/><br/>Время прохождения теста ограниченно 30 минут<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> <b>Пройти вступительный тест — </b><a href="https://otus.pw/PFbC/" target="_blank" rel="noopener"><b>https://otus.pw/PFbC/</b></a><b><br/><br/></b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A3.png')"><b>💣</b></i><b> Пройдите тест, чтобы записаться на курс по спец. цене, проверить свои знания и получить доступ к 2 открытым урокам курса.<br/><br/></b><i>Реклама. Информация о рекламодателе на сайте </i><a href="http://www.otus.ru/" target="_blank" rel="noopener"><i>www.otus.ru</i></a><i>.</i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1647"><time datetime="2023-05-04T14:54:00+00:00" class="time">14:54</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1648" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0OCwidCI6MTY4MzM1ODU1MSwiaCI6Ijk1ODE0Yzk1OTA5YTQ0Yjg0YiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5951554865631181755 1385704350_456244155" href="https://t.me/seniorpy/1648" style="width:739px;background-image:url('https://cdn4.telegram-cdn.org/file/OcDHYEDE7SVqCBUAo5tyisyaNPwC9UijYF3NEwQhzPywcL8UC8t2b1Q2GmFYX-qIn_caOJWr4zLeDeWd4MN-r55r_6SyI0sD7MxCs3fzS1vdBMTvvOvkcFVf5pSXziaTCiZqrUkO5bAuXM84xYbzBZ1LjgcjJ7VeH4LwWjbkQ5M6EHXYaisYwdhzO09vgnrS8wXIzD754Rg1We06mSCl5PWZs8U2_cEPM8Mwrv9Hk8PUDxU1Lc90qbOPcYsrMrJxD9-mS_LY8ZCtMBsnZ79S81KvtI94HfqZgXUL_8WmArVe5nVCqz0jWN3_oPBjRiCfuhl_ij6k-sF2dEonxyzwcA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:108.25439783491%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>OrderedDict<br/><br/></b>Модуль <code>collections</code> предоставляет класс <code>OrderedDict</code>, который похож на стандартный словарь, но имеет дополнительные возможности.<br/><br/>Обычный словарь Python не гарантирует, что порядок элементов будет сохранен в том же порядке, в котором они были добавлены*. Однако, <code>OrderedDict</code> гарантирует сохранение порядка элементов в том порядке, в котором они были добавлены.<br/>Также, <code>OrderedDict</code> поддерживает все методы словаря, такие как <code>keys()</code>, <code>values()</code>, и <code>items()</code>, а также дополнительные методы, такие как <code>popitem(last=True)</code>, который удаляет и возвращает последний элемент (если last=True) или первый элемент (если last=False).<br/><br/>Это может быть полезно, если порядок элементов является важной частью логики вашего приложения.<br/><br/>*Начиная с версии Python 3.6 обычные словари также запоминают порядок, однако в версиях ниже, если порядок элементов важен, то стоит использовать <code>OrderedDict</code>.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1648"><time datetime="2023-05-04T18:08:50+00:00" class="time">18:08</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1649" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6MTY0OSwidCI6MTY4MzM1ODU1MSwiaCI6IjY2MGVhMWYwZDEyMzMwZTQ1OSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5953806665444867016 1386228638_456244168" href="https://t.me/seniorpy/1649" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/e5oYdMl4Sv44rwZZfijg-L8t37omM4Lk9QgPUOEvIGCJt6R-HlIlhAdgSqi2yvh56EB1ruisOOtd-M70IVfxFbjyb8iqXOfNF4ewSBzA9o9gPHPdJb8d_kPAlYCQs4OMveSyFUFEpda3Ndm8jbXlAsRrySAZIqRtgyJ2dP30KKrm5NDRm7Ur6A7_IKiNps1uR1Zdix6GB9vKMCDVUQ8YAc6BxuR01WyWx4-fwkLd8wsXDsUwfJmXcWMT2LNKgv0LSVi9NlcLOf0_FfO_27DyTrgtuyYVsbdYWHMDdiBI3gYMFWebQ8BUHJSF1rHznySyzFv9tqcdOIpagRowIatJ9g.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:55.875%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D1%81_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9">#вопросы_с_собеседований</a> <br/><b>Можно ли осуществить динамическую загрузку модуля в Python?<br/><br/></b>Чтобы загружать модули динамически, т.е. во время выполнения программы, используется функция <code>importlib.import_module()<br/><br/></code>В этом примере мы импортируем модуль <code>importlib</code> и используем его функцию <code>import_module()</code> для динамической загрузки модуля <code>math</code>. Затем мы используем функцию <code>sqrt()</code> из загруженного модуля.<br/><br/>Динамическая загрузка модуля может быть полезна, например, <b>если вы хотите загрузить модуль в зависимости от каких-то условий</b>, которые определяются во время выполнения программы. <b>Такой подход — медленный, но он помогает эффективнее использовать память.</b></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">3.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1649"><time datetime="2023-05-05T10:24:38+00:00" class="time">10:24</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="seniorpy/1650" data-view="eyJjIjotMTU1ODE4NjU4OCwicCI6IjE2NTBnIiwidCI6MTY4MzM1ODU1MSwiaCI6IjY1ZmJiNTU4ZDQzYTlkMjY2NyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/seniorpy"><i class="tgme_widget_message_user_photo bgcolor0" data-content="S"><img src="https://cdn4.telegram-cdn.org/file/uoHCCQI-f5kn1h3OLHbr0-IHTNPl5P3rLzjRO8TXPgVkL4xcusP4xIjfbgTEOTi42GqqrTXBIx9tZ7ccuxGHbKK6GaYTclW7N4r19ySyhlAOG4fYGPCE_888rzA5P-zfQbq46VykPbMFlLLm85icFMuovKiJ8d7kjuCAQshMjgC7JJhj93XOXc1F8oO9thxZ2GpnYfK37u4UqRlhEc56DNig66EqlWHzFLfQC_4-AJxggOD56Wj8x35k997lBYpf5U3yNIHodHUVhawCgOhiYzaqEwxGxPn3oXnSaae6vlecIzL_YtNFZCa6UImOCbWh6e2lLrfvmvTG9SNZtQKyjw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/seniorpy"><span dir="auto"></span></a></div>
+
+
+<div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+  <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:24.283%">
+    <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:110px">
+      <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:0px;width:225px;height:110px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/k4M1HHXuy-yCA4Hf1mCbSdJfL-d-3dNIbC-zjY9vmwzWrb88Bo-gOY3kd3BAe1iUnMoAiIcm1twJIyOxCb79TzUQJvnnlM6gdfxv3FnHUEie8Jljy00U57jRiv2ZWAwzM9ldhEZM1F9ITAvc4AfivBVFk36UFeKoVuj8ZwEO2XkydRUkQPuLZDm7TjfWwTPZMFkuBM-FyZvHDSUwiZ5cfcfhUhLapgoR4xSICxtc0rPN2EDy3aPGqK-P45GvcG0KzJL9ur0EQWC0RYVHodY0u3dhE6ZiiDnCWUMBrUIpDSRLpU_HUv2Jz9dtkgsA4PnJY2Af2z6oOlCtwr3yCoYgIg.jpg')" data-ratio="1.8099547511312" href="https://t.me/seniorpy/1650?single">
+  <div class="grouped_media_helper" style="top:0;bottom:0;left:126px;right:127px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-8px;bottom:-7px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:227px;top:0px;width:226px;height:110px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/Aq_pc_oWqt0c75xInBuyH6QzsRoqDnXbaOGbvriVDXxBJWXfz5PsnJxiHupKlB54CGc5GyAEP7axUCJIcrdHgru8xT_ZFtLZXawgnjIuzIiBbf3o_KhczLySpeFl5s9c4zsKzPVs74l2Rh3_eE5a70o6RyYdfjqOsZA4PImLAlnQnL4h4Y1R_znpudTADopA7KVMdaJUGM9K3t1sU9YNz6UApX-KOMTwvOLgyRata8q6EroejCWOfKLlhIz-wuQzhmcbY7fiU11uFS8CH7R7dtGLLduKEfdt18Wja66_kE_APd2cVeu3nX_vvC1SglsT_OFdiB4JvfQ58-svn_2Fgw.jpg')" data-ratio="2.0408163265306" href="https://t.me/seniorpy/1651?single">
+  <div class="grouped_media_helper" style="top:0;bottom:0;left:114px;right:114px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:0px;"></div>
+  </div>
+</a>
+    </div>
+  </div>
+</div>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><div class="tgme_widget_message_text js-message_text" dir="auto"><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D1%81_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9">#вопросы_с_собеседований</a> <br/><b>Что такое introspection?<br/><br/>Introspection - это способность программы анализировать свой собственный код во время выполнения.</b> В Python это достигается с помощью функций, которые позволяют получить <b>информацию о классах, функциях, переменных и модулях.<br/><br/></b>Одним из примеров использования <i>introspection</i> является динамическое создание объектов в Python. Например, если у вас есть класс, но вы не знаете имя этого класса во время написания кода, вы можете использовать функцию <code>getattr()</code> для получения <b>класса по его имени во время выполнения программы.<br/><br/></b>Другой пример использования <i>introspection</i> - это определение типа объекта в Python. Для этого можно использовать функцию <code>type()</code></div></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/seniorpy/1650"><time datetime="2023-05-06T05:20:29+00:00" class="time">05:20</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div>
+    </section>
+  </div>
+</main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//telegram.org/js/tgsticker.js?31"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?62"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init();
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 220.55ms -->

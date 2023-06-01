@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ЭКСЕЛЬ ХАК – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible"
+     content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    
+<meta property="og:title" content="ЭКСЕЛЬ ХАК">
+<meta property="og:image" content="https://cdn4.telegram-cdn.org/file/BLpUEGS6b0rwKBf_Q5Mmi2H8eVxDaGlaDPueuNxQRTcK9srlHqDtaidCFI28Asg8ej4Lvi32bzYMlQ6ZajwKdeFpTDTJ_aZePpxYqYtDiAMreTs7PyX06D_QMX8dv_YrCW6CiAQg2W-rgLCuuyg96KZvAQ6pjojfxJdfP-FH-EGOJElZcFFVPUn5RXR6yhHWDk__yPCkt_eqvINNv5vszd5JWxS227RLAdKj6zRTAVIpfogCW7XgaFxcr8ISyWTLMrW9piVEUSbkIshVHT3KWQgPVOL6NbwQXDacKMxdSHDMWr7u7fYULldvqgDBNhJhj739dz0onKp40Y57tBh8uw.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="Лайфхаки в Excel от онлайн-академии ЭКСЕЛЬ ХАК📊 
+ 
+Обучаем работать в Excel с нуля на курсах. Все подробности по ссылке ⤵️
+https://pro.excelhack.ru
+
+Вопросы по обучению на курсах можно задать @vladkamanin">
+
+<meta property="twitter:title" content="ЭКСЕЛЬ ХАК">
+<meta property="twitter:image" content="https://cdn4.telegram-cdn.org/file/BLpUEGS6b0rwKBf_Q5Mmi2H8eVxDaGlaDPueuNxQRTcK9srlHqDtaidCFI28Asg8ej4Lvi32bzYMlQ6ZajwKdeFpTDTJ_aZePpxYqYtDiAMreTs7PyX06D_QMX8dv_YrCW6CiAQg2W-rgLCuuyg96KZvAQ6pjojfxJdfP-FH-EGOJElZcFFVPUn5RXR6yhHWDk__yPCkt_eqvINNv5vszd5JWxS227RLAdKj6zRTAVIpfogCW7XgaFxcr8ISyWTLMrW9piVEUSbkIshVHT3KWQgPVOL6NbwQXDacKMxdSHDMWr7u7fYULldvqgDBNhJhj739dz0onKp40Y57tBh8uw.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=excelhackru">
+
+<meta property="al:android:url" content="tg://resolve?domain=excelhackru">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="Лайфхаки в Excel от онлайн-академии ЭКСЕЛЬ ХАК📊 
+ 
+Обучаем работать в Excel с нуля на курсах. Все подробности по ссылке ⤵️
+https://pro.excelhack.ru
+
+Вопросы по обучению на курсах можно задать @vladkamanin
+">
+
+    <link rel="prev" href="/s/excelhackru?before=1321">
+<link rel="canonical" href="/s/excelhackru?before=1364">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="//telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?66" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?37" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/s/excelhackru">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value="" />
+        <a href="/s/excelhackru" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor5" data-content="ЭХ"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto">ЭКСЕЛЬ ХАК</span></div>
+              <div class="tgme_channel_info_header_labels"><i class="verified-icon"> ✔</i></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://t.me/excelhackru">@excelhackru</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">53K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">189</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">171</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">15</span> <span class="counter_type">files</span></div><div class="tgme_channel_info_counter"><span class="counter_value">22</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">Лайфхаки в Excel от онлайн-академии ЭКСЕЛЬ ХАК<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> <br/> <br/>Обучаем работать в Excel с нуля на курсах. Все подробности по ссылке <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2A4B5.png')"><b>⤵️</b></i><br/><a href="https://pro.excelhack.ru/" target="_blank" rel="noopener">https://pro.excelhack.ru</a><br/><br/>Вопросы по обучению на курсах можно задать <a href="https://t.me/vladkamanin" target="_blank">@vladkamanin</a></div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=ff26a2bda5f28cafde_4556953419998840756">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=ff26a2bda5f28cafde_4556953419998840756">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://t.me/excelhackru">
+        <i class="tgme_page_photo_image bgcolor5" data-content="ЭХ"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto">ЭКСЕЛЬ ХАК</span></div>
+          <div class="tgme_header_labels"><i class="verified-icon"> ✔</i></div>
+        </div>
+        <div class="tgme_header_counter">53K subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/excelhackru">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/excelhackru?before=1321" class="tme_messages_more js-messages_more" data-before="1321"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1321" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6IjEzMjFnIiwidCI6MTY4MzM2MTYyNywiaCI6ImQ5NDg3M2NiOWMyMzYzMzQwZCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+  <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:133.333%">
+    <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:604px">
+      <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:0px;width:297px;height:604px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/A_Qh705aAOqL2hnxPw_AyqrAgnj6mOnCWVBUtcTqmCgcHQ9uFgllvlNx5N7J9ehkK0oGX6DzDrf7YqzEtZeVR2hYZEpDrWg51SuRwX0hcLwIaMg8E_KF0OYmBfI9sey30YkBfaVJP51gXQlG-a37ddrz9Ch3l7-KwjkvZ8uX-nSRD1pZATLpqInvIqGoqCdIvJDJyXQbFaN-lB8ZR4byQbC0vQFdz-Rd-HlwwBWvfTf-MT2keSMQ9OjQh6h0f3fO2vkoTjHssND-b682tYTx8CroFIAt557NP2uGiERzD5Zmcmw6fZBlhWLG9ri1aPWTkpzPSkjzyHOw5KzaprDIxw.jpg')" data-ratio="1" href="https://t.me/excelhackru/1321?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:75px;bottom:76px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-154px;right:-153px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:299px;top:0px;width:154px;height:200px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/ktATO4GvTAnfgVbyy4qmYJBkE_4EZjGK0dknvdluQTJVV8seWYUnH47TsNGxWPyS5LI0F7FIynFC8ztQHaqXDa_zkLz8-nD8A-_TqMKK8q82CPGdbu_f2mXC0pCoUINHhijIEjv8K7U0GV4imYJECQP6QTLhgyctTz91VgF674oeEXtcd4MH_v724HPbzBF5Lm3nZwDX3VIwJ0bOq5lNHxamrXhwg_bsC9nkfe-D7jzCcOcCxjbw5UaTS4GhLfx7Od2eqS41HE2vbPPDg2jWavbcdEFeMeu3epe4P5ncVW53gIC3CX5FOxa7WDUXFfLO1xd-x_M2C6QaHJQEJThWjA.jpg')" data-ratio="1" href="https://t.me/excelhackru/1322?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:75px;bottom:76px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-23px;right:-23px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:299px;top:202px;width:154px;height:200px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/lHNJ-LzubiPz41a7Cl4uRYSBVODFtVjpuXf6pbgVSluO3dfzdGBholmm1y93m9DTGlbj0h43l6Gox4rml3vg5F-iZManu4dlVXExbkolTnkfsDRwZwkIVrEUOuUAHDo-OOHr9hViyX_nbcNyn6I4QKNBu4IgdzpTztCx8_2oMCVp4SaCv6LJaC_t29fM-D9o4b3Oix73lg-idsVI1SlpnEsjz3205gD_MyUKOMLvXAPGRDN6-_6eQmUHYBuH2q7dH5E67HQPNGqqUO94YbtuVuhVC41gm88hmOCDM8VKViguk11Tqc6ZcRQw04O2LXtFXb8l8_SRUIHsPbL8qehx-Q.jpg')" data-ratio="1" href="https://t.me/excelhackru/1323?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:75px;bottom:76px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-23px;right:-23px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:299px;top:404px;width:154px;height:200px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/Z5__8TLws8PTrp7vQha-YQchX_YgSrOrAHhOF1VbqyLs0LidQi8vc7bvS0OSvsCJGgEYkbTxiJJO-iew7jeDnNE29ix03tVV_ILjHsoOd5MFU4NulsOp-7Hc2cVK03qlXltUAgwWko0j7-ycq3Vvp8X8KHhiA76fQyH5MgrG63G4ElydEip0wM2oJ7IoMxEoqSO8f6Pu1m1kJcyMr4GsqhNzbruW7p0wqI9i_SXx7X43d6gDzsWmogOpJ3xp1kQao74QnARLVoiiXC_vJKdRORZlgkPvMarwkWvCI6bGVJHH0hKJ_k4WoKWOwUgl3FdCNOQ7FNBI8huZEHluorTpWw.jpg')" data-ratio="1" href="https://t.me/excelhackru/1324?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:75px;bottom:76px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-23px;right:-23px;"></div>
+  </div>
+</a>
+    </div>
+  </div>
+</div>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><div class="tgme_widget_message_text js-message_text" dir="auto">А у вас была такая проблема в сводных таблицах?<br/><br/>Если в сводной изменить ширину столбцов, а затем обновить или дополнить ее новыми данными, то ее столбцы вернутся к ширине ячейки по умолчанию.<br/><br/>Показали в карусели пример того, как можно решить эту проблему.</div></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">25.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1321"><time datetime="2023-03-21T08:01:29+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1329" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTMyOSwidCI6MTY4MzM2MTYyNywiaCI6IjNkZjQxOWNjYjczZDRiOGJlMCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<div class="media_supported_cont"><a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1329"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/ZXeid5JW_RQhX8_35Bdoic-19pbL_HYUxsHljlBwxQCU2Zld5FYQ9whbd4S0BNnr4ahMocMt887UhhyYMpCRBl7FcU3tFZIEPHQAJkz3gV-83sXRPx-fohEPvUadXR4fhFa6Xv9QdDDnQrSTsdsNx9PcDbs1AhkJGmtiDnWKB1o4iYenlOQ9G2BzMxH_20UdEeoZMjIBOxHS4nxYmuSl_Gxi13tqnvPqXBQZ9wtdoNOmLyogizdQHMSIdi1W83UXUMoRwX5jr7M54UMkdMV6MaQOhjOoTgNvgxiBDsxdhsAp4jjw8dlnNpLgwhuZMTgzQA964fJzPmdkWeRL30s2mg')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/81f604c274.mp4?token=VVGMee0eVAOCzQYJ9CVdn8Wo4Ko2L2m823uBtgHuw1chH1v2uleC0ifkx80okREO5GZvPAi1g8flwjWJf6aGKs8TXqTNATaeFGbRbocbMFHWrXEBqN2S60JSWF3OFEBgu9BSRbIr49lougfZu4sx7GETwZgtKGF2hMxQ34jIDCu4OeQyaU5uXRsTNy_JQpBBywqGo4YeuWySmiFeyVSs_3xOHGuy2kyYLVbM3Oo0FTaoZXtEKhB0M-YSlPnFYPTwdCP6I1qDGExqNJNz5-OjqYJ7WnHrovBtTE6uGIGzjVsvboOx40D_-6eZpEwG-s3nWlZX9V5Lq4CxbBXFX4o36CD6flNfoS56sM1_3gjJbUGWjBOodtRBKYh7w1l8XfKQnWmOeVf_wyD5N5PXFiwuiaeyt8PbX5VtMy6HW4PkxLNiIPWW2kFzzd7MdU2Fp5LYScrFIdNlYKc7MR0r_yNBww5AGBI41xj6cPqms8AxGQsGRgN5SYuMl6vnQbI0byHI_yIiXQ7MEIzJJcuPPo1wWLev6ohp6l-wZcVLwPGzA-a5auUn86y0GryL98kxjDdW5VvBBjzne6czQ0F0Sd43elzyyJVWyWhMWJFuUC2STzD3QtBjkVaxY74r0TPSB_FxOgzKVFTxzIR_wiWucpkAz0VidXnXNjP44vYLGK1WODc" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/81f604c274.mp4?token=VVGMee0eVAOCzQYJ9CVdn8Wo4Ko2L2m823uBtgHuw1chH1v2uleC0ifkx80okREO5GZvPAi1g8flwjWJf6aGKs8TXqTNATaeFGbRbocbMFHWrXEBqN2S60JSWF3OFEBgu9BSRbIr49lougfZu4sx7GETwZgtKGF2hMxQ34jIDCu4OeQyaU5uXRsTNy_JQpBBywqGo4YeuWySmiFeyVSs_3xOHGuy2kyYLVbM3Oo0FTaoZXtEKhB0M-YSlPnFYPTwdCP6I1qDGExqNJNz5-OjqYJ7WnHrovBtTE6uGIGzjVsvboOx40D_-6eZpEwG-s3nWlZX9V5Lq4CxbBXFX4o36CD6flNfoS56sM1_3gjJbUGWjBOodtRBKYh7w1l8XfKQnWmOeVf_wyD5N5PXFiwuiaeyt8PbX5VtMy6HW4PkxLNiIPWW2kFzzd7MdU2Fp5LYScrFIdNlYKc7MR0r_yNBww5AGBI41xj6cPqms8AxGQsGRgN5SYuMl6vnQbI0byHI_yIiXQ7MEIzJJcuPPo1wWLev6ohp6l-wZcVLwPGzA-a5auUn86y0GryL98kxjDdW5VvBBjzne6czQ0F0Sd43elzyyJVWyWhMWJFuUC2STzD3QtBjkVaxY74r0TPSB_FxOgzKVFTxzIR_wiWucpkAz0VidXnXNjP44vYLGK1WODc" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:45</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5819095256267755019"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i></tg-emoji>Как удалить каждую, например, 6-ю строку листа Excel?<br/><br/>Показываем пример решения такой задачи в видео <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"><b>👆</b></i></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
+    <a href="https://t.me/excelhackru/1329" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
+  </div>
+</div></div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">22.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1329"><time datetime="2023-03-26T08:01:02+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1331" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTMzMSwidCI6MTY4MzM2MTYyNywiaCI6IjJiMDNiMWZkYzlhMWFjYTNkNSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<div class="media_supported_cont"><a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1331"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/F8WvWkwcuE1Ih7BwLaYiQJJRqAgaearzgqULhKd4sFcMacypw1JjNHVQa-FvnYHCeSCP8Zb9aY3Zfl1oGNaRhjfpDku1pusIyuUkMoGmY0JxYGdz8bD8RFxBb7xrFPrH2Dq8cObT3jnuo-Eg3cEppDgUYL-13vCBqWGWWKmDyqfUqk07WMrNNulCTSSHI0rMFlGohR5_sUOhEhLzsZBQuOlIfJ0cTTYrbY2xlEUwodO1eg231cIRWC2vnPDUjWOP7VtCiY56dlDwSj6dtlkMEcE7mocWtxA5WtWXT2TAI_d8qnlPZNTGSi4hEOSb5o7Ch40VmO8iyVEZPsOLDT3mqA')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/d03ca8a063.mp4?token=kZQVEbsX37X59RjkK97T_LpC6OxnVN0YZCdNJAjDcZA3YQwa57_u3x4HXOBz2zldDp7QOuuzZKZ-syGIseczeCHXMOU70yqJBjm-PzzcyOZQrDskGE5c836rnaa7khdM04OYALt-xEQzRJqJwjTwNL_Kube1Yh6TpvMaRFyu7PG9fxhKLD83ugF-_f6WolD_gZ_cfFIfjpSq-pSn6Fd__64T-ncPWXk-qvivn03WmXb5WTRUjLoorHPOb2JOqJ4tLCAgCrm8rO8iH9ka1V0WpZSQK6aWtb9bOw2x8S4eAJObHey_Vk5FCxB7d-2qQktP3ttL2P_bZ4mN-FYU4OoSxKST5Y0-ScEoauBCO8ObdUqA3_tv4j5cKZyHD_-bBKMfDUR6KsVcwosptvbdbiyy1_xCuWj2oZ6NGr3cRbgtsdVsAfe2QtUqGxHwvHv8eKxd27oBLVZSCv-WNgEjVuHF2d537PNHR14nCNmTSh_JbfHNfyuM3gq9UuqPmZxuam978LIGse-JYUerV_EHp_v7viSaa53H1C_KFezOeQXrfJs7a9QLkIZ-AC6ZReOkIRUtkE80imV3nkiXEpNPP-KgE7X9dDl5yZLDhdkGVBCOOc43NTUs9EY9dERHWTNAjjBZaculyLFY3B01d7D_8bmHL4F5HG11qntPneRaOiWmeZ4" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/d03ca8a063.mp4?token=kZQVEbsX37X59RjkK97T_LpC6OxnVN0YZCdNJAjDcZA3YQwa57_u3x4HXOBz2zldDp7QOuuzZKZ-syGIseczeCHXMOU70yqJBjm-PzzcyOZQrDskGE5c836rnaa7khdM04OYALt-xEQzRJqJwjTwNL_Kube1Yh6TpvMaRFyu7PG9fxhKLD83ugF-_f6WolD_gZ_cfFIfjpSq-pSn6Fd__64T-ncPWXk-qvivn03WmXb5WTRUjLoorHPOb2JOqJ4tLCAgCrm8rO8iH9ka1V0WpZSQK6aWtb9bOw2x8S4eAJObHey_Vk5FCxB7d-2qQktP3ttL2P_bZ4mN-FYU4OoSxKST5Y0-ScEoauBCO8ObdUqA3_tv4j5cKZyHD_-bBKMfDUR6KsVcwosptvbdbiyy1_xCuWj2oZ6NGr3cRbgtsdVsAfe2QtUqGxHwvHv8eKxd27oBLVZSCv-WNgEjVuHF2d537PNHR14nCNmTSh_JbfHNfyuM3gq9UuqPmZxuam978LIGse-JYUerV_EHp_v7viSaa53H1C_KFezOeQXrfJs7a9QLkIZ-AC6ZReOkIRUtkE80imV3nkiXEpNPP-KgE7X9dDl5yZLDhdkGVBCOOc43NTUs9EY9dERHWTNAjjBZaculyLFY3B01d7D_8bmHL4F5HG11qntPneRaOiWmeZ4" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:41</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5819095256267755019"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i></tg-emoji>А вам часто нужно заполнять однотипные данные в таблицах? Например, каждому заказу нужно присвоить свой статус. <br/><br/>Вместо того чтобы вводить данные вручную, я рекомендую использовать выпадающие списки с перечнем статусов. Как их создавать смотрите в видео <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"><b>👆</b></i></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
+    <a href="https://t.me/excelhackru/1331" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
+  </div>
+</div></div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">23.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1331"><time datetime="2023-03-28T08:01:23+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1335" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTMzNSwidCI6MTY4MzM2MTYyNywiaCI6IjU0MmU3NWZiYTQ4NWZlM2VhNyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<div class="media_supported_cont"><a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1335"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/euw6OjmeW0HcAzKYA9WhDLIfUrctjiQtaHYyiXaaAr9ezOlYkUlRmKO2uaCmfrOZmtVWJpLUhX0aWZjdMzQoXRw6ED_1u9AMuxaYWj_sjp3EKxjbKO18eYlrW7Ml5ZdZDFFDuQhastgBV8uzLxU593qerbKTb6jwWmgXrhez0Zokok_EBeq6KRjAofu7id9wzhTUmOxrhDgtP9gnl2ZDZ038ZVScQDIoKyfP4fzTGqTU8Xkme63boGyI9wARV_R38hvUxy7HjWsnynIk16zCzGbDXoYy5gLHjg6Z8mEeDvpFLsn5tLWshRJil3sG5epBy1kaFKl74R3kvb6MEkQ2dQ')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/ce8e89fa0b.mp4?token=pLxPTNatS0KNlrAB2oLOq5Lo2WCSE3MtDQLlukAGr-e5jEdducg1ntqRq3x5KzBMj1n9a6ukZ_egPY3fXT7M4f8d-30zUu3uKfmhmm_pROmsjSn9_vyzrKHFDn4sbvdDFXKVHFFnxFDJUaJCSVWhsYeZ5HzTkhHLEkEEQPObHh0b9aDsMkSNxI7A3mH0WZ_Vml-cxMWHF3GHBhfvyBoBRnFSmBz50DuetO8DY6VnmN2QAC3wNEuGYejD5lyDBPcRgtWhcq7oDB-Lpnqcdj63NBjJ1FsnXdr2b3NCtJSqVDHi6SI7om62Sh8YDo6iq78_k0l8H2XDZkBEh_9Yj3V0Y44XGrlxVhVeN-5roaaKYFN5AGx0P4vhplRD2yrucWfMLNr7X5s3JbbQacKVTL-ZP3ze37TFTtP0KbC1pgKqdps5PXE3kK92yExhDYlB4QLw6Tp0p9HynKCQbeTbm5bCRbzROg47Q7SglmYgv8HHCLoE7smxo0hnpn03SlTQYR_y3rBb3-LcRMawhYmcsrpofuelfFQb-DZHNZJAvpRgPE4nYS3iyEXRHrBQ_cQElYmEv4Ql_hB_5SzdTN53LfhSRlukl2epf1B9a8TIAdovD9tB6suq-6A1IhAOgA1MY3x0h82Hve1JmFrZIFQihLE8c48eWgBE5I-XmqlQPVceSPE" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/ce8e89fa0b.mp4?token=pLxPTNatS0KNlrAB2oLOq5Lo2WCSE3MtDQLlukAGr-e5jEdducg1ntqRq3x5KzBMj1n9a6ukZ_egPY3fXT7M4f8d-30zUu3uKfmhmm_pROmsjSn9_vyzrKHFDn4sbvdDFXKVHFFnxFDJUaJCSVWhsYeZ5HzTkhHLEkEEQPObHh0b9aDsMkSNxI7A3mH0WZ_Vml-cxMWHF3GHBhfvyBoBRnFSmBz50DuetO8DY6VnmN2QAC3wNEuGYejD5lyDBPcRgtWhcq7oDB-Lpnqcdj63NBjJ1FsnXdr2b3NCtJSqVDHi6SI7om62Sh8YDo6iq78_k0l8H2XDZkBEh_9Yj3V0Y44XGrlxVhVeN-5roaaKYFN5AGx0P4vhplRD2yrucWfMLNr7X5s3JbbQacKVTL-ZP3ze37TFTtP0KbC1pgKqdps5PXE3kK92yExhDYlB4QLw6Tp0p9HynKCQbeTbm5bCRbzROg47Q7SglmYgv8HHCLoE7smxo0hnpn03SlTQYR_y3rBb3-LcRMawhYmcsrpofuelfFQb-DZHNZJAvpRgPE4nYS3iyEXRHrBQ_cQElYmEv4Ql_hB_5SzdTN53LfhSRlukl2epf1B9a8TIAdovD9tB6suq-6A1IhAOgA1MY3x0h82Hve1JmFrZIFQihLE8c48eWgBE5I-XmqlQPVceSPE" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:35</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5819095256267755019"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i></tg-emoji>А вам приходилось сортировать списки с датами, например, дней рождения по месяцам?<br/><br/>Смотрите, что получится, если применить обычную сортировку к столбцу с датами и как делать правильно <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"><b>👆</b></i></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
+    <a href="https://t.me/excelhackru/1335" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
+  </div>
+</div></div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">21.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1335"><time datetime="2023-04-02T08:01:06+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1337" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTMzNywidCI6MTY4MzM2MTYyNywiaCI6IjIyZmQ3ZGI1Y2I4ZjRiOTgwMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5287471467614815691 1231085385_456246731" href="https://t.me/excelhackru/1337" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/nwrxNnpCJiT4dyasROEyK2mkzEtfuHm4quBE5TyayKn0ldJhfCIjhj_LLkYs9XtyIIKDbZmZNtYRVSg7_nLCOl8Z-Uc3-MGh7Y1PSsZUMKNYWZrLEk82dEXcoYRxl2cX2ZW8kcpWpt5RwSbvwsA4dkdBD1QEf2qYAaVG5Gv0ECbRFtk6DVJXWrXKMjKdzTBGUGUmh-K_XX50zbjlx3sa6nML38ntbHEjl5jIRdXQYERwGxaFwagSfw7JCWtfrSQYusytTzF7WxvKA9Zj-KXy_EimEUzN2KQ_bepLV0ZxNrZ77dH8ASAL3INu5nSUbQDa3__JS_n0z28Vx8B00MuHBA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:70%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97BA.png')"><b>🗺</b></i> Планируете путешествие летом или на майские каникулы?<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"><b>💰</b></i>Лучшее путешествие - спланированное. Особенно, если речь о его бюджете. <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AE.png')"><b>🧮</b></i> У нас есть полезный <b>калькулятор бюджета путешествия</b>, который поможет запланировать расходы и не выйти за рамки бюджета. <br/><br/>Скачать бесплатно калькулятор вы можете <a href="https://excelhack.ru/files/templates/Kalkuljator-Budzheta-Puteshestviya-Excelhack.xlsx" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"><b>по ссылке</b></a>. <br/><br/>Или отправьте файл себе на почту, заполнив форму <a href="https://taplink.cc/excelhack_ru/p/3a769f/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"><b>по ссылке</b></a>.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">22.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1337"><time datetime="2023-04-04T06:47:39+00:00" class="time">06:47</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1338" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTMzOCwidCI6MTY4MzM2MTYyNywiaCI6ImFkOWIwNDc5NzFkYTBkNDk1ZiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1338"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/MhDV74HvQxEuM2EutieJM_7S0CTKTYrmC1MoOCPNheRU-dGmjcG8vdgjv1ww34rJdofhahn680WsLZoQxluwLiHxWGTy2qcF_wBBmODr34OO3BkgvqfKPerCMh_XkLcdctOKpwN-K0RiK5OKoLsxN7w2EpIGQIwy8-gRx8d9E3QSEzKI4Y9mEI5xc917TiSWkVBBbZRvQ3o4OcnD4VCjY32Q7TbBWSgffrAHfKRtgHJ08tPBXRMYWyMw_mkWwbfCPUx1z2kq9oHmbP_HAD5dE3VN57bcrWU0ADe4lKnnF-tEwQhg8ByJiSDgi0d8MeLpmTzzRZ5hDi_SmoifWiFS7Q')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/7716418f55.mp4?token=j5UeU0jZ52IRQqR2tj6Edz3ZLCBYlFAnDa5liNAhqREYvk-WQI9pzBg0jJ_9D_muddJei-J0uuNeMqU4iT4y5dLii3OJoegNQB_od-mDaAHU68NE-Acqxc4Zv9YX9na1Efh8-R66mweD-DXEhRQMkxsHIt0gSfL3w0NYUnOnX8baXVDS83m672TYYLWHkhkqH5edIzSSsodFYRO9u1cSsmhXpynpkVKDMBuiZQmXBE4Zeiz9M-B7BtrQemWtl4QJ9QGv9eLxN72tKPRRrW-olrR46XB0XpbgGuZ04_IPmYi3iwSbz2z06ksHczY4UjYrOFuhUX5zYQZ0Pxo2X-8yPQ" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/7716418f55.mp4?token=j5UeU0jZ52IRQqR2tj6Edz3ZLCBYlFAnDa5liNAhqREYvk-WQI9pzBg0jJ_9D_muddJei-J0uuNeMqU4iT4y5dLii3OJoegNQB_od-mDaAHU68NE-Acqxc4Zv9YX9na1Efh8-R66mweD-DXEhRQMkxsHIt0gSfL3w0NYUnOnX8baXVDS83m672TYYLWHkhkqH5edIzSSsodFYRO9u1cSsmhXpynpkVKDMBuiZQmXBE4Zeiz9M-B7BtrQemWtl4QJ9QGv9eLxN72tKPRRrW-olrR46XB0XpbgGuZ04_IPmYi3iwSbz2z06ksHczY4UjYrOFuhUX5zYQZ0Pxo2X-8yPQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:22</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">А вы знаете как понять в каких ячейках таблицы <b>формулы</b>?<br/><br/>Всё просто <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"><b>👆</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">24.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1338"><time datetime="2023-04-05T08:01:17+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1342" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM0MiwidCI6MTY4MzM2MTYyNywiaCI6ImZlOGM5MzU3M2M1MDJkMTg3MiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1342"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/nRPpSp328r49DmqHTEgfo3pdN7I-zxS27vBvm-48RZq2IsQgoL4gb25Pj2SrMZBxygxqx7ajqRV-kL-f7wDzkNheop5EmDm95UABDvXYHU0_pn3_35wUyCiT2WAg3JZLXV2esX2fgd5Lg-iJgfnHV5mIGISKW3Jvolg5aiV5HhBz4xN_VUM-5eEHhmIuI8nr_LsUKnark2PBil-0P812SDSS5r6OKTVjQgc2zPrnAlTUkB3-o7O6gAP6K62e9KpaxCWvdwoylnmFMyfGtskp-A2UD9GyU6vy3OouWCEUMRPJpNIRmHrP9SLk-9iCLtaPiYIHuqNaJygsuMFwhrprrQ')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/2cc6ae7832.mp4?token=bQkIuJB8iBs6Bb7G-VwmlRUui-NlPq-2Wx93iinGVLRJz56n3dOjj3JYR7zvA9YPn4p5jxhCsT9xFHOpwUQs-wUEU8__LtjOeDyQwreu7usb7TVFnwksdzk7oo7etoZeo0DcheWyDs7DHxNHeuEg32hOdmuQTiNol6edtSh7uxE2zw7sFoby9dor6KpGl7ynSzqGgZVdohn_20r5FhtV5usJ-8b3H7p_c9KQLGN5XRbGSfsZr-W9ou37ngKxRxxLch3va1m7l2k3QWeLTie-uBEDqVdr9_Qu87EwXXG5fY09OE4c47OTxAiQjac3sHZFN3tfxVEMBOliTtx0Kt4nKxQ0QPXhGdLt0XDwF4F_4-ATGuYowsPleIs-E0Wk09qP_Fb4ft0QVOyZYSdvJ_TEmIbgh7uN3qrOInCWuuDElk2RXBlU4i0UfF7yUrDhMxDZ11dO82S9a_qCgl05bRJqMM10tYkGrXT_lHEq2MkiBxJIj3kkOSxFL8gYCj_3z-LuFyvEUaekFrSqiJDEb1rNipA8LaT25x2P93LSs5mwh8y8KiQOhaZWbhzWbGY6Wn_1rp8_DZplxazA4Z2YBATTA0w6Sn0Ft6aRnHur9x0V6xzmYbwtbduhJB9Rdwa_cjVT6F69QvRibVg9DVQoaUPJnPpDNb0-qPk1Ay_DtwIjSl4" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/2cc6ae7832.mp4?token=bQkIuJB8iBs6Bb7G-VwmlRUui-NlPq-2Wx93iinGVLRJz56n3dOjj3JYR7zvA9YPn4p5jxhCsT9xFHOpwUQs-wUEU8__LtjOeDyQwreu7usb7TVFnwksdzk7oo7etoZeo0DcheWyDs7DHxNHeuEg32hOdmuQTiNol6edtSh7uxE2zw7sFoby9dor6KpGl7ynSzqGgZVdohn_20r5FhtV5usJ-8b3H7p_c9KQLGN5XRbGSfsZr-W9ou37ngKxRxxLch3va1m7l2k3QWeLTie-uBEDqVdr9_Qu87EwXXG5fY09OE4c47OTxAiQjac3sHZFN3tfxVEMBOliTtx0Kt4nKxQ0QPXhGdLt0XDwF4F_4-ATGuYowsPleIs-E0Wk09qP_Fb4ft0QVOyZYSdvJ_TEmIbgh7uN3qrOInCWuuDElk2RXBlU4i0UfF7yUrDhMxDZ11dO82S9a_qCgl05bRJqMM10tYkGrXT_lHEq2MkiBxJIj3kkOSxFL8gYCj_3z-LuFyvEUaekFrSqiJDEb1rNipA8LaT25x2P93LSs5mwh8y8KiQOhaZWbhzWbGY6Wn_1rp8_DZplxazA4Z2YBATTA0w6Sn0Ft6aRnHur9x0V6xzmYbwtbduhJB9Rdwa_cjVT6F69QvRibVg9DVQoaUPJnPpDNb0-qPk1Ay_DtwIjSl4" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:28</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">А вы удаляете пустые строки в таблицах Excel по одной вручную?<br/><br/>Есть способ сделать это гораздо быстрей <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9186.png')"><b>👆</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">22.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1342"><time datetime="2023-04-09T08:01:35+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1344" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM0NCwidCI6MTY4MzM2MTYyNywiaCI6IjAwNjY2OWFkMDQ1YTc4NjNlYiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1344"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/VErKWo1DcVYpQcep1qatBUvu_QXT5VfOgktxYwwvnv0zxg0ycnn2QDjNm-yKq1Jxm6BFmH0VT36w3xGUU1k5TD-BJYMQhK6A7clzscJh4vT9CMCqUAowA9ZRDhS2d5_23PS0v8R8THIHxaL8SqE817M4a7hgC-Ugd5nj88l4J1nPf0r3yAuXYZTBTUawVEwYzeb_mB1sVgWMK0Gonrjuhh5klebQSe7BDlJDDqA8gkh90MUg5F328Dy1ps9AKOl0_YgzN-wVCUvurZmQ-vZIHEPORRFUOZnlPC8QeKied2tLO0bSv_E1CyyApfPRHkAHZurVXEalE_PE-9vEqZLeyg')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/8e83f1cd55.mp4?token=iJuVxZoSEa4YNGlHff72ba9yEOONpUzok76DcjV9nV6e586N9ZxAlx8G9-Q2Jdzf_4Pb8uGAhVZVRYKAesjJ_SFMvFloQbrNk2-oDFOQM7j84bKpsUcpmuyUlliJHlARWm6IIm26WaE3jHexlmn0UptudaJHvSst_kWGc7SVT04aVp8eFJRlkEVFWI03ZWwqfOpcM4D5E_9eMHsu9JkIQqZ8AaBafD9e3efhqs-Rm0-iWx27G7gcsmfxot5Wn_tTq3nNqAPgpq9ttSWzSbBYcNL8Gqq5ehyfS4E3Exoj0rK4bZQQyydDTxKkNWBEk6t4NH0XC53WAM18jumrKfhCug" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/8e83f1cd55.mp4?token=iJuVxZoSEa4YNGlHff72ba9yEOONpUzok76DcjV9nV6e586N9ZxAlx8G9-Q2Jdzf_4Pb8uGAhVZVRYKAesjJ_SFMvFloQbrNk2-oDFOQM7j84bKpsUcpmuyUlliJHlARWm6IIm26WaE3jHexlmn0UptudaJHvSst_kWGc7SVT04aVp8eFJRlkEVFWI03ZWwqfOpcM4D5E_9eMHsu9JkIQqZ8AaBafD9e3efhqs-Rm0-iWx27G7gcsmfxot5Wn_tTq3nNqAPgpq9ttSWzSbBYcNL8Gqq5ehyfS4E3Exoj0rK4bZQQyydDTxKkNWBEk6t4NH0XC53WAM18jumrKfhCug" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:32</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Новички в Excel часто спрашивают: «<i>Как посчитать цену товаров или услуг со скидкой</i>?»&nbsp;<br/><br/>Всё просто <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">22.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1344"><time datetime="2023-04-11T08:01:47+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1349" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1MSwidCI6MTY4MzM2MTYyNywiaCI6IjE5NzgzNTI1MTBhYzgzMzYyMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_document_wrap" href="https://t.me/excelhackru/1349">
+  <div class="tgme_widget_message_document_icon accent_bg"></div>
+  <div class="tgme_widget_message_document">
+    <div class="tgme_widget_message_document_title accent_color" dir="auto">Semeinyi-Budzhet-ExcelHack.xlsx</div>
+    <div class="tgme_widget_message_document_extra" dir="auto">36.1 KB</div>
+  </div>
+</a>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">19.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1349"><time datetime="2023-04-18T07:35:36+00:00" class="time">07:35</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1350" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1MSwidCI6MTY4MzM2MTYyNywiaCI6IjE5NzgzNTI1MTBhYzgzMzYyMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_document_wrap" href="https://t.me/excelhackru/1350">
+  <div class="tgme_widget_message_document_icon accent_bg"></div>
+  <div class="tgme_widget_message_document">
+    <div class="tgme_widget_message_document_title accent_color" dir="auto">Image.png</div>
+    <div class="tgme_widget_message_document_extra" dir="auto">3.61 KB</div>
+  </div>
+</a>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">19.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1350"><time datetime="2023-04-18T07:35:36+00:00" class="time">07:35</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1351" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1MSwidCI6MTY4MzM2MTYyNywiaCI6IjE5NzgzNTI1MTBhYzgzMzYyMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_document_wrap" href="https://t.me/excelhackru/1351">
+  <div class="tgme_widget_message_document_icon accent_bg"></div>
+  <div class="tgme_widget_message_document">
+    <div class="tgme_widget_message_document_title accent_color" dir="auto">Video.flv</div>
+    <div class="tgme_widget_message_document_extra" dir="auto">36.1 KB</div>
+  </div>
+</a>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">19.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1351"><time datetime="2023-04-18T07:35:36+00:00" class="time">07:35</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1352" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1MiwidCI6MTY4MzM2MTYyNywiaCI6ImY4ZTdkNDU5ZTQxZWMyZDNlMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player not_supported js-message_video_player" href="https://t.me/excelhackru/1352"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/kaJNSzHECKaMFe9GVSvQ4U2Tf7zewai4XqQZDe0FPX4j3S3rufulDwmULFQDpgC5Su6ygzfvI04CsBS2qXOjuaLD4h_MaeYaenvzLlH6F_W1AGnxHT_HEU1fz_JbS7j3q8Dpc6eP79UiBq-K0EfTHeper6cty3kcuC3jRoAEvTjuhIYiuUij7OrPH57Y-QdqBKi3Jmv9AbnDhwsfvuO7oYy-7v3P1haByuzZoZlXX0qLXbu3UfegMCySCV_Y-Bmbt__yXGkRc3htGgDISmbmLcuFZLGuZ_3dc6ve8mEtjt3v-uLDWLV05lAXXCJAJEY2l_6rEjTDvRxHp3P-WnSx3A')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:39</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Media is too big</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Если у вас есть две версии одной и той же таблицы, то на ручной поиск отличий в значениях между ними может уйти вечность.<br/><br/>Сравнить на отличия две таблицы можно так <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">17.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1352"><time datetime="2023-04-19T08:02:11+00:00" class="time">08:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1354" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1NCwidCI6MTY4MzM2MTYyNywiaCI6IjI2MWVlYmM5MjlmMjM0NjU3ZCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<div class="tgme_widget_message_poll js-poll">
+  <div class="tgme_widget_message_poll_question">Вы пользуетесь Excel или альтернативами этой программе? (например, Libre Office, Google Таблицы, Яндекс Документы, Мой офис)</div>
+  <div class="tgme_widget_message_poll_type">Anonymous Poll</div>
+  <a class="tgme_widget_message_poll_options" href="https://t.me/excelhackru/1354">  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">75%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Использую только Excel</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:100%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">24%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Excel и альтернативы</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:31.4748%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">2%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Только альтернативы</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:2.3981%"></div>
+    </div>
+  </div></a>
+</div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_voters">2.2K</span><span class="copyonly"> voters</span><span class="tgme_widget_message_views">15.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1354"><time datetime="2023-04-20T17:50:27+00:00" class="time">17:50</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1355" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1NSwidCI6MTY4MzM2MTYyNywiaCI6ImRkN2MxODMzMjVjMjZiZTYzYiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<div class="tgme_widget_message_poll js-poll multiple">
+  <div class="tgme_widget_message_poll_question">Если пользуетесь альтернативными Excel программами, то какими?</div>
+  <div class="tgme_widget_message_poll_type">Anonymous Poll</div>
+  <a class="tgme_widget_message_poll_options" href="https://t.me/excelhackru/1355">  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">70%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Google Таблицы</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:100%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">9%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Яндекс Документы</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:12.3789%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">3%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">P7 Офис</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:4.0904%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">7%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Мой Офис</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:10.6566%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">10%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Open Office</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:13.7783%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">13%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Libre Office</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:18.9451%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">0%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Zoho Office</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:0.6459%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">11%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">WPS Office</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:16.3617%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">3%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Numbers</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:4.8439%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">2%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Calc</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:3.4446%"></div>
+    </div>
+  </div></a>
+</div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_voters">1.3K</span><span class="copyonly"> voters</span><span class="tgme_widget_message_views">18.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/excelhackru/1355"><time datetime="2023-04-20T17:52:32+00:00" class="time">17:52</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1356" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1NiwidCI6MTY4MzM2MTYyNywiaCI6Ijc2MDQ4YmE1NDVmZDI3ZTljZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1356"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/pKm5yHsAfk3XNErzMfBHCJZnIM7P0B1HccMs9ugqbLqVYJ5yU0h--zRzd1AeE_cUtf59rzEga4dQCx5yYbNHUDcqEi-5cjQqJ4z9NYMuLJ8y4Tyj6b1D8ICDBpqK8-iY_B9Kv4HSInFA5cZ4W9d29L73tTyHwiYaEg4dZIu7w9CTykMZi6U4SKWDmhI75c_Vg-DWtYHDAkXdVmxXMVBAB-wLUjR1wPQwY0-sE9xUl04sCTu7xSfvmGOTVPjkMBgxrWYWFIKiwP4FrLY3YGCCWNp2RVj-BtzQQAOeN7tPJQkvSdqiIxzcO4HkH_PvU-vd6oxcMdBk8oy9IAFdijXnIg')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/7771255e2a.mp4?token=EdU2veeV3fvY8NF4Lx-rAxCJzzqboyQj4z-xMDQ67tJuSYEZ-dnt_nNZ2JHIdZVEffZvva2E7lTQ3d7MTOpBqJkNlrKwH788Nb8IYNqgeiPtU7kjVaRU-JgLG4li74gMlkC5OrmPyetS7xNRrHGmSe3Z0qCTS5avyNplpDhD61e262u5LJIOWfRATjG0ynBV1fpjKKMGVdjAc6emwIvSipZTdsC3CA4lBHnKkBKhpkUhcDKVc9LW4de1m84eAzAplTz-rk15BX3cd3TKfLGxEubC59zq9x-OYvBB5mGpd9lHHweZSMRah25dTXBMiszj--ms2aAwLF31Qx9Gr6WE8i5EQT4x7qofiellqsyvHIO851_Y0-_xf75RlwL-VZuP-uN9udiumHOyIwycQcER6AHsogiKpQujnN7FLHtsXBSIjBmtgzs491hFteJj0q_YL2liljNuLWYCACECRPDRFQOCmDeG5Yxzh_CRyBxJJmjKDGlu25JBkLP1p3ShgKF2iCxqNGY8FQTNhy8zEgI3i21w1ol4Nzct-YKQGviPPilJssBpve-ijYA7yvlrs6Q5Az4vew82XFWiH8icXUrn3Z-oLpo1CEbhydu4oHFRyHFtxoSm2_OSmiqceqZH_emE2JkvxsDIRI5wq3s89-bL_pexi5SJ2tBou-9p4xAg57g" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/7771255e2a.mp4?token=EdU2veeV3fvY8NF4Lx-rAxCJzzqboyQj4z-xMDQ67tJuSYEZ-dnt_nNZ2JHIdZVEffZvva2E7lTQ3d7MTOpBqJkNlrKwH788Nb8IYNqgeiPtU7kjVaRU-JgLG4li74gMlkC5OrmPyetS7xNRrHGmSe3Z0qCTS5avyNplpDhD61e262u5LJIOWfRATjG0ynBV1fpjKKMGVdjAc6emwIvSipZTdsC3CA4lBHnKkBKhpkUhcDKVc9LW4de1m84eAzAplTz-rk15BX3cd3TKfLGxEubC59zq9x-OYvBB5mGpd9lHHweZSMRah25dTXBMiszj--ms2aAwLF31Qx9Gr6WE8i5EQT4x7qofiellqsyvHIO851_Y0-_xf75RlwL-VZuP-uN9udiumHOyIwycQcER6AHsogiKpQujnN7FLHtsXBSIjBmtgzs491hFteJj0q_YL2liljNuLWYCACECRPDRFQOCmDeG5Yxzh_CRyBxJJmjKDGlu25JBkLP1p3ShgKF2iCxqNGY8FQTNhy8zEgI3i21w1ol4Nzct-YKQGviPPilJssBpve-ijYA7yvlrs6Q5Az4vew82XFWiH8icXUrn3Z-oLpo1CEbhydu4oHFRyHFtxoSm2_OSmiqceqZH_emE2JkvxsDIRI5wq3s89-bL_pexi5SJ2tBou-9p4xAg57g" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:19</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Если вы к числам применили процентный формат и они увеличились в 100 раз - не спешите их исправлять вручную&#33; <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">18.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1356"><time datetime="2023-04-23T08:01:54+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1358" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM1OCwidCI6MTY4MzM2MTYyNywiaCI6IjJkZjVjNDdiOGVkOTA4MjRhNiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1358"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/pW8Cw8qUDXO3EX37fs-8ztdrq1nJeWOxbvjrVvQSuoKaveirHolmV6m3MkAkfuVoRQKkhPVtz6sRFowxGbAkEcqMqfJS9uTqhXx7IvwaQYtzXG0e1nNbJMgq0sy4k1KnCXd1z-pf6moMdU2j22zMq2ZhXo1JPb9EkRbdFWLzrwp5nYfpDsXJzlM_l-pS4wAsJL2bKJl74GWp9Dx0ZqVGu1hqmRUPGnxDdfpN9CaTTDXVcz1OJWxnuzhtEaCQ9n1fbv7JgFpJ4kQg0xaAz6GLbcOarBeVk5YWxJA8XNZnOS49tPpoprW2JPhovBy9qWGkLHuTnfptVGen0Trvaeznqg')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/d91e0d35ac.mp4?token=KMs806s4Jjn0JWGFDT8dQ2aFC_Yv21XE1hDau0qCEbzj3Bu1BbIjyoG1qu8sS9Bra2EjyaWOmaXyYO9saPA8H9KytZvxFO-2b4eov-X2xsYyUnDVxhvFm0SkhAo156-as1-CqjQxu-ikTtHqB38xlPOjUQxPwgjCyBZejz66AveI36x3fw42CBP8O9SYCthCzj4QU_Ds-b_uTY8Zso2_pHuqWcjHI5XNi-e1DVtQdZDu4fAGv1KXqAgQWWQfDECOtz_XupiBYgsYwlfhbGstrV3FO-S1qDJcst2cF6M3S_vzqPkQjiPn8HqVFdLg6ndkc5qBDGuV7QSS1XKl0hgWmV6QWLU3ngFJ2bJrfBgiHL3Wp-dcb-YOm9CX80KtVWOOdAwh39dkai_GJdJlAXmfnPnDE2Ib8khAjf9d4j1venpNceTp6vzFqiLR8Nwpe2bjR5cqUMNVl8cV1JaixoztaTEy65gRmaflZqnSnTmkc-Yq6LdI1yfwr9xwdDVpd4FTdc0Z-4eJ66JfKYpTYK-y33CS6kQ4XZnQtnXZdl0ZH7L1dm5ZQbUm41vaB_4eD4hYjLscdlGtGg8krxjC-a9L191laD9NrltuYOfRl55yovaMkbOf6IGvlWwqGPn0ddI5nh2IshJQrpjIuKBWB3i45A_BXJCRbyH1yYGzyD1SbMY" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/d91e0d35ac.mp4?token=KMs806s4Jjn0JWGFDT8dQ2aFC_Yv21XE1hDau0qCEbzj3Bu1BbIjyoG1qu8sS9Bra2EjyaWOmaXyYO9saPA8H9KytZvxFO-2b4eov-X2xsYyUnDVxhvFm0SkhAo156-as1-CqjQxu-ikTtHqB38xlPOjUQxPwgjCyBZejz66AveI36x3fw42CBP8O9SYCthCzj4QU_Ds-b_uTY8Zso2_pHuqWcjHI5XNi-e1DVtQdZDu4fAGv1KXqAgQWWQfDECOtz_XupiBYgsYwlfhbGstrV3FO-S1qDJcst2cF6M3S_vzqPkQjiPn8HqVFdLg6ndkc5qBDGuV7QSS1XKl0hgWmV6QWLU3ngFJ2bJrfBgiHL3Wp-dcb-YOm9CX80KtVWOOdAwh39dkai_GJdJlAXmfnPnDE2Ib8khAjf9d4j1venpNceTp6vzFqiLR8Nwpe2bjR5cqUMNVl8cV1JaixoztaTEy65gRmaflZqnSnTmkc-Yq6LdI1yfwr9xwdDVpd4FTdc0Z-4eJ66JfKYpTYK-y33CS6kQ4XZnQtnXZdl0ZH7L1dm5ZQbUm41vaB_4eD4hYjLscdlGtGg8krxjC-a9L191laD9NrltuYOfRl55yovaMkbOf6IGvlWwqGPn0ddI5nh2IshJQrpjIuKBWB3i45A_BXJCRbyH1yYGzyD1SbMY" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:20</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Вам прислали отчет в перевернутом виде? Исправить это можно в пару кликов <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">17.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1358"><time datetime="2023-04-25T08:02:02+00:00" class="time">08:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1361" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM2MSwidCI6MTY4MzM2MTYyNywiaCI6IjQ0Y2M3ZGI5YTYzMDdlY2UyMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/excelhackru/1361"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/GVDqmYSlK7zgn2xF7il1CCjIfi0wU6w-mfrtRHfrr_1akl7ZpjBrSoBYgMmycBOo9bBoG3_SfBIA6bRAMmT4fFQwHapFKBw27Wwiv1f7ZQfTC-0FDpo3BL-5TKL-DHt-a_1q_Dl8A2fPyCP3wN_njRn0FLD8OvrhsF1wq_P75Cefyvf47FWMoN3_Ym9ILBOoDG_Ofe1KHqwV21XSyuwl98whFcIjeBoJmbMEDYOZ1Qyojyf0-6jyCInVIQJ1DH_kBId11xvRjiJw8-Ys5kBHDF8eNkWN4OAq0PtWn2z-QuQx0eENzfyTRoBbW9vEamqgNQOazoHPFVz4i6Nj8OwR4g')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/dcabe0357e.mp4?token=DDkyHEfbQLuJbIlvjWVNQn2Ijj1N3wMQ1dIh3s1ElQegyRIpnOUQC0WKjGqPsl4Yd5AiRscN3OEJGL63Y_i-nw5LaZGQYKHXLegpfrSijNCvgR3Ia5VNqaO41F9aFVEd1eXqFBzdFJpal2KrUkuyeC0cjkE5BFWGF1a44xAHl3qe_Eje6ZuzyCPjrK2AMQjOkQnM1yPrNG0GsPyDqXO3j8m3ts_NFjugpF3nd3KvyM6ucFXjxDGHJgGJoWQdTE_LV825Y92eSjZuUx7KJc8KqfjghcrUg-iY1SVZlvxIxZ9IIvoMKuv3SWfrPA_4gb6wcv-eioNF5wWIIeabjCdp9Q" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/dcabe0357e.mp4?token=DDkyHEfbQLuJbIlvjWVNQn2Ijj1N3wMQ1dIh3s1ElQegyRIpnOUQC0WKjGqPsl4Yd5AiRscN3OEJGL63Y_i-nw5LaZGQYKHXLegpfrSijNCvgR3Ia5VNqaO41F9aFVEd1eXqFBzdFJpal2KrUkuyeC0cjkE5BFWGF1a44xAHl3qe_Eje6ZuzyCPjrK2AMQjOkQnM1yPrNG0GsPyDqXO3j8m3ts_NFjugpF3nd3KvyM6ucFXjxDGHJgGJoWQdTE_LV825Y92eSjZuUx7KJc8KqfjghcrUg-iY1SVZlvxIxZ9IIvoMKuv3SWfrPA_4gb6wcv-eioNF5wWIIeabjCdp9Q" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:25</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Надеемся, что при заполнении таблицы одинаковыми значениями вы не делаете это вручную для каждой ячейки <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F989C.png')"><b>😜</b></i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">12.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1361"><time datetime="2023-04-30T08:01:47+00:00" class="time">08:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="excelhackru/1363" data-view="eyJjIjotMTE0NjU5NDQzMywicCI6MTM2MywidCI6MTY4MzM2MTYyNywiaCI6IjYzMGYxZjE0OWRkZjM0Njg2NyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/excelhackru"><i class="tgme_widget_message_user_photo bgcolor5" data-content="Э"><img src="https://cdn4.telegram-cdn.org/file/BWSgQFqMNQao4BYQWF2Zk5dSs7ifwqeMguYGuIyK8-UGJppzrdWd3vfV6LFHmGN7WncDpxFoktLZEE3yLFTTxi5FLnR67-a_8MEo4VihRg9rxQM5gt-33M3a72SZtDCkXFBH2jhtY5GWk_O21w1bWSLNZRxHt0cqER9Syvv_wS-zKSRVXdlMMowxluWO6DwOpboif7U35XYWqc26g6j1ALpdVAn0sSUCj8zPH0b5t90lZAdbCaBpsGblVyLgFZjVdTUJ2i7XBNaQOKKZ8OBztuwG48A_EGFah_PqcObjsmVmZ_4d41z6YcyUS-arKpR0clE-Q8NXeBrJBRThVZ5ODw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/excelhackru"><span dir="auto">ЭКСЕЛЬ ХАК</span></a></div>
+
+
+<a class="tgme_widget_message_video_player not_supported js-message_video_player" href="https://t.me/excelhackru/1363"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/TJe4tHkCpvBAVGoD6OhRVlzb4jWlBE9s2FUjudA4MuuwOE2ohvSeeckViXE3PLWutlVw6mHXNpe3tlB9Iz2EPzih9a_6uuIrtVepknsmmSy_zbagECUgRAts1VDCRmJV__9-UJ3t3tF8z1cC6kIMARMPAsiDWojSgDBmNv9aStfWi8pA9goL0fPaWcpvUgW3duqMbuGYRfd803-a5npG4_L-YDkh_E2QtuBYJZ4M6oahtV_VxFTlldeXvu9_0vIctMFRz7-XtfMO6z826f256irn6H1Gw6YY2nYkz5QlhBUHmksonVYei10Qcr-gwauM0FHCJx24Amk4CbC1MYEWyg')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:133.33333333333%">
+  
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:47</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Media is too big</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>99%</b> пользователей не знает этот способ замены формул на значения. А вы знали?</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/excelhackru/1363"><time datetime="2023-05-02T08:02:13+00:00" class="time">08:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div>
+    </section>
+  </div>
+</main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//telegram.org/js/tgsticker.js?31"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?62"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init();
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 180.99ms -->

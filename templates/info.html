@@ -1,0 +1,10 @@
+{{define "content"}}
+	<form class="form">
+		{{with .Fields}}
+			{{template "form.html" .}}
+		{{end}}
+		<div class="buttons">
+			<input type="submit" value="{{.Submit}}" class="button" />
+		</div>
+	</form>
+{{end}}

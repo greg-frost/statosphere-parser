@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Журнал «Код» – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible"
+     content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    
+<meta property="og:title" content="Журнал «Код»">
+<meta property="og:image" content="https://cdn4.telegram-cdn.org/file/H98LzHZAbQDF5lbC8axN7Nj4uEnNh-qc7Q7SS9OnNj4BsuURw5MTVbukVc5qEVsfMO7rmaF8oQu9a65oZA_rIOqy6TJX9CEOcOxC4nVm94OCYRXcjl6Y0-jtY0pKnRsW_YJklvrB78H_Pt7Fx5WhBzh34ou4oy7xU67Y9BV736JYlRBI4G1CLpwPBTFYXaOJdxaZQevNJ3pcACFclbqFH4us5shHHdMc_Bz42I_kHV0gWtgHBl7D9U9LBurpDunhGDVBoTvDo0d1vmn-nB7swnrfNkLocmoA2UJ41wnPzG9KeyKeYC3fdGsZiinzYzgGT3ichv82TrOPX5gGE7qmNA.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="Статьи о том, как взломать жизненные проблемы с помощью технологий.
+
+Сайт: https://thecode.media">
+
+<meta property="twitter:title" content="Журнал «Код»">
+<meta property="twitter:image" content="https://cdn4.telegram-cdn.org/file/H98LzHZAbQDF5lbC8axN7Nj4uEnNh-qc7Q7SS9OnNj4BsuURw5MTVbukVc5qEVsfMO7rmaF8oQu9a65oZA_rIOqy6TJX9CEOcOxC4nVm94OCYRXcjl6Y0-jtY0pKnRsW_YJklvrB78H_Pt7Fx5WhBzh34ou4oy7xU67Y9BV736JYlRBI4G1CLpwPBTFYXaOJdxaZQevNJ3pcACFclbqFH4us5shHHdMc_Bz42I_kHV0gWtgHBl7D9U9LBurpDunhGDVBoTvDo0d1vmn-nB7swnrfNkLocmoA2UJ41wnPzG9KeyKeYC3fdGsZiinzYzgGT3ichv82TrOPX5gGE7qmNA.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=thecodemedia">
+
+<meta property="al:android:url" content="tg://resolve?domain=thecodemedia">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="Статьи о том, как взломать жизненные проблемы с помощью технологий.
+
+Сайт: https://thecode.media
+">
+
+    <link rel="prev" href="/s/thecodemedia?before=7124">
+<link rel="canonical" href="/s/thecodemedia?before=7149">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="//telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?66" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?37" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/s/thecodemedia">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value="" />
+        <a href="/s/thecodemedia" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor3" data-content="ЖК"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto">Журнал «Код»</span></div>
+              <div class="tgme_channel_info_header_labels"><i class="verified-icon"> ✔</i></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://t.me/thecodemedia">@thecodemedia</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">63.3K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">4.9K</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">295</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">3.74K</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">Статьи о том, как взломать жизненные проблемы с помощью технологий.<br/><br/>Сайт: <a href="https://thecode.media/" target="_blank" rel="noopener">https://thecode.media</a></div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=2e327ad94bc8bd1d77_12745991957405254043">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=2e327ad94bc8bd1d77_12745991957405254043">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://t.me/thecodemedia">
+        <i class="tgme_page_photo_image bgcolor3" data-content="ЖК"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto">Журнал «Код»</span></div>
+          <div class="tgme_header_labels"><i class="verified-icon"> ✔</i></div>
+        </div>
+        <div class="tgme_header_counter">63.3K subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/thecodemedia">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/thecodemedia?before=7124" class="tme_messages_more js-messages_more" data-before="7124"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7124" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6IjcxMjRnIiwidCI6MTY4MjkzMzA0MiwiaCI6IjQ0OTI3ODM5Zjk1MTY2MDVhNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+  <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:166.446%">
+    <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:754px">
+      <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:0px;width:224px;height:281px;margin-right:2px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/s5jtkLUKKcfbLBfOrbSu4YJDHvt_mLbFT3T6cvpd3L5WB-cXLqVBVhHhz4OjLm9G3HolyxO3BbHLAchVe7u_qwgRhvpRifQDCwPY2lom6YgZWto7kJK3DsLL8ZUfWQUMSH6vr6utNi3nYemmdMc7JNe2AcCCJ3xgL8sIurhebnedbOuKAAceE7zd6W0Azj0Zy3LEx87cQu6hY6nk7MRxEfReYgDU1dWxt15OnZH1V-cBjlk0GW7xE7EC-xOg-_LVqm-iYrTWONmZootj0CnC7o_1KYBY3C1gYNwTqyE85b41qGl0O-aoSOYIr1Rum-EzbKBlcl6Sx5apqSs-InGhjg.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7124?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-1px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:226px;top:0px;width:227px;height:281px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/jbSikx4lOXSrf1yZeDKTc8IFxLMWQvmL0yhOoGDcmCvdhp5aiPNkjTbX6zwd2JJd4vhzGxa-nqYlwui7cZxyY04MBPeGM_bf3D3r_0KGbedeNO7dZKQt1WcUzrG4joWfi4ebI1JfvMNsPyzpZqW4tts9MsoiiLg6BJp4GOiTTaP2atHlSnuBB6ctGus4gnDgR5zGqIPT7ssI5mseC0rWd56NjqD9MQDphkMiBJTOYivjGvrRRFSB0MV_Ki-P1Ss1InrWdOOvrb2bAm8RW00O6xQKJCx_wILjq0E9LMGoygPX5qrncIDI3R_T6ujg119cksRV8U1DZfzP21LDCnYFMQ.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7125?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-2px;bottom:-1px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:283px;width:224px;height:281px;margin-right:2px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/Vq4_MgNT-bOZ61K1xEoH0IMHdcyR_kVFFk1z_wZdCztV9bWYOCh6YhLYbleD-yX7aYEFxWg3RaslrciUcJMsMLN27yerq4vwPhoG9TN_ggfrjJZnR6hIgbBbxiOdE9bKFaDTq_Xvj1DuMQar1kenbKcK3dmcHCWEFCJJjr5RiPRM87mRtqmPYoUCWCONixqitFE8o0CZJJxk7KBDqpiwPo4ZpvB8VEgfQVN8tcxzJkZk58JYohlO7sWg1C2ZtkGRL0EBkrMzX0NGNX5ftQ7x-QIYSN5lwh8t2mIoWnRT7vI3NApoA2dFbfYYqGvyg8ExR77lot98oVBO-03x63fn4Q.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7126?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-1px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:226px;top:283px;width:227px;height:281px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/uunYYVyYn724p9qOkCD4xEu5uerMCD6-qWnHoUuZyhYnDkupTB_6QFlYmq7-Y4W9kB7lwfa9gMGKLm255ExWS-yAfggUYgfRq3jsOPpiV9ha1rBNerGiLgJBLmdMo6PuMN9Xp6lvK2_ThVJCnzV0dhiSEe84dU32ZjpbtGThkFSePznYNUJfI8tpP3kGm18vSmRPP5oR09ntChUHILdYBnKOSiz3Q-ylA_lbUNIo0WA9LOO2t1htux7ubIyXgogJhXLorslsIx7X7LXScTBViK69KIaWpq7amSfRApWTjdZ29oDbm3tCFjJfgdBsJVXMb_59F_iH4EvtRdIxNJ67LA.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7127?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-2px;bottom:-1px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:566px;width:150px;height:188px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/UPfdt89SF00VHAx6LkeNH3EWJ_kDsEQJXtCwnGG0RSSqbmZfj58rwV1Kvr4KFrneIwKJ3ffR34kW33BWRvtt2bi7ZbkugiPmJyo4NLqAulZsaWuG2-v2Carj1DpQc9Oc-PdujJPCtXMKYK6AFsNr40DHmT9NKrt-11eRlHqbu4negB25LwZ_pfwu74imIMteW2hjvqhd-Byzj_xS6X_UMl_X_lzftan-t9I7nrWfKLgK402k8gE92xR4PNo0vniWzxR-BJhJjSjxMDF03dXwN4kM5doicbUBtES24jZ5N-kyvYZ8lkw-pOK1PTak52I8zs-ODeZnLw3Xt_kGCQ38og.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7128?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-1px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:152px;top:566px;width:150px;height:188px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/W3qoagkWo4xRXno8wDrdZEsG7PcTvMTVFi9gfEHH8h4n1evRXSbVUdmP-goUMdACsuF3v7YaUIRxpzSlKDULX-z3Vd0U3GGBtf_NGOwfYeZGnYGx89bB5R0BnfS2gZdy_OxA48qXQ53-P0AKNenompXORd2STWXKT7l6fna2NjesCg8mC1GQtch8a-jmvYm9SE-LeZCBbuG978zIqK0LWASpoKdHQyV_Wp7kqIx0Qz5Te2ObSA89-RtN8WjwVApVksJ6Xfv3dXw8F_wwFZN3RCot0LPXEyJk2yQjGxSB3xQaO5vCm5CgkF2mJH4h45NFHqQILPd8pTALRBWBdc7Lvg.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7129?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-1px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:304px;top:566px;width:149px;height:188px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/kqN2cYaYT0ynJ9VxAX5ztxX4-BOLFRL38X4TbwncN2o3pX3lIHZURg65HwyRWvS1fmcAHqheWwVjFn6Z-XYx8OH3hq5FcBvD6Q7ngcA8UpbKtSCMqRankSJiNgJp0hCMYJYlO__by7MJUmC4yFdamBXmfk3-AbYV-V1bD3d7V6sAmE4NyB77FtzhmCDWrEGc0yid5G3dshz7vzh4XSCg3_0VW8ylcAmKKf9FWpS_0lDwlklwtsPUBD75CjE8hEk0IS-oeoSu8taKsi3uCGWlGX9XtsCyT39NN6fAaGbzHaJlhowi5thOnlwHSajPpihF_SsdIc4Y0qILR2RcVe5xlg.jpg')" data-ratio="0.8" href="https://t.me/thecodemedia/7130?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:94px;bottom:94px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-1px;right:-1px;"></div>
+  </div>
+</a>
+    </div>
+  </div>
+</div>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><div class="tgme_widget_message_text js-message_text" dir="auto">Тут старт 58 потоков, но мы хотим донести суть. Вот скидка 5% на курсы Практикума. Если хотели изучать управление или разработку, забегайте: <a href="https://v.thecode.media/7qfh4" target="_blank" rel="noopener">https://v.thecode.media/7qfh4</a></div></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7124"><time datetime="2023-04-27T09:02:46+00:00" class="time">09:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7131" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzMSwidCI6MTY4MjkzMzA0MiwiaCI6IjE0OGVjMGVmZDJjZjZmOGYyOCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Айфон и альтсторы: обсудим<br/><br/>Евросоюз давит на Apple, чтобы та открыла доступ к айфону для любых приложений. Для этого Apple должна начать поддерживать альтсторы — альтернативные магазины приложений.<br/><br/>В Минцифры России предложили делать то же самое. Как вам идея? Какие видите подводные камни? Сейчас ещё голосование запустим:</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7131"><time datetime="2023-04-27T11:01:12+00:00" class="time">11:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7132" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzMiwidCI6MTY4MjkzMzA0MiwiaCI6IjViMDYzYTk0MGI4OGRhZjA5MCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<div class="tgme_widget_message_poll js-poll">
+  <div class="tgme_widget_message_poll_question">Должен ли айфон стать открытым и поддерживать альтсторы?</div>
+  <div class="tgme_widget_message_poll_type">Anonymous Poll</div>
+  <a class="tgme_widget_message_poll_options" href="https://t.me/thecodemedia/7132">  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">34%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Да, пусть на него ставятся вообще любые приложения</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:100%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">13%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Да, но пусть будет только национальный проверенный стор, а не любые приложения</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:38.1526%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">33%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Нет, ценность айфона — в закрытости экосистемы Apple и в высоком качестве приложений</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:95.9839%"></div>
+    </div>
+  </div>  <div class="tgme_widget_message_poll_option">
+    <div class="tgme_widget_message_poll_option_percent">19%</div>
+    <div class="tgme_widget_message_poll_option_value">
+      <div class="tgme_widget_message_poll_option_text">Разговор лишён смысла, потому что Apple не продаёт айфоны в России официально</div>
+      <div class="tgme_widget_message_poll_option_bar accent_bg" style="width:56.2249%"></div>
+    </div>
+  </div></a>
+</div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_voters">1.4K</span><span class="copyonly"> voters</span><span class="tgme_widget_message_views">6.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7132"><time datetime="2023-04-27T11:01:12+00:00" class="time">11:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7133" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzMywidCI6MTY4MjkzMzA0MiwiaCI6IjU1NTg5MDhhOTVjNGI5YjhkNiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5357499333123099677 1247390018_456248349" href="https://t.me/thecodemedia/7133" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/MmMHWhmpaNtwhsRFoUfUVjaqcjG3G_Ops3hZnMHzmzrI0KbvbGe6m1vhaH0L-ESluRbU59DLW769pZSgfwPG7j5y0Gq7awZ1n1raMPSe7FBO7rPjQJSGRpT_tqzlyXkJNy27P-8WvEnPqTQn2VbKD8Gksu6EhoPO30dsIjaaEz5OIvTLpG2A64YAtN0k1RiEMVuQmNUN5mEB174mXnU52UnzGewDnJArO1MPK6hLCChYS9um4YWsqHssf9ke7xqdbJA28v3Q5NE7UP-e1ASSIHO_Iu_121fojderIl_QFyYtRYhWM44k21aMWOMvOrJ0Fcxo5n1aNHIb1FUw-C8uMQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Статья про указатели мыши в вебе и на компьютере вообще: как ими управлять, как менять, как делать нормально. Для тех, кто хочет делать крутые штуки в вебе.<br/><br/><a href="https://v.thecode.media/c2gh4" target="_blank" rel="noopener">https://v.thecode.media/c2gh4</a><br/><br/><a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81_%D0%9A%D0%BE%D0%B4">#вопрос_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7133"><time datetime="2023-04-27T14:30:23+00:00" class="time">14:30</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7134" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzNCwidCI6MTY4MjkzMzA0MiwiaCI6IjU5MWM4OTY0NGYyNDQ2ODZiNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5357499333123099678 1247390018_456248350" href="https://t.me/thecodemedia/7134" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/kbUP4gsIwoB8H7fQj4D5KPjyccEgY_uxlP2JzX-maCRbRTP3xCELkLyoPOVGAK5hnyPWhSyM5Fk-kZxQOfyC3Q8kwKKREO1ljpprLBkOs2dtdTOBCGMaBmA9u0cxMYUI1gSbp3c3y9YzVTXNJ6ZB2GKB37DaSVDPhGSEnQ16cKYzNEa1v4x9dE5T1CfCU4p_kzU04dCiU2SrtUBbPaFFdhej0_qJy1PARluVgeZvdxcxsMNVKkmvCCoWdaFocrnB_tok0gTn3F8_Fwi-FvtzgnGPX_F0JtHYcxTTxaAK6Y9vPKF69egeOfzaOpLew_SOpj4GMUrbJ_oSfpLSHTan2Q.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:70%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Гуманитарные вопросы про технологии и ИТ<br/><br/></b>Устали от снобских взглядов технарей? Надоело, что от ваших вопросов закатывают глаза? Задайте ваши вопросы в нашем сейфспейсе, и мы постараемся ответить без снобизма.<br/><br/>Не стесняйтесь задавать вопросы любой степени сложности, наивности, глупости и вообще. Всё анонимно: <a href="https://forms.gle/yAXmUB6r5WGBx7Lu9" target="_blank" rel="noopener">https://forms.gle/yAXmUB6r5WGBx7Lu9</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7134"><time datetime="2023-04-28T07:02:51+00:00" class="time">07:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7135" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzNSwidCI6MTY4MjkzMzA0MiwiaCI6ImI0MzFkZjZlYWJmNWY4ZGQyMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">— Прилетел комарик,<br/>Присосался клещ.<br/>Отдых на природе —<br/>Чумовая вещь…<br/><br/>— Хватит причитать, <a href="https://v.thecode.media/ge5a6" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">намажься гелем из целлюлозы&#33;<br/><br/></a><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%BE%D0%B4">#новости_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7135"><time datetime="2023-04-28T10:01:09+00:00" class="time">10:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7136" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzNiwidCI6MTY4MjkzMzA0MiwiaCI6ImJmMGY4MjEyNDNmNzc0ODRhYSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5359380348410119238 1247827976_456246342" href="https://t.me/thecodemedia/7136" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/cmmYdOnam7eAgykJpnS-bf4SGJ1xBuhVgfXx3HwdIU7qOQaQVYqJy5dpSTGzjwjrfNkXUIex9GwsABNg98Ix3zv1QVGCOGeOzaQMiJY5NY_tCYH8wxkr_-SlM8fg1M4CfDzjOx8Pf2A6KbDv24JpV-gMmF_EZFIrIvpMqOUcNgNLxOXaI8Md78E4kFgLBwRopAbPF1ELLp_JmWcBBUJzGiLfKIT1wR3Hn2YcUvT-cw9TK-shVcfJPWk9W-1SSFsmuwjBMdgpQvDYpkuaQbOLFmY04f6V9-tZOnRUME77Ri-YjIbNi_JQv3BjZS5X8imtEKP5PZgsRUFcJFwCDQaOMQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Чтобы получить право на выходной, вы должны самостоятельно решить хотя бы два ребуса из предложенных. Приступайте.<br/><br/><a href="https://v.thecode.media/u9ykp" target="_blank" rel="noopener">https://v.thecode.media/u9ykp</a><br/><br/><a href="?q=%23%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%9A%D0%BE%D0%B4">#задача_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7136"><time datetime="2023-04-28T14:01:12+00:00" class="time">14:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7137" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzNywidCI6MTY4MjkzMzA0MiwiaCI6IjVjMGU1MjA1ODNhODRhYWE3YSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5352539981631049771 1246235329_456249387" href="https://t.me/thecodemedia/7137" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/YYbABK7z_Ka8rSVkNmTEs8AGqJOV1I3B1aps92vqE0n7J3Em4PCSRNs8soksdNvTLypoUEXz8kdHLPuVJecUuOlwPD08xH3dlLb39IJ9vCu-28dYVVe8Ls5pVkDvXlPO2p934gFVjNBjB-4FYr2vQVPqA_ebXIiAJAsDEWa1ReXi6P1y9leSMnRFpfPSXkjIIjdzJK2umOKKJhIeH2OsPcJIUygJFpZ68PANir25c58sjpoMkmfOnfYfIWKc_zbc3Fsf8tOLU46RorlavVxw5iH9BAV9rwPOwitrtWeI_tL5Xq8jBVBT0k1Mqntux5qrwnXimV5eFmA0EwQLc-Y9bA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:70%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Задачка, после которой вы полюбите факториал&#33;</b><br/><br/>Проклятая задача, зато вы на всю жизнь поймёте факториал и не будете им пользоваться с полным осознанием смысла этого знака.<br/><br/><a href="https://v.thecode.media/vjzsd" target="_blank" rel="noopener">https://v.thecode.media/vjzsd</a><br/><br/><a href="?q=%23%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5_%D0%9A%D0%BE%D0%B4">#лучшее_Код</a> <a href="?q=%23%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%9A%D0%BE%D0%B4">#задача_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7137"><time datetime="2023-04-29T07:00:50+00:00" class="time">07:00</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7138" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzOCwidCI6MTY4MjkzMzA0MiwiaCI6IjQ0YmJlZDUxNDM5ZTg4NTA5NCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5352539981631049778 1246235329_456249394" href="https://t.me/thecodemedia/7138" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/Z9mIVeaTuSPbqVIsSWZA_V0yQM_0ZEwbNB3Le6PsbBJLCNIqMd8tWUJMvXYcRsZtqLIn9Mdrmptwjasg4DQzNg_FRvJCYXDPGynuwAFi7bCzbHmD4Q-rncDv08iMDJPo9kLLMF76LxTsUBrjT6YY6HaAoHdg_jAOzI0F8g6nksLBgzxRV7GSFnu4Btt2dgxM-tmEsjDVUBEt7NpVZsRC-aGSL3N5nNdEPUhieSFTezGuzEgk4YuS_NujCjnjF7Jg-8SDqZJoRthLKVdV-fyASTNhegwqMmOnlr5UnMPtX9wxzxEhe0OZG_VwckCCw9TbSX4_il51AYiGcex5JiO-ZQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:70%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Что такое баг-баунти<br/><br/></b>Это когда компания платит деньги за то, чтобы ломали её программы и сервисы.<br/><br/><a href="https://v.thecode.media/jhbri" target="_blank" rel="noopener">https://v.thecode.media/jhbri</a><br/><br/><a href="?q=%23%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5_%D0%9A%D0%BE%D0%B4">#лучшее_Код</a> <a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81_%D0%9A%D0%BE%D0%B4">#вопрос_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7138"><time datetime="2023-04-30T07:02:14+00:00" class="time">07:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7139" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzEzOSwidCI6MTY4MjkzMzA0MiwiaCI6ImU5NmQ4OWI5YTRjZmNkOWMzMiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5359380348410119229 1247827976_456246333" href="https://t.me/thecodemedia/7139" style="width:737px;background-image:url('https://cdn4.telegram-cdn.org/file/jgfcQ-UoO0sR5xqqjdQRoyQYcNBS59jsJOkXyL7hKvHyUORen3W-3FiQ2HQSWG7vO_gU6ifT_5VfZcDUKWgbECxGVpsyG0WWAGy1EXLfbJXaaqx9SVn9DHyUqXvnbiKDxrghOixlZzUXOy8r6k6XaAMdeWufPY-8N9WU83I7YirjnHKhWhfx5EZgyGOgx1syCUtxzqdQNFFN8xJcqMHMqHBLssm7lYwhUIbJPCdgQYQM4hIVphmpiM0c-CIm5BypIN3ZAXskIDRsXWjZKqfl1M-53eJaIWv15JH5ASvmhO9yGrutGtF_x-eTVXlaHYzogCuMGnNsvoR6ER3se6Vasg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:108.54816824966%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Один разработчик создал <a href="https://v.thecode.media/97dvv" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">клавиатуру для всего тела,</a> чтобы разминка была не только полезной, но и продуктивной.<br/><br/><a href="?q=%23%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%B4%D1%83%D1%80%D0%BA%D0%B0_%D0%9A%D0%BE%D0%B4">#технодурка_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7139"><time datetime="2023-04-30T09:02:29+00:00" class="time">09:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7140" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6IjcxNDBnIiwidCI6MTY4MjkzMzA0MiwiaCI6ImIzNjEzY2QxNWMxNzBmNjRhYSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+  <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:116.556%">
+    <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:528px">
+      <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:0px;width:225px;height:225px;margin-right:2px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/EOJbXgx_eyWh0ICb-USjlFl_keXBx8z1r4RfZVAE_SIFYXRu296uskodGfELcPyILuMLbXC3bvwaQHWnfX66uq_J5-gBuYOaQjRN32Y-u54F9xCCXEe4Z5nnhLhzAALQKyawBSObPDSSZq2leHNCjGMXk1C4HLcoHC8xn3F7QjUjzchcIXnFYUcbp1KH6VPXtD2pLzoPost0madVzpnHYtWW4oPGWjPxpq29KWD5RPhHSEiZn3PCn2ZkUxXoB0HI6vtOUUJsW8QaJlMNKRS-YXBsqzuQJPUihHerHtUwq4cYOOdkiwOMEQm19bNOTIAtG6erdxXyMbJQjFwZg87w4Q.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7140?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:0px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:227px;top:0px;width:226px;height:225px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/Y9f7p0iyaOfojUlFEXB51LR_H7EUhdMjr5W6oZtSgFzFSLUCSovhbyezh9Rxy5wLKrrnpC9xAzJL7YWaECyAZPRKOpxe1VnbvtoACDBq0za_P33EwqtJ72NvK_3vMz2mMiwbGcavj_gr_ShoCpItXPqrN1_I3oKncPkJ0UtFiIbVjrwJHx9OP9GEoVSY5QEg-BnMgddkWwVaz-LvwsNgCGAsXxm_3hBuVgloxMHKgQKzIM1swYc_uSZzBzaGrOZuRFEuH7zY9v5XI8XvQvhiwBf_cj4KvxnohW_5pEckFnOE7NKjnUZI0_bp2YVVyRPLJei_ZlGhX_LmDzZ2ZM_QqA.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7141?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:227px;width:149px;height:149px;margin-right:2px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/ck87ZM2FhdhWs4qr_WOb5x9-LIi-yEzb4luokpKprozUn9o6ksmUqNM_wJUH45K-B3ecjY3qy7SA0tKEAnag-UluU8I7XCkE6AiBhdUoThH2weKZ1ngj1dC5M6SjMqBylPIQwDK9ZI3rvsqN3u6Q7ZMJ4_vpgZLn8ZCyig28SlyFz46202cFrRoozvqlALPeOhlIPWuBNHF33MqyV55d-BIdUCjFm72NFtAJmpy5fJCkSKnMz3_vCHjP-lVlanFU5mi3-uBR7fSlSlKzB7o8UD11_XvSuoXLN2q8X1LRz7in_aD5jpgelsOLcVcgtUFWtzZITGIOzIWwbqSBWzxbmQ.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7142?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:0px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:151px;top:227px;width:149px;height:149px;margin-right:2px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/jMtZAbZ9tcNaaxFbiCR1DEcVuExejuqM23At2z3VhEXUB86Lc4FzGHUz7a7lGQ98WMgf_R5TGi_vMxUYj3KQ5nifhioqB5imrCvft-Qi9sspqwFz1WE0kM1OYs78rRwCNDPKp2Ekro6ToDVFHTeu_WkwOmPSP6E3z7ACFRoqBjDDdxbMTOdrze1k9hYbq0JXl9gL57ehkx_hPPphnsZmmQPNPUpgWWrgPc-y7kiFqIaMDgSx7j-D2qzqCW3HklyMwyFldZubKe6xdqbPiQTjNAszynYWLe8jrDkTq9HO2X2pXYeIIYdU9zYOy9i44iwR6PGdSI2O0D27NmkKr3JZZw.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7143?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:0px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:302px;top:227px;width:151px;height:149px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telegram-cdn.org/file/BDxYJuO0lIpdlwERSmFQ6JqGWrId61_GL_UDzLkHH1FBDLMmZeHJmLAi7usJhvIBTfG1yCbOJCSDKIUOpwKkZFPwIBrWE4QyfhtVXHIhaVAq7hin4n47cvNw7p3z-m9WSzQXxeqPN2b3NQfcsNVqCz3kxbngkmS8cpAn_zMKEFeFDHNx-WxIBy5RGMp2vXj7D4__YQYQhR8rTf8vTTbcABJefqKmLRToj8xOqZCx9re4TcNvQi_sxftDtkbiIc-mZh71LBVwiUl_xkk0tcelxjfsEOuZYQCixXtPClwuRY4gCSH_-nOIzABolabD_NUjeZCRuh5gfBCYB2YT4st-Dw.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7144?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:-1px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:378px;width:150px;height:150px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/rQzBbYVleOg-ZABTMZCjWKHAg1fzcrBhi_hxcFnmSFHpvXBGE7F-JM9uGZq1aUZaYlPjd4E1mlKCwBMpCZwIJ0SKSmBc5cAlLmfEWgJSxurvUyXiU8aHpFJVAjhy-clVqFl8uj6mOl5hoFaYTjdle6ZqURsITpqP6ICMNHvR_XfCVGvw_OEmkNxv0usJ1-bR26S3LVhKdmP6VbFnj6Ez-tlHkSyrrw9S_iQULHGO_kiv_aAXKONG9WFTZ96OhVIhqEjK4-ZoR3pfqsMXSQVUYTRYY5RSCKL4GQnuYKkIaFusvBGIhdEs2PXJneQlNZ-y6H6YQiE-3gTOfgaMMtaOiw.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7145?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:0px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:152px;top:378px;width:150px;height:150px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/NTULzHoYboPBFcKk8yQTVrP2EmPmhNjQSG9K5Iz5vNYaBIwOm3WwU1GQ_saDfivfYk1wk8KlPVCzgGC7BcJKFTn6PVe6YBkSF11J5CCERXk3NpEY-J0S6HEO9Ne3h64X06vawwscgiNCbpdX7ALGUaAQJgpHLbENWeRQ_lFtdPIYCuDH79BPlvVFE8TAXDnMW1pKUFdfTFmmMxt-Aw9uAoWhlba3SB147hJ8WUmf_ibzc81Vac7Y9l248nO5uOPg8RlNQG1jnJHbu9LYioTPoV-wt4y0uJX2_Ngopv1SdodU5bYRKfnXEY8fbT08izeO6hMIyw-SnALJSPdz6aET8A.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7146?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:0px;right:0px;"></div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:304px;top:378px;width:149px;height:150px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telegram-cdn.org/file/hIlcweZBasIfTupVlkdGLthmVvWkW_sKKmZSmVOsH5laFQh7jxO98EEMlZp7Fy3YOn395ZoNHsNNrvM5z6DaCf9Lz1r_s3PISKfC0pTVIcnUTSW028u_WmqgNr3_YQSUub2HnZOfBYxZYByaTqQDL5yQIE631Ld7MOoDo_TH9dFaTvpfuR0OKpaP4wuPRqM5Dj5RXntAUCW5LvtAPOt-rr-chdHjRblgUSXa2qNDz1NFOhzIHhnRI0tb-FvFfiKC88hzxoEZFPKyW51aPqh7-bzL5zeZ43YpeMadZWRHUluBift0BX_6PyyMH9zKUIZ4U7oVky_ZzUB1xXbAj21Dog.jpg')" data-ratio="1" href="https://t.me/thecodemedia/7147?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:37px;bottom:38px;">
+    <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:-1px;right:0px;"></div>
+  </div>
+</a>
+    </div>
+  </div>
+</div>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><div class="tgme_widget_message_text js-message_text" dir="auto">Еще больше первомайской дури тут: <a href="https://v.thecode.media/7e38c" target="_blank" rel="noopener">https://v.thecode.media/7e38c</a><br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%9A%D0%BE%D0%B4">#подборка_Код</a></div></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7140"><time datetime="2023-05-01T07:02:30+00:00" class="time">07:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="thecodemedia/7148" data-view="eyJjIjotMTQ0ODUyMDcwNiwicCI6NzE0OCwidCI6MTY4MjkzMzA0MiwiaCI6ImUxYTczNjJlNTI1YjFjYTA2MCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/thecodemedia"><i class="tgme_widget_message_user_photo bgcolor3" data-content="Ж"><img src="https://cdn4.telegram-cdn.org/file/XT71JZIP0q75QvhEvS777xArRx9z6YtUS78XWwo0ombMh-6JNgHJ4I53F7k9ngqMgbyCC2Zqw1jwE3BmhznJIoegIckjQsLBmicSa4mQilQclUpW-CVUq5_WkduBsHLiJ6qrjt3RmrrarQEClzmc_Jp4YjqDcfV1zxVvPgN1kJLyhmATdvGhUPZ_wA1PxEFKy1CoRRfpcyir3izIBhL9_Ef4VkO4TVS47v5oDPgHx05QMENLxjuuC78h5zf7zN6-yZ1DhSAuUmeL6DoVs72TVfhUXRyD2wmPkXpeIZ5XD_cNB2-KaKlF4CrJZkCiFoXIgAVOMpVpR6c6PDWuSaQ9Dw.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/thecodemedia"><span dir="auto">Журнал «Код»</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5359380348410118873 1247827976_456245977" href="https://t.me/thecodemedia/7148" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/Ks8d5td5Mwg369f0F5EyhdPWGBODSt-ZQTFdf4XvWsMbrGC-PfnVn3hvoBACeFT-ohdZtdEUMuLh0oP-9YGChTGNl7mBYxQxSpJYHidSa563dE3tfMeX9nAh8UUpj9rfUDz6SAiStZoh4Y3dmQscHBP3lLj_J5mNSktLkkBwW0UezJEi6MfOalVAt4ePNrpQ-aILjnJFCqaW0iDOY5UR3G7psFGhVvYp41qbnPuFi0YLbm_vUae3F9VbeyehMVHgKdYl4vfopS8pofI2rpU-c7Krtp5d7eNOk-Bq3FnZ1avlHEA7bx3nAgIBgTUfsdaMYnMvvvBvxQycXfoE3rTHaA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:70%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Почему некоторые разработчики ругают вёрстку на «div»<br/><br/>Встречается мнение, что вёрстка на блоках устарела. Рассказываем, в чём причина и когда это действительно так.<br/><br/><a href="https://v.thecode.media/otu08" target="_blank" rel="noopener">https://v.thecode.media/otu08</a><br/><br/><a href="?q=%23%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5_%D0%9A%D0%BE%D0%B4">#лучшее_Код</a> <a href="?q=%23%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81_%D0%9A%D0%BE%D0%B4">#вопрос_Код</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">879</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/thecodemedia/7148"><time datetime="2023-05-01T09:02:30+00:00" class="time">09:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div>
+    </section>
+  </div>
+</main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//telegram.org/js/tgsticker.js?31"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?62"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init();
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 119.21ms -->

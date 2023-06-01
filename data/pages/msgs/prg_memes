@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Programmer &amp; IT Memes – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible"
+     content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    
+<meta property="og:title" content="Programmer &amp; IT Memes">
+<meta property="og:image" content="https://cdn4.telegram-cdn.org/file/o0yLiQUlNl2xEqPJbTrTBmnQMlMe1hrxG2jpsQqKXSxHynrJ0oMRnBis_xdWdAna6EGOp30Gi9UZFLVX4YxfU7nXZYqsrRBBU2WWvj8c3G_6J7LsfCH278ati-RWVGGIQsq8tRuJ_aX6M_e2OJtk3jHXJMrSdsbRbH1i0KBhIu_7tGOCSTpGbBWtlDc0FFcnDhrX0H3YtlRBHInqzQkR1wBxkICQExDlrMOVvUDRnvNuvgolG9WOgYwFwI0RMZWBuMfx1yRNoq-OayxiI2co8Ijp__2PdtTNisIewlPtPczHBYvEOFckCDcGemIvQAmN3xa23iMghwhtudXAM4ePtA.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="Развлекаем айтишников и программистов 🪴
+
+Сотрудничество: @skill9696
+
+Чат канала – @prgmemes_talk
+Предложка мемов – @space_montagne
+Канал на бирже – telega.in/c/prg_memes
+
+Менеджеры – @Spiral_Denis">
+
+<meta property="twitter:title" content="Programmer &amp; IT Memes">
+<meta property="twitter:image" content="https://cdn4.telegram-cdn.org/file/o0yLiQUlNl2xEqPJbTrTBmnQMlMe1hrxG2jpsQqKXSxHynrJ0oMRnBis_xdWdAna6EGOp30Gi9UZFLVX4YxfU7nXZYqsrRBBU2WWvj8c3G_6J7LsfCH278ati-RWVGGIQsq8tRuJ_aX6M_e2OJtk3jHXJMrSdsbRbH1i0KBhIu_7tGOCSTpGbBWtlDc0FFcnDhrX0H3YtlRBHInqzQkR1wBxkICQExDlrMOVvUDRnvNuvgolG9WOgYwFwI0RMZWBuMfx1yRNoq-OayxiI2co8Ijp__2PdtTNisIewlPtPczHBYvEOFckCDcGemIvQAmN3xa23iMghwhtudXAM4ePtA.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=prg_memes">
+
+<meta property="al:android:url" content="tg://resolve?domain=prg_memes">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="Развлекаем айтишников и программистов 🪴
+
+Сотрудничество: @skill9696
+
+Чат канала – @prgmemes_talk
+Предложка мемов – @space_montagne
+Канал на бирже – telega.in/c/prg_memes
+
+Менеджеры – @Spiral_Denis
+">
+
+    <link rel="prev" href="/s/prg_memes?before=8586">
+<link rel="canonical" href="/s/prg_memes?before=8615">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="//telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?66" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?37" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/s/prg_memes">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value="" />
+        <a href="/s/prg_memes" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor6" data-content="PM"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto">Programmer &amp; IT Memes</span></div>
+              <div class="tgme_channel_info_header_labels"></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://t.me/prg_memes">@prg_memes</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">126K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">4.39K</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">585</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">3.42K</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">Развлекаем айтишников и программистов <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAAB4.png')"><b>🪴</b></i><br/><br/>Сотрудничество: <a href="https://t.me/skill9696" target="_blank">@skill9696</a><br/><br/>Чат канала – <a href="https://t.me/prgmemes_talk" target="_blank">@prgmemes_talk</a><br/>Предложка мемов – <a href="https://t.me/space_montagne" target="_blank">@space_montagne</a><br/>Канал на бирже – <a href="http://telega.in/c/prg_memes" target="_blank" rel="noopener">telega.in/c/prg_memes</a><br/><br/>Менеджеры – <a href="https://t.me/Spiral_Denis" target="_blank">@Spiral_Denis</a></div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=b5e5a31b510a305236_6155388445787836386">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=b5e5a31b510a305236_6155388445787836386">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://t.me/prg_memes">
+        <i class="tgme_page_photo_image bgcolor6" data-content="PM"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto">Programmer &amp; IT Memes</span></div>
+          <div class="tgme_header_labels"></div>
+        </div>
+        <div class="tgme_header_counter">126K subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/prg_memes">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/prg_memes?before=8586" class="tme_messages_more js-messages_more" data-before="8586"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8586" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU4NiwidCI6MTY4MzM4NDUyMywiaCI6IjQ2NTkzYTNjM2IyOTkwNGI5MSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+<div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/SecLabNews/13666"><span dir="auto">SecurityLab.ru</span></a></div>
+
+<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap 5350371358154017322 1245730407_456247850" href="https://t.me/prg_memes/8586" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/RrpK1E_nf0hvjX2GQJgUfaEgHU6BKE4APXZNQfLOUlhOSR7yHO7g9VwbNc7V-Dj3yAlNn_iiG0tqH3Fd5KI_SXhfQpeIIGGpSMZMzukVTCPLRATcPPxXRLsYUKRcXRK2_RY8eDw_6Rco5oAl-3mjVF2-mZ6cdpuqGlR6tKH23EsdU8xcm7ytwIrgx6v_zHcyJBZ96PSph7MQgZC0S1e5g8MwM-bOzPGJP0Ytl-iAnULsLYfseOxdfHK7tAqIkhTEHyRlGtBUHX2FluW7oUUMxR3KUXYkUzhkSpGsaTYFI4ubJL2ifWTO0GWADC8qapEIIyDxJZ2l284B_Ow7gGuCeQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5350514337159061877"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988E.png')"><b>😎</b></i></tg-emoji> Хотите бесплатно попасть на закрытую часть киберфестиваля <b>Positive Hack Days 12</b>, который продет 19 и 20 мая в московском Парке Горького?<br/><br/>Тогда специально для вас <a href="https://phdays.seclab.ru/?utm_source=tg-securitylab&amp;amp;utm_medium=post&amp;amp;utm_campaign=phd&amp;amp;erid=Pb3XmBtzssySTK5Wio5ngXSECDhv1HHoMQkyf1i" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">мы запускаем</a> аттракцион невиданной щедрости — <b>разыгрываем 100 билетов</b> на главный киберфестиваль страны&#33;<br/><br/><tg-emoji emoji-id="5452069934089641166"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i></tg-emoji> Основатель и главный редактор SecurityLab <b>Александр Антипов</b> и организаторы киберфестиваля подготовили <b>30 каверзных вопросов</b>, чтобы проверить ваши знания о кибербезопасности, истории PHDays и кибербитве Standoff.<br/><br/>С <b>26 апреля по 4 мая</b> <a href="https://phdays.seclab.ru/?utm_source=tg-securitylab&amp;amp;utm_medium=post&amp;amp;utm_campaign=phd&amp;amp;erid=Pb3XmBtzssySTK5Wio5ngXSECDhv1HHoMQkyf1i" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">на сайте розыгрыша</a> будут появляться мини-викторины по 10 вопросов.<br/><br/>Накапливайте баллы за правильные ответы и станьте <b>одним из 100 обладателей золотых билетов </b>на Positive Hack Days&#33; <tg-emoji emoji-id="5418010521309815154"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EAB.png')"><b>🎫</b></i></tg-emoji><br/><br/>Они позволят вживую послушать доклады от признанных экспертов по кибербезопасности, принять участие в крутых соревнованиях и дискуссиях, а также своими глазами увидеть, как проходит кибербитва Standoff 11.<br/><br/><tg-emoji emoji-id="5449552108296612959"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i></tg-emoji> <a href="https://phdays.seclab.ru/?utm_source=tg-securitylab&amp;amp;utm_medium=post&amp;amp;utm_campaign=phd&amp;amp;erid=Pb3XmBtzssySTK5Wio5ngXSECDhv1HHoMQkyf1i" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Принять участие в розыгрыше билетов</a> <br/><br/><a href="?q=%23PHD12">#PHD12</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
+    <a href="https://t.me/prg_memes/8586" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
+  </div>
+</div></div>
+
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">30.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8586"><time datetime="2023-05-03T08:30:15+00:00" class="time">08:30</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8588" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU4OCwidCI6MTY4MzM4NDUyMywiaCI6ImQzYWM4YTFmYjdkNGYwNzkyNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5361758291413288047 1248381634_456246383" href="https://t.me/prg_memes/8588" style="width:746px;background-image:url('https://cdn4.telegram-cdn.org/file/tsM06ifSvJMhhPh43QTyXyjICvEcR6Qf_uCN0GoSuv4ilHhmXHfB722Og8P2wBFjkANXfmlol5Qc_dFJsFqNJNtQZIyN10Nio0fQc4paqaOcT3dJUoAlVpnLB2Vjz-lNRWxpH9mm_oz4s9V-BSiXWNxe-eT7_Xm1XplxzHVb6TWI_Mcfdlk-WUF4JfMqF_UFSndxsxwcQbiAqtp7tme_LBCLpCIjmVHW6omREoJ84qHWd66FuCyMtaHdFFJiDOaBZMtFaAwYKOBzOBz-IdC-b4OK8PfiYF5McaprNTmIaw8zb_9N2FADN_BXftTnIVmrwWtuFx3uQh5qAub8xiw7kQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:107.23860589812%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">33.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8588"><time datetime="2023-05-03T10:45:11+00:00" class="time">10:45</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8591" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU5MSwidCI6MTY4MzM4NDUyMywiaCI6ImVkZDU2MzE0ZmUxMTJlNmQzNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/prg_memes/8591"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/g1sfwaaF93pRULhdw0rRkF5-PJM1jID0qyL6kIPIQpUyOcvl2wncDHJAkVLHA2han-J_8SHWmzqFC5vbQnsOr4r71Wvo2h6c1ZDIjHssHDV2Nbnet5EJfOX3qVbuDr-QyyY8JxYVkawcnfwXnEFprGOP97nWW9Ge4Fg7ztqcvx4EpJ_ArlEChfvjDkeJz8eQz_a7yiDzRqxbcQVu5FBoGqFKW5fO_icT31mkUJGNda9CFCy_GOEp6GGMHSMaaOTIHrgLkb8y6qP_kEauCn4RuP4pIfg7iEaw4r10xu0vUwftOYgvFJc7fvMY0NKFjNh5QvGNUbX-WgNIXtQT8PNr7Q')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:458px;padding-top:104.80349344978%">
+  <video src="https://cdn4.telegram-cdn.org/file/df43713d2e.mp4?token=g3O_wUCnwe3SSEHBTUQs4X_BAjfKX-DMgPhHpNT8qsc_KIVGr31TtGFlp0DTccpUx2qVBPxQWVVBa5jLxLUuuUCWfhNRV0A2gmprpOOaERaH1ZoyKdM0t_ai9liGpaFe4mS-0lOhjC_uz7jYd9wNP_xWeMCLVbi31Tfkkn7d6-QtGdnSCS5CcQUpohlOFwoZfnXVA1VLBkJT0FwR2Xz67mrO0bJbjH00bRtu0G43nawkof8oEZRUS6Smb7HCq4SLk1J8fy1TJY_o172cf8HL-wRp9PGqO_iAjRMVFlaDbCTz4oLLRQkOQtdbzhpuFNNyNXybBmzK6bTX5BAYkk7Gcw" class="tgme_widget_message_video js-message_video" width="100%" height="100%" preload muted autoplay loop playsinline></video>
+</div>
+
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Когда ты уже больше 5 лет в разработке, но правильно работающий цикл while всё ещё тебя удивляет:<br/><br/><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">34.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8591"><time datetime="2023-05-03T14:15:11+00:00" class="time">14:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8596" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU5NiwidCI6MTY4MzM4NDUyMywiaCI6IjAzZWE1Y2I3ZGQzYzY5ZDhjYiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5334811615058578678 1242107622_456248566" href="https://t.me/prg_memes/8596" style="width:600px;background-image:url('https://cdn4.telegram-cdn.org/file/Z3bYtCMZe7kV82uI08_4OKPdwD6463BHgPNA8lfG0t_4zA0jURSIoLRzzcFj37qpCww_h9sJLWerQ9KdJRRe6IogBhyoHqMUsXky_hTC75A9IzxK7ePQANMj1B3CKHwkQZUgfN6Q6xnihEPOu6AA32kkpcdSN2q4pRGwH-AnZiyQPWzPhj8i1u2O8TczQl-kVoNl0MBttXJu0Lz0STxd8wQaq2hIJmCL7XXDlyPhYOcOxvviJETYUQ8qB35f_7u7vyLMXNzGpAjvXGvPOHZIGBmPis2kT1710n665NzOh1y9ycxq8LNGl32cXl2JdfvvY_1Myl-6CPhzokp5M973cQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:133.33333333333%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">34.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8596"><time datetime="2023-05-04T06:15:18+00:00" class="time">06:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8597" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU5NywidCI6MTY4MzM4NDUyMywiaCI6ImFlMzBiMWY2YWU0MzVkNmVmNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5334811615058578681 1242107622_456248569" href="https://t.me/prg_memes/8597" style="width:600px;background-image:url('https://cdn4.telegram-cdn.org/file/Xfs3gXChS-6KDxeb2zjOSearccGrkhK0I1uXbi8m-NWN4KVOW0pIRAySFn_8aaKBgDF8_pVzrK2USfcvBceJ8XjJlQ7ZfBxXmBTGmSP2dWWz5KAvO2C7HUgNiGsXAepM4J2ccBdmp8N71r1TPXU4eTISj7yfpkq_i8gWU0Q3c3nx3_4I7O03KNtNoW5NNV1uwuNElGtnRYhsqKsZf1O8qsMOQOw6zTXCbuTZMSIaOhmKFdVd3HcL7DdV8ccc1dp0S-12mDqyy9iZ-J315lGyHpsdLZgKGgZtjMsBLQU0Pw8DSPujivYGk6nHOOPeUAkNEpO_1JUdUJnbA_bhxxvH6A.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:109.83333333333%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">33.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8597"><time datetime="2023-05-04T08:15:26+00:00" class="time">08:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8598" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU5OCwidCI6MTY4MzM4NDUyMywiaCI6IjZlODQyNTYxMTgyYzFmMjI5NyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5334811615058578682 1242107622_456248570" href="https://t.me/prg_memes/8598" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/rhvf_rs9s6iAoDuT0IFJGMz__zr4Yml_0cZqgJFCZE-Su9qWdJoRImL63_2c3L-DMBa1pFDFRKqeBM6zAP-rHO5oC3zRka96C0408hr6PFnC0xcDNUUs0-mmNw8cCh-Tvz06l3uTXOVKOdaNWFcUoXgzoXmC9V0Aae7LieFyH9zcduDp5cJBN9L5fVFWSdSW4dZn5OLSpuVqrRXzM8UW4i4a2R49HtZcMgWSK_X9nBdhGCx-T_FWp8osM8KHbjqxSv4f5nTnwKbM5uiT8YI55grMKi6p7jvdoO3mx4AVLpvybuMecVymRcUTxWvzQvlNcRKR0UDFGrL7HJ2lny-ogg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">32.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8598"><time datetime="2023-05-04T11:15:31+00:00" class="time">11:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8599" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODU5OSwidCI6MTY4MzM4NDUyMywiaCI6Ijg5NzExZWRiYjVmYjM0YTdjNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5343903442348918472 1244224478_456246984" href="https://t.me/prg_memes/8599" style="width:600px;background-image:url('https://cdn4.telegram-cdn.org/file/cXgaKXL_73-yW6AW7OicxxJ9-RMLnpwg_BbTLyKJWG5kcIkBRNE9-u9qvEiG8amTkQ2bJtmhQEwg6CZHtPzCK6Ij0rxrS-B_EJ7OrPTz7WC9tSCqYp9F-KHMOAFBePkXxpibITClxFl4TsE8GBt9mGm3RVF1YobOz9Rs12mFV5wA5eI7gfahN2LPVb4BYu-Jgr1EkCb8kNCoqui1LylWQuF_3HVjGfxA5ZK_XxwHSpJboFPvHvMEfGcU0vMpKSO3-xyO7m4--sCysVY3bpbMLqitwTN8pAKdO22fRMlmr23RuqjmI5DoeWh4T6SEju7jx7iMHKDAWHtAjMeMibvmfg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:94.666666666667%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Чем дольше смотришь, тем хуже<br/><br/><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">33.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8599"><time datetime="2023-05-04T13:15:28+00:00" class="time">13:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8600" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwMCwidCI6MTY4MzM4NDUyMywiaCI6IjkyZDc3M2RjMzY1NmRiMTU1NiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/prg_memes/8600"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/tray-lbvkSv9kEi1qlHXko15TB6JJv864k5MQxZHtwYaJ_4MmfBQcV2n6ocR0UPo7zKySWMv2hRYufv70uC_cdEL_teYA9LVnYSDRy74HSqqn1iK7QsGslUJ9dEclhs_epu1C3NZZWFxUuMW_MYOgy4FxhODxhGI3b93Qczoff8aIh_84X1HUU5U7i4_kY-50DRFA57aVzlr57B4_Kwmy3dmQg4fWbGBFkSgfSEwYi7XKgBs_uNSocKlGd40JQqNplwKjF4Rz0SDzdEc5kYofvRcDLVPrQOPurZ19DaZwAVGJwNLdq_olmQ-TVskkbol8ujxy2MO-Ltore34Ya4YCA')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/75f25392fd.mp4?token=gstBRkBTZlTMTPesRXKEV-TwOnL-q3S99rH63_1HYVJyu8foQkSpIReujGiqb59gL3qvtk03DSXDFXF66-AcnJ-VliVsTQrukisxyoQONf926FJDB_ABrOSTOGUIwsd-3RpB-cFaA4nq3dTvB5-muUUMSOf9RW6LXSEhNrmSpKkrejSE4WImLPCzVBdLdegmiVnf94CnoS-5EnugAHXhkfujCaJIV-LFrkRo0mVd5Pw9kQ6G2yNpxrUnHIqCuOzvpPtcXIknBhuDuXAc7wBJh9PmEZ-ONxZOquD01XD0qHoa6CoF9JCkWvjr-WwqOdDTfa3rtskMOkqcxCZQsDm1Kg" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:464px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/75f25392fd.mp4?token=gstBRkBTZlTMTPesRXKEV-TwOnL-q3S99rH63_1HYVJyu8foQkSpIReujGiqb59gL3qvtk03DSXDFXF66-AcnJ-VliVsTQrukisxyoQONf926FJDB_ABrOSTOGUIwsd-3RpB-cFaA4nq3dTvB5-muUUMSOf9RW6LXSEhNrmSpKkrejSE4WImLPCzVBdLdegmiVnf94CnoS-5EnugAHXhkfujCaJIV-LFrkRo0mVd5Pw9kQ6G2yNpxrUnHIqCuOzvpPtcXIknBhuDuXAc7wBJh9PmEZ-ONxZOquD01XD0qHoa6CoF9JCkWvjr-WwqOdDTfa3rtskMOkqcxCZQsDm1Kg" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:25</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">32.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8600"><time datetime="2023-05-04T15:45:25+00:00" class="time">15:45</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8601" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwMSwidCI6MTY4MzM4NDUyMywiaCI6ImM3Y2FkNjY3OTlhMTQ1MTE1MCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/prg_memes/8601"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/iswvVmMa1j6rSPtoTvtyGNEnc2OlAABHE8fkBflMsx9NhPzR_GpFlsDHPPqBp3NsMQWzenUxTkfVjhs0F9wGZ2JcDQ5nJGWwsy0R1FqqP0RWnVS5alO5ZwmKDPKmjhtVy4irVn-jyalUv1cwJC_C2EPk2so1lSa82lbAd8qi3aPOQ343-ug6AnxNbdskPG54m__kOqJaePYopavPef_SEBnxr9sf0ApAgfNL_PxDnAAbVXYfqA-kUpBo9yZ2yDKJWUDtXTv9HNZqusDpRoHcvuV4aJHmjVPQSINGBctqBtdbRJx2GCHsuGrpw4g6FSREWxSI_pxTv8yFoKrB0GkV0Q')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/88e45a5693.mp4?token=TKHhMrBgrKvLDpaO7DyClKvt5x3SvdpHm9CejsOfqdZuuCcZ2lSQH0kSVjfjrAmD777GZy-L0u_JT2TMPpj4pADBpGiuFgMr8i16eUgMq5cLM_7-Obpk9nw8rKJPBO-c66NN-9nbGr5f4mWhhdROeCj4eAuDQCoCNQjL2xzczxiepC55RgjnV_XRuQtbDUfEU3XoVgc8ZV6zCNU-Okb-zeb-BNRWEZaVhpoLg4SxhWoN8Kmgq7GlJ3IF26T9OBcVxth4ZVtrPB7Dr7mkTFIpKFszwKOhgwxY8t3if3pAaeXtKSMerxLdWh0CFiPXVqQLk5U4DOByqaQQ-rj63fINhQ" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:464px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/88e45a5693.mp4?token=TKHhMrBgrKvLDpaO7DyClKvt5x3SvdpHm9CejsOfqdZuuCcZ2lSQH0kSVjfjrAmD777GZy-L0u_JT2TMPpj4pADBpGiuFgMr8i16eUgMq5cLM_7-Obpk9nw8rKJPBO-c66NN-9nbGr5f4mWhhdROeCj4eAuDQCoCNQjL2xzczxiepC55RgjnV_XRuQtbDUfEU3XoVgc8ZV6zCNU-Okb-zeb-BNRWEZaVhpoLg4SxhWoN8Kmgq7GlJ3IF26T9OBcVxth4ZVtrPB7Dr7mkTFIpKFszwKOhgwxY8t3if3pAaeXtKSMerxLdWh0CFiPXVqQLk5U4DOByqaQQ-rj63fINhQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:10</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">32.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8601"><time datetime="2023-05-04T18:15:28+00:00" class="time">18:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8602" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwMiwidCI6MTY4MzM4NDUyMywiaCI6IjA4OTBkMWY1YjM1NjJlY2Y0MCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5341446235724302114 1243652365_456247074" href="https://t.me/prg_memes/8602" style="width:750px;background-image:url('https://cdn4.telegram-cdn.org/file/H-twrmAsiC6b_0iKhWpstmtL11AQ4aIB5u7-UnOyugB52jDP7muDRsO4Fe4r39og97cDQTwNbxGnm-LO-NdSwf2ZBVp7NLW6NtODEe13j5k4lYsYUqvvM5Kr44TmJNjQybnPmG93ZnQQ6_5RRVDUbRAsp6bFAvd7Z2e-xiVtSID5acGdeDQXZ7slOynz7SF6eEzvaIiDN1Tq9UfLK_19pzlMKJhPjjnyILvi8VtHDgZGvay8qieKmFVL9ltM1crZh7J9HevyVKV9bBG2Q2Lh0QOqPSpdOOjA7aqDmYB92WzW2CLue7cYG0wGALh6VUhpmGs0ZqP8fjh5v3c39UEj5g.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:54.8%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">31.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8602"><time datetime="2023-05-05T06:15:20+00:00" class="time">06:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8603" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwMywidCI6MTY4MzM4NDUyMywiaCI6IjY3ZGNjODBlZDM4NjI4ZmYyYSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5343903442348918481 1244224478_456246993" href="https://t.me/prg_memes/8603" style="width:548px;background-image:url('https://cdn4.telegram-cdn.org/file/GWClUfSyrDcVoBaxITqCNpufd2ibCAU_1MSy8MPBDQ_ngYaSjGNtAkAAIH0LWpAAGg5iPteDy0Qmq7NYmhuULsgui_OAs8GFDSrW6jhXFELl1akuDL1xcnN1eLiURAYDpKX9h_y_6xr5EFX04hjBbg4HPVkZWrpSwzqjhCQeIyDXWbwe8qoYUrwXqUK0XJy6oJtpt0BY1A6uf5X9VDHretNiWWalY6uqM2swAZVzKDv6BLoiiZj7TOCJfkAhQAAtA16fOr5xTFGuWxXnvx28c29bmu1Qk9-Svx6GZjabHriZi-xhF_x8E9Ou3lWyHzv-6oisvBpaeYUk4xflkflR6w.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:98.357664233577%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">30.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8603"><time datetime="2023-05-05T08:15:28+00:00" class="time">08:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8604" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwNCwidCI6MTY4MzM4NDUyMywiaCI6IjZhMTY1MWQ2OTFmNTU0NmQ0NCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5343903442348918486 1244224478_456246998" href="https://t.me/prg_memes/8604" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/LPs_-cKcDLfUr4qq74xrPOP-3jrJ-zZwckRxe2NChNz-hguVDze5CFRUUlmk8xBTZe-tPxA1fIlBvJpgv_NVX_7CaFEPww7O1GE43miesd0CkBJ6U6WVX3UEhJpr5QFjySha8birjJifQrx1tQiKezcrVm_SHLNKK2lUu5fyh9vojOaQR3UtvTBwvcSvrOvirmqdo_knsLYMaXc3uIVBE9VfKcFoOneEJ_GKXsL4JjweO4YDXBreS5BIKT8H9F4yMhYgmLFep4zuaShmvRG5V1eY1RjZFWmJmQzJU_4A56s7rcLAK6cP6RWGjRIFOPRaORFRrOyg315kSpD7m94aYQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:75%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">— Я скинул вам инструкцию на почту, все предельно просто и расписано по шагам.<br/><br/>Клиент:<br/><br/><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">30.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8604"><time datetime="2023-05-05T11:15:32+00:00" class="time">11:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8605" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwNSwidCI6MTY4MzM4NDUyMywiaCI6ImNiY2E1YjZlNTRiODlkNGVjOCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5348323908589308652 1245253698_456248044" href="https://t.me/prg_memes/8605" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/PiTpUiOrN3gHFeIb2_vbUaLDcwooS_qm7X_8Wdkx4Ckm2z8VeyPKa4Ao5LU4lGto0ivzde2BA8ed39F45qHQTubVcQGoXgadjTiOnP1soWIA8RUVAEHVLKBct-URo0W_EBEfDVBhytk1ULtH8mV4qlUCFuEf4ofhe06fDTN9PflZmG1AQA2XLmI9p0f7buzAauX3cR5Pz5WSf9vhOXipqbCI0A4JhlZPjC5TcOFANF02__hlmuhD3rAsoZsGpgm-jE-7Vy2ahbzt_WUYDDBqkFroWKvWl8kG_vtEHoEI8rzqDxh7WTDFFpFCnMqoZ26DJjzdjICT5xvLNWnIjz0Mfw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:69.5%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Сделаем за час в течение недели<br/><br/><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">28.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8605"><time datetime="2023-05-05T13:15:27+00:00" class="time">13:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8607" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwNywidCI6MTY4MzM4NDUyMywiaCI6IjZlZDg2YjNkODEyY2Y5ZGIwMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/prg_memes/8607"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/QqBlX_eNDru3YkRAc1eRPtKAekFL_icu43wmsRmTB0ZC7Eg5MEiDxPwCkC3RnunWtSEU2By-oOGBQE1Mcysfu27AJmbYrUiKTpY4WNjxRUwZs5uovZoJ6VpVUSREwAgoRuI2NDoWd0E4UzZeonKI6Y5IxdCCEGGXUbmCv2u8D3rofrrk0Qa3xsB0zPEec8uLipAg2MzksHvUvHFmBUcQrzzSyAiipiLj0ge0Il45TDS_kdB_AkmIiT8wc9rUFVK5dGKArLZCL0YcrJTBh126EDVda1wStyoiTsThBE0gJ74z8bGO93n3JOFYQv9sn-JRJIpmwLy010z2kxHTp2dZ1g')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:402px;padding-top:129.85074626866%">
+  <video src="https://cdn4.telegram-cdn.org/file/67f10ee18e.mp4?token=JUyDSrDkhorWen0Lx8AfuRhF6L_sIpPImfokW76_WC8KOn8gTdCcpKqYqBWZ5vVkFlX83m07nNVDCZHMRhfVorpfc63PCHfkTahCLLQucrN4CnkU6Pi08M4BpR9aygDBIKHVRrLpDgOPkdf5z3DAJfbmOUZNv48VoIeO6PSLiVP-3l8E_I7GE9Fkl2Viy402GmV9j4aXFxYALBd4VcJq7ioqW1fTLndJtef2VB7Gn96n76a3fX_Pqddx7-gyskltQ2tKzQ3KTGT8M-dvTi-Shoa27FQoa2LpY4NbMbSM4DBaavPQmqfHV3k3gkgsgOAyX4MkRaPQVDNg-4FJG05_9Q" class="tgme_widget_message_video js-message_video" width="100%" height="100%" preload muted autoplay loop playsinline></video>
+</div>
+
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Вы знали, что ваш телефон так умеет? <br/><br/>90% фич телефона скрыты от наших глаз.<br/>Если у вас <b>iPhone</b> или <b>Android</b>, ловите полезные каналы. <br/><br/>Здесь публикуются крутые баги и <b>скрытые функции </b>смартфонов, о которых вы даже не подозревали:<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"><b>🤖</b></i> <a href="https://t.me/+G5W4J_AxI8Q5Yzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Android</a><br/><a href="https://t.me/+Qe8OwpT9yWZjMWVk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);"><br/></a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')"><b>🍏</b></i> <a href="https://t.me/+G5W4J_AxI8Q5Yzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">iPhone</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">25.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8607"><time datetime="2023-05-05T15:42:32+00:00" class="time">15:42</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8608" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwOCwidCI6MTY4MzM4NDUyMywiaCI6ImIwODkwMmE0M2RiMzc4ZmY4NCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/prg_memes/8608"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/id5RZRYzwqmrR7qpCQV6yDlYRlf0Azu57EuBVhvkhyUYoUZtVnyGPhPKNCMOG-q7zw1EzFMv-o4epwyTPXu_VhhPYvYMFiiYcziLJQ7JwnDEhokR994owI9ieYZFIvPfyVGgouCl65HRJNU5mqVLC9G0EQ6uoT_OkAgRxuxz2wr5V-5HeMtU_rO8oQLDpd2oFLs3zUMJvPW3BZ06NlatgodNgNUnp4LHBYFyDCfEczA2Nnkn2LFIVwYIrVEiHKuG812k2EnW6F561QkCmgDHLReJD3j6VbtkFu6_EOloDjIxXBgtOTgjdc7Xg0n3WYPlQkwpLIzHw8UBEZb71GhHRA')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/992be48267.mp4?token=hVugNg31Zn5gChT23KLKd7pH2nc3Bh_OFKwdkeefEAZuwU0mtqi3CdqpB9nQOaZiQohlQwJIn-MmZl8stgbigujM0o0WQ4EixCrj82f4L6qM2UT6hawNJm09RhROlytzHmkBXeqw51slNbN_NyRnYG7xweTt7r8xaiF1u2kJJ-NURbQfzZfNhUTodUDBhstdsm0xKd4wCXtHE6nR5qeDQ2-EcZKJHk0-FiZtd-NP0DB1rEsCLwNSdrx_Y3nn3kEUzyNx9de8HK9F2ccKCsyEo0CdqX6Dn5I0xc1Uzqz_jxIYttEExtRJseIGyzlRLWk7VbI3fyg5YRmq3Iqy42FJUw" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:464px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/992be48267.mp4?token=hVugNg31Zn5gChT23KLKd7pH2nc3Bh_OFKwdkeefEAZuwU0mtqi3CdqpB9nQOaZiQohlQwJIn-MmZl8stgbigujM0o0WQ4EixCrj82f4L6qM2UT6hawNJm09RhROlytzHmkBXeqw51slNbN_NyRnYG7xweTt7r8xaiF1u2kJJ-NURbQfzZfNhUTodUDBhstdsm0xKd4wCXtHE6nR5qeDQ2-EcZKJHk0-FiZtd-NP0DB1rEsCLwNSdrx_Y3nn3kEUzyNx9de8HK9F2ccKCsyEo0CdqX6Dn5I0xc1Uzqz_jxIYttEExtRJseIGyzlRLWk7VbI3fyg5YRmq3Iqy42FJUw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:09</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">26.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8608"><time datetime="2023-05-05T17:42:11+00:00" class="time">17:42</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8609" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYwOSwidCI6MTY4MzM4NDUyMywiaCI6ImViMzcyNDQwM2YwMTFhMDdiMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/prg_memes/8609"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/oKg70ChEy2CibXazer334Q14YvL7uZ5gGnnHDaaAI1FmwqPQh8kqYVDIVHW5oZlfcsV4prC9yLh9Gs0cSpRlQdffsgLReZ9NQRABVnzmfjJnHxtHnrBnyuf4FKxNCE1Y6hbQEx87H2v936nrdWc_BrIkJ1psHFsodRTLD4cP7BCIMU0LMBVu3iz6OzinIaOwUtkWC9zb1wE3B9uYTvaZHgkhcvvBFvmcSF6IUaeKrMhAHnclxkwX7cB0-HoGF22MxnNRxoHrIa79QIebRqLZ-GsJAEZ_SX6DZfMezxz-WNNiOrkAdqBckhHULNDIERY7jHzqFaPOdKgaioiUZtUXwA')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
+  <video src="https://cdn4.telegram-cdn.org/file/8854376a6b.mp4?token=R3Wkc_FChXFg6il8f5qWnFRvPeblRMHOFdy7xsoPuptslIc3sOuxlnHetR0a2iIXJG9JdnAkRD-j31QadIvlUQU4g1R2jN37norLX9B1zsNhHvKNYFiw4pZMOwUz-PcgKAbU8ROFCufjAHmuqz0iZsLO5LVMgSYZRRyZeF0ZxUlUMK0ogZzEZNWkfPEbMw32y__LA8nwwPhmboH6lL--_ViZjdYEmIQd5zqhXl_dD6YTFfSfMQ_-HcnOpKbUj_ovuDxYSAbQP922v5gGgCb35PFqT2GdS9zjaWYiTLnoKzIJwsMsi2-kSgWSRPrOeySaRDNJwvCUDHZgfUP0KYgH7g" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:19</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Когда в офисе предложили поиграть в старую настолку и ты слышишь звуки, похожие на тамтам<br/><br/><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">26.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8609"><time datetime="2023-05-05T18:15:24+00:00" class="time">18:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8611" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYxMSwidCI6MTY4MzM4NDUyMywiaCI6IjNlZjI0NGIwZTg1NTAzYjQ0ZiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5348323908589308698 1245253698_456248090" href="https://t.me/prg_memes/8611" style="width:713px;background-image:url('https://cdn4.telegram-cdn.org/file/Nc8o5IaU5QiXkMAuEE-wzNfsCYtTZolFUtX5xi2ISkSgPBagaQm-czzZIdBJnA3SPiKzKobLT5kUI-PmPOYm3OpaPtAJP1bn4qwnOH6-UukfMFWkRuoRvyFBOuP26Rc_JCz8cBQcyCPRQyWXvKX9K9pYZ8UbWAWibEXnbjDu3vTIF9MYvCCaUdQaHWbFar2HK1A-pBZfl8IOEme12nRd-1LvK8wE1IDe8wOtKFKVgsSfFL-2Diw-R3VeA3IAmLRny00Ipm4O0gTfl4vrxjn0K8oDqBEoULAJ4Pp5DaAIapw32ScnWVEC81h8Ay4fPxvFu_Baghj5HYSXSwC34l_aeg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:112.20196353436%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">21.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8611"><time datetime="2023-05-06T06:15:16+00:00" class="time">06:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8612" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYxMiwidCI6MTY4MzM4NDUyMywiaCI6IjA4MzI3MGIwNDkxYzEzYWQxOSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap blured 5348323908589308697 1245253698_456248089" href="https://t.me/prg_memes/8612" style="width:522px;background-image:url('https://cdn4.telegram-cdn.org/file/N0lXYgp9_RdG4JSLV9xY_7yw74c6v-auSj6xtpb6-nvaLU--NL3hI3T3M474LtRfLuvIYDyZ23w5PHFVq4fzqOyAV9wZevUaIN9s6mSvos7Hx3YM_VLCxe2wp4of_gfjKhXzrkJCzinODxOOeJybbcfzboCuJl7qzDDywZq8GmQxPLdR1mWl3mlfRHBDW-VRNH27BuMR33H1ZhUGXTAfScIHJg-_J_hjqfY1wU0kDnWEwrV4nppMDhxAvOcoGSQwqdAeHUo0YFPQjLfZbkT_4lHecJTYL5imw9PBrm9OTKmgcNdWY6wecapesr4KCXkJq6oAQEotvZW5Io2j037IRA.jpg')">
+  <div class="tgme_widget_message_photo" style="width:87%;padding-top:133.33333333333%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">18.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8612"><time datetime="2023-05-06T08:15:24+00:00" class="time">08:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/8613" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYxMywidCI6MTY4MzM4NDUyMywiaCI6IjczM2I4YTBmNTVjMzFkNzMxNyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5348323908589308700 1245253698_456248092" href="https://t.me/prg_memes/8613" style="width:700px;background-image:url('https://cdn4.telegram-cdn.org/file/vGkh0u7q5Txdes2XoYOcpTYXLRUngMzjNvtT0Eu20Bi56La7rUMpExu_4Svo4vnr2Z1balqDBMZ0KZzJqgZzmuiUBQNiBgRWQZZRdEB2LAp_9fh4n4M2us269jy56Igs_PpKrp3KfrBIxLB_j6NPdEyxRlJzxDgEKVLwaVRLE1AeFN5SUamsWgL1jMXswI2hFGw6kK764wC6kNJHRHr86QbanoFim83Zzv7FlSLl7LOCGYjLsHUmlwe1hpW_2cMIFZWKtpzI-BNGf_CKuwWb_kldBePp0hKy_1vANvEai3kjWrxYfs-Q_6h8cpphsLbdRgSOEYIlBalU3CRpwxJEGw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:99.857142857143%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">14.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/8613"><time datetime="2023-05-06T11:15:14+00:00" class="time">11:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="prg_memes/" data-view="eyJjIjotMTM5Njk1MjM4MSwicCI6ODYxNCwidCI6MTY4MzM4NDUyMywiaCI6IjU0YmJjZTlkYzhlYzgyNzIzZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/prg_memes"><i class="tgme_widget_message_user_photo bgcolor6" data-content="P"><img src="https://cdn4.telegram-cdn.org/file/BPNNEBk_BctIxrhjUJwq5tUIPwjl5G0BOJtfCoD0YmLgEynr7kotKWZJZVIj2wCwu_s7UskFrYs4fpkETOjqysg46T70yTAsEYO9TpkJlV6gpya-wkCI8oNjrUISAwuWI7evGmDhBE6xaVeVy_Y-rr1HeZim2WSFACBTQuc_oHnWiQ1g6YMDs2SgF_Mxy7X3PBfLCasn1Vo4qpblGj-A14Jqq1GTZUhM0hBOjMv2bWx4rRymU8dt53eWiYITgIjXde1u8WVPqaz20nO9oFm8_zTx7VjbkqckwBEXz_h22z0RzSkPSpFfZaND42td_16ntdP9OcV6BWlMcRF8qJgSEQ.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/prg_memes"><span dir="auto">Programmer &amp; IT Memes</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5361758291413288116 1248381634_456246452" href="https://t.me/prg_memes/" style="width:788px;background-image:url('https://cdn4.telegram-cdn.org/file/raPoPRrjF3kobPux5N3hTwRYnp-f9cI__Z6rtJgJUIFVl2TyA7GK6INOKLRJ4qdaGt_zLQmuwqKpOJZltOIZ0kY8hfdYBK0xcLQwpMgWSSuz81d6ItDKz6BkIammIeggwx_Dw0q24HwY8k6DSXOKUAhM_X9sb_4c11mLxpcfLaUovH9BCbgb50LUQMq2W77u77s2LlwqQUCSZR_pozPbQMQFxC9OmiBmPg3oqBsykT-G30hS9t1YQBfl4ZwTQyZa1wicNg-LHkBONF-nhWXVJ8Ut56p5nmg5FbQiGHP5WAmksoPlJ1BPAlvtFMk-JZcb_plH36eAY7C89Wa-MiZ6jg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:90.989847715736%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">С таким подходом за день выучит<br/><br/><a href="https://t.me/+cuWz5UkUV5MxMzli" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">IT Memes</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/prg_memes/"><time datetime="2023-05-06T13:15:22+00:00" class="time">13:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div>
+    </section>
+  </div>
+</main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//telegram.org/js/tgsticker.js?31"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?62"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init();
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 126.14ms -->

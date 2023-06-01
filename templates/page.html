@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{{.Page.Title}}</title>
+	<link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<body>
+	<div class="block">
+		<h1 class="title">{{.Page.Title}}</h1>
+		<p class="caption">{{.Page.Caption}}</p>
+		{{template "content" .}}
+	</div>
+</body>
+</html>

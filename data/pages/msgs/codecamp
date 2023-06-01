@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CodeCamp – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible"
+     content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    
+<meta property="og:title" content="CodeCamp">
+<meta property="og:image" content="https://cdn4.telegram-cdn.org/file/NagHgW_XEGd8X7iS6qg-ayHrGRLvMe1PMqD5q95QN8dvcWDRSIT9mYkd0mtgfWDgGvv2ycgZ31HuZUcaXLKGLQ5nqXfeiJat59XvdLAK_eqistsOvgOWE8wSNz4Bw34ZU0xyBlyX_p_NX9nSoMA2ixn-ERY5S3QZ7cwvQF_450PrdpB0V-YMyeLxL9gBdWmylAgH_-j-iWwxl0aOAIPKs6QCHxJxxeGUBEgLVUfuQHpZnowOU3zajfVqa3MVJNmS8pVmjMD3DjtP9wC674TPSpLck74aIgvjdUX0DFOLO6iA7mjdc7qomP6rMWtUWRzuJiGVEW5kttjsxnIQLt3F4Q.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="Лагерь IT-специалистов&#33; 
+
+Редакция: @camprobot
+
+Вакансии в IT: @workcamp
+
+Сотрудничество: @todaycast">
+
+<meta property="twitter:title" content="CodeCamp">
+<meta property="twitter:image" content="https://cdn4.telegram-cdn.org/file/NagHgW_XEGd8X7iS6qg-ayHrGRLvMe1PMqD5q95QN8dvcWDRSIT9mYkd0mtgfWDgGvv2ycgZ31HuZUcaXLKGLQ5nqXfeiJat59XvdLAK_eqistsOvgOWE8wSNz4Bw34ZU0xyBlyX_p_NX9nSoMA2ixn-ERY5S3QZ7cwvQF_450PrdpB0V-YMyeLxL9gBdWmylAgH_-j-iWwxl0aOAIPKs6QCHxJxxeGUBEgLVUfuQHpZnowOU3zajfVqa3MVJNmS8pVmjMD3DjtP9wC674TPSpLck74aIgvjdUX0DFOLO6iA7mjdc7qomP6rMWtUWRzuJiGVEW5kttjsxnIQLt3F4Q.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=codecamp">
+
+<meta property="al:android:url" content="tg://resolve?domain=codecamp">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="Лагерь IT-специалистов&#33; 
+
+Редакция: @camprobot
+
+Вакансии в IT: @workcamp
+
+Сотрудничество: @todaycast
+">
+
+    <link rel="prev" href="/s/codecamp?before=2357">
+<link rel="canonical" href="/s/codecamp?before=2377">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="//telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?66" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?37" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/s/codecamp">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value="" />
+        <a href="/s/codecamp" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto">CodeCamp</span></div>
+              <div class="tgme_channel_info_header_labels"></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://t.me/codecamp">@codecamp</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">82.9K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">984</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">199</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">42</span> <span class="counter_type">files</span></div><div class="tgme_channel_info_counter"><span class="counter_value">973</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">Лагерь IT-специалистов&#33; <br/><br/>Редакция: <a href="https://t.me/camprobot" target="_blank">@camprobot</a><br/><br/>Вакансии в IT: <a href="https://t.me/workcamp" target="_blank">@workcamp</a><br/><br/>Сотрудничество: <a href="https://t.me/todaycast" target="_blank">@todaycast</a></div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=914038e2b2154a20d5_4563443483428852258">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=914038e2b2154a20d5_4563443483428852258">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://t.me/codecamp">
+        <i class="tgme_page_photo_image bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto">CodeCamp</span></div>
+          <div class="tgme_header_labels"></div>
+        </div>
+        <div class="tgme_header_counter">82.9K subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/codecamp">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/codecamp?before=2357" class="tme_messages_more js-messages_more" data-before="2357"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2357" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM1NywidCI6MTY4MzI4NTk1MiwiaCI6IjJhOGVmZWRhNmUyMmE2MmZhNyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5366142387870614652 1249402386_456246396" href="https://t.me/campcode/2357" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/iaZTlEHOgRhQKo3_jwLkp2m_SbRq77IPZfqpdC7QjVFQQTeYonVtK2p_1OmC7XJ4gq24lZ47oLob758VsxrUmjj-C2mcuZDCLB8uPhP-EubhltJRu7RFqB1L6N6MUiKwx8gbLXGtWOSh-pdmsqOvB-FQV2cFMXL4GJ63ZxzvJ210IHKqZUbiOOzvXoxFsiJJc9MTa2A1RS7G_2CVKXoVYo0fV7MWJemDipOaEeYM06WXSTWTjUeXMuF7oK4J3U-WRxXD3MLqkypFiZtBwqwIShL5gM-8JKl_RzrDZB4ZG2Grlvtk7qELNISYuFIsaVrVZ-wpSmd3whCyrLs_3WOc_A.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:54.375%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Пора познакомиться с <b>Lyrebird</b> — простой в использовании утилитой для изменения голоса, написанной на Python.<br/><br/>Тут есть встроенные эффекты для мужских и женских голосов, возможность делать свои пресеты, все это в красивом UI и UX — отличная возможность разобраться в создании подобных программ и немного пранкануть друзей.<br/><br/>Ссылка на <a href="https://github.com/lyrebird-voice-changer/lyrebird" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">GitHub</a>.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">60.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2357"><time datetime="2023-05-01T07:45:19+00:00" class="time">07:45</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2358" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM1OCwidCI6MTY4MzI4NTk1MiwiaCI6ImZkMGM2NjcxZGJkYjRlZjYyOSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap blured 5370984821762935891 1250529853_456248403" href="https://t.me/campcode/2358" style="width:594px;background-image:url('https://cdn4.telegram-cdn.org/file/qjyAAJUnrlnRRoYdlWIKtKk_z33MG4YQ6PPAcibyNRC0GgDHNkx59PJZMpKWTrwf4bTjfHZYWvPesW_jhsYNy3aT8Oo1Aj-0PJhMZtjmWrzEFP7A_QEOfRglW1xJTedtiXYo3rUT30Fl4CfgF9qTji0huj1924xkcfSTCcQvy-SQ6VN7dtv80cOTCnUnuVzZmO0furdGA2P1qUk5uW6CACkCJUi6GQFMX8oPKgQCdg8d6JB3bsEq9wDPUp-ksnrYEbGtvONprkpqoz9JG0Lp47d_B2Ap3_KlxrDPjVFy4jQSH1PLc3S9wP-7jrre6-FvccAMyISGLoUvXPSHya1TxQ.jpg')">
+  <div class="tgme_widget_message_photo" style="width:99%;padding-top:133.33333333333%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">QA, записываем секрет успеха</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2358"><time datetime="2023-05-02T15:23:19+00:00" class="time">15:23</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2359" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM1OSwidCI6MTY4MzI4NTk1MiwiaCI6IjFkMjJjMWE1MmYzOGNhNGRhNSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5370678491810483115 1250458530_456248235" href="https://t.me/campcode/2359" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/uNYEAZzyF-TKsB6biMWnwaLtN0HqCdWncDmVzhPIWt0uO0ERiPk9qHIgizZZ8LYlJDkSCgit42kEJbFlljt1-X24QWg8WXqJ6ZUtnOx8gbphCrZ3lokEZGCO9WNRIKOea8_ZZHhVKzuO7J46b5XO8p6Zsn_UU4sjMWJeXg4q70XhuDEzZUEASSHJMECWLd14CfWjDocs0dQ07fDJaWGmwrQVYLUwyI-PFGTRqfRhpRemHBDOxMhLpMdsDs2tSxkklljZGNws-20cW8yL4KJbOE6u-grJSbruwVIHjR5dY_N4DG_Vv6jBbjNmT7g70DtaO7DxZXxnlL6_VF2-Xr7wOg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:75%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Откладываете сдачу квартиры, потому что находитесь пока в другом городе или стране? Не ждите — найти идеальных жильцов удаленно поможет сервис <b>Яндекс Аренда.<br/><br/></b>Как это работает:<br/>— Вы передаёте ключи своим знакомым, а они — представителям Яндекс Аренды;<br/>— Эксперты сервиса делают профессиональные фотографии квартиры и размещают объявление;<br/>— Вы выбираете идеального жильца среди кандидатов по онлайн-анкетам;<br/>— Выбрали? Осталось подписать договор с помощью СМС.<br/><br/>Отслеживать все процессы, в том числе оплату аренды можно в личном кабинете. Оставляйте заявку <a href="https://arenda.yandex.ru/s/9Fx4Zx" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">по ссылке.</a><br/><br/><i>ИНН 7704340327<br/>Реклама ООО &quot;ЯНДЕКС.ВЕРТИКАЛИ&quot;<br/>5GmBfD9N</i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2359"><time datetime="2023-05-02T16:01:12+00:00" class="time">16:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2360" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2MCwidCI6MTY4MzI4NTk1MiwiaCI6IjhkMTU5YzNlYTBiNTA5ODUzNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/campcode/2360"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/rES7hbaU4qfW92ciNc-pp7IJ3lNxRu40grb7tqaCutjESoKskYCbmXlaqoCh-luyO4o1_O40z7p3MlABOdtb07PdajRqu0WB47XloOqJa_R1b6O2RBh7H7pG9vALua9aGug1hnPVHfjJbyD3fE1BXv37hbgQpG3eSpF4mgwrtVouxQTUJeYwSQDqm8AU89Kc5YRZAsIIFMVHYQarGmrDsGFzdNkFrbcemQCTAQ5kjOk4OMlRSNhKrp5v8OeeWppP1ZHPDZVX2vTdrL-uCVaOH0rSiRtb2rhFiciWqlTd8DWCldz2oRgLLcXwR3ZyhzKnYgz-URKwJVhWupUi-_so3Q')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/45268c648d.mp4?token=B3dKUsf-vaVMaKfWKwHF2Bu6npV3GqJPQyUcOnHmJIUG_5LPdbEm_v30S-u_-0czwvEhXHRmL5fEsYCNXSEcmLL043w4FFcXydj83B69ZNtO_PL8ZXuJ5-ZzqJAfAfBd9rWohe3dP6nzzBNyZrQd_H2cQU_flKo6qz7eoxAmVBXdmipyyxb6uEIxYCWHNRxAgZ3KF6_LlLkxKm3PiDberPCHLwpPa6Azbz9YRTuVBRnowfyX8fzLwkXhszzfpG8QOufAHWsuJgudZIoUp09pUXy-NmklL4xWPJi5RyUl_GnWjn9MY-xvXq6DNEmX_vaQHzEA1TLLYS-YyFmvWOo20g" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" preload muted autoplay loop playsinline></video>
+<div class="tgme_widget_message_video_wrap" style="width:640px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/45268c648d.mp4?token=B3dKUsf-vaVMaKfWKwHF2Bu6npV3GqJPQyUcOnHmJIUG_5LPdbEm_v30S-u_-0czwvEhXHRmL5fEsYCNXSEcmLL043w4FFcXydj83B69ZNtO_PL8ZXuJ5-ZzqJAfAfBd9rWohe3dP6nzzBNyZrQd_H2cQU_flKo6qz7eoxAmVBXdmipyyxb6uEIxYCWHNRxAgZ3KF6_LlLkxKm3PiDberPCHLwpPa6Azbz9YRTuVBRnowfyX8fzLwkXhszzfpG8QOufAHWsuJgudZIoUp09pUXy-NmklL4xWPJi5RyUl_GnWjn9MY-xvXq6DNEmX_vaQHzEA1TLLYS-YyFmvWOo20g" class="tgme_widget_message_video js-message_video" width="100%" height="100%" preload muted autoplay loop playsinline></video>
+</div>
+
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Прикольный видос, который показывает, как менялась популярность ЯП с годами.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">10.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2360"><time datetime="2023-05-02T17:14:29+00:00" class="time">17:14</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2361" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2MSwidCI6MTY4MzI4NTk1MiwiaCI6IjM1MWE3NDI2MjJiM2Q1NzFjZCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5373236621576620543 1251054141_456247807" href="https://t.me/campcode/2361" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/IS7pA3wEjPQBdfJCRbCNVZGdGO4RZ_2wYPqpFqn1JBwXjaxsuBzAH1YC2_tZP8wiXVWyhJhhIetdEQsoWwW5hpWF1c9USCA1JFV4cBhQEkYN9qK29ngOqLY3vdaA8TLjPD2VDWzJk1ueI3gXEvcY3DHrhYsKZSZh9X6cKTgJGkOH-WKtU9DQE-4N-Hbu9Y_YpcB5FAqRoLqManr_enIL5vUl5gYLMuP6UmMZpYAfgsAFa6baTMuyABeWpqjc3IEcEWWYMsmt7D6rP7gy-WrsyNOnyb2EAq8X3ZB7Ko4z5L9H_eNfdO5wyAFM_uRStOlDZ89U55em2nnpV66qz6mrhA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:89%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">И тут даже велосипедом не поможешь.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2361"><time datetime="2023-05-03T06:18:13+00:00" class="time">06:18</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2362" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2MiwidCI6MTY4MzI4NTk1MiwiaCI6IjNhYjViY2Y3NzFiZjgzMThiOCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5373073210955908844 1251016094_456247020" href="https://t.me/campcode/2362" style="width:700px;background-image:url('https://cdn4.telegram-cdn.org/file/Q0SPq8AjXuVYZQF2UtJlTKR_ZoQXjN-d9WY4zJxodXfaGbvY9-dPi9IRRNRpVETjlyE2D1zYJWM5jZia9toYUbQI0A9ogczXdyoeFSnp2YBVaVWrX4UBGCqiU0f7NtuKeNqC6Sd4EQiq-z7xj_OWcVFQfwcOjG546IdBHb7nOvyaZrUrlLE1WhZ1xhcPFAgQIOVgb61Tml-QFH8AKZSkGnx1IKypL1K8VVDLjPx7ejRDLGB84kflRSNIttbYxfkfFlJ1MzId6OjJasq4NVTBdBQXpBEkGK3clEztzIWRnoYvHqmr2thHgGa-Ehrg_uPEEHNwq4MTpxfvmMsvIeOsAA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:56.285714285714%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Когда поработал 5 минут</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2362"><time datetime="2023-05-03T07:15:05+00:00" class="time">07:15</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2363" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2MywidCI6MTY4MzI4NTk1MiwiaCI6ImNhOTAwNTA2YmU0YmU4YWU4YSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5370688993005522016 1250460975_456248416" href="https://t.me/campcode/2363" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/O8xzyAVPBaivACUAJZhDlxU-mf_OleBbGmoACJ5kCgHIf8Zb4b_NxwSkSalcGKJ3Le_19d1ApX1eA8zgteaQDy2t766edBm2Vyk3YW814XGmNTDtTGnzKmEy3M2PUPctkW37tbaIUx0kkfQYGuksV5mkVQs_V9sJr8iYJ_EDb6OYMU5TadBDD4OYEwuJhCal4Tk8HI_PwxWR_DuCAohYm1uB6kRwXVS3LUwENr8pczHFRyAn1v6OS23HMy34w86VQyPh6LQbi1X1J1ovG9UuKr8DYuMzZh95TS5Y7EOeVYeTmjq_rpifdQ0VF-J8qxhI3z-fOTJDfBB2RNsOaUK27g.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:75%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Написать гибкий код, почистить архитектуру, минимизировать техдолг — со всем этим помогают SOLID-принципы. </b>Юрий Афанасьев, бэкендер Авито и автор курса «Паттерны и практики написания кода», объяснил, как это работает, в новом эпизоде.<br/><br/><a href="http://clc.to/fkt_8A" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Смотрите и подписывайтесь на канал AvitoTech</a>, чтобы не пропустить выход новых выпусков.<br/><br/><i>Реклама. ООО «Авито Тех». LdtCKYr7u</i></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2363"><time datetime="2023-05-03T08:00:48+00:00" class="time">08:00</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2364" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2NCwidCI6MTY4MzI4NTk1MiwiaCI6IjU3NzAxOGExMTVjZWI2NjRhMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_document_wrap" href="https://t.me/campcode/2364">
+  <div class="tgme_widget_message_document_icon accent_bg"></div>
+  <div class="tgme_widget_message_document">
+    <div class="tgme_widget_message_document_title accent_color" dir="auto">Гид по Computer Science.pdf</div>
+    <div class="tgme_widget_message_document_extra" dir="auto">6.5 MB</div>
+  </div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Сегодня у нас на обед расширенное издание гида по Computer Science за авторством Спрингер Вильям.<br/><br/>Автор весьма неординарный, называет программистов без подготовки в области Computer Science колосом на глиняных ногах (что недалеко от правды) и хочет с помощью своего опуса дать всем колоссам устойчивую почву под ногами.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2364"><time datetime="2023-05-03T09:12:06+00:00" class="time">09:12</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2365" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2NSwidCI6MTY4MzI4NTk1MiwiaCI6ImQ4OWIyZGMyODdiZDM1MzNiMCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap blured 5373236621576620791 1251054141_456248055" href="https://t.me/campcode/2365" style="width:572px;background-image:url('https://cdn4.telegram-cdn.org/file/ThZA47DJJRGykb-nsSqURIhwJCsCXRDQM3EblxK_OZQBhet5Te5edJ1atLFxicFj2tWgzOKw_WhLFYGQsD481GsJPCcJf0KsgRojuLL0hIj8WzdjQGxDkyDhnUlQtbbumGqZDpYxdaYJRv4ooAgB5rCNbOKFRPSRWC9p8rAnO8tGt0NzeULscu4FQEajkzEyfMA_1jMVyT1AJ8ICUYBASp8EqL2ctQSNyCPsBbldH906bTJv2kgatkcLOOVImYjZ6VggypaoV8ga9Z1R4kkE69I1XO2_gv57g8c2OA8FTF3kpc2wfRkVTfqVvu4DDRoICUydzjQqCqvYm8bKTUYcEg.jpg')">
+  <div class="tgme_widget_message_photo" style="width:95.333333333333%;padding-top:133.33333333333%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Неожиданно, но ловите шпаргалку по сетке CSS.<br/><br/>В хорошем разрешении <a href="https://github.com/eludadev/css-docs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">тут</a>.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2365"><time datetime="2023-05-03T10:02:03+00:00" class="time">10:02</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2366" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2NiwidCI6MTY4MzI4NTk1MiwiaCI6ImQwZWExYmJjNTBiZTMxZjhlMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/campcode/2366"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/h8z6w2Ih-hiI_6sfdMr0TSVpMS5bI8228zGa550phQUy-1gyqZo1biTHNfcg_Gaz767EKXclZvmwEAcLOgEufZXOtyPhEKHvLVsZ04oFaSfIZ2zqU45TT4d1-uB1FPqlxkmxCmnaDPGhegdAHYJl5gld8kR3GqrpQSGD_r4BcqnSkuMoUignkaYYjV6hXnPYfVfyXl9YeXtqYaxMIsA7csIoQQX5301VdzNh1_MMV_4bVBg7yWVbcdUqUjVv53QBZ6mjH36qJ5Uj2nNcu5BMRpzpR9WW5zwEt8nvOVA0Z9Tdw8ZLhfeTqf0RNWmK1TVURjuCGmyx_9Ee9ZfIhBHNyg')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:610px;padding-top:78.688524590164%">
+  <video src="https://cdn4.telegram-cdn.org/file/06985fc2e8.mp4?token=lagwDvppIqqFzUEMHZjzq9ePqOvi6nv7aURgtIaEMeTmw4EqMQ5iigIjsws87Ez4KJMdWlpmigtpzr6musycF_qtlBLQxH5dTEOjXokJmwIH5JbIxYJXkxYIlgHHmyip46WtPxNmYCPxesq0KDI4yNVVHVdqh5VvTg8a4QqwL5D-vgJoXM7nbzQLuITqpjpz5q-IWtzzKBo9SwGCmQI2iMgdhIW9y7GASMSQt1xvsl_tJmXOV-ISRe1H3P2A4vPdDgxbK30HM1QqUZgnCYigNgQIxsJVqJPFOAb0Yn-BpFKRNQLLBEqn2BV159rW8K4Klz3SAHVYhyHlQqSSR_HxVA" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:29</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Процесс тестирования выглядит буквально так.<br/><br/>Когда-то и меня вела дорога приключений, но потом мне прострелили колено.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2366"><time datetime="2023-05-03T11:27:01+00:00" class="time">11:27</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2367" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2NywidCI6MTY4MzI4NTk1MiwiaCI6ImJhNDIwZWE2NTRjYWM3NmVkMiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5372907188995082233 1250977439_456247289" href="https://t.me/campcode/2367" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/pNmP0wAwLqVOU3--kTpuc3KFSiTkYTb3fpDc_RQtN2H3HUhbqIS-aBn5L_b_ChTIlIYVzMYqNda52SiR88i6gpZSxJUTFmNGRrtAksszlLhU7RX1flTAOabjWD1tIr1ikKXJaQG6oFEVLfgM_laf3UjLWu6kisNev5I6iufQlucpTX7KNtK7oL0MEbXpg_honfOENhhnYTffs9Wz9wwMNGVyi1klOnwWWQ5iciCZ06u0X_2N9AQ9ZwF3V58lMeZzWeLCBG4mn5OGtYkHr9St-o_2fA8l1ZmdSa3d7K4faAlzAGD6d3mwdF2_ozkCgWxxhFf11Q8du5M9JalqdHZ8LA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:66.375%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">22 апреля прошел <b>RuCTF</b> — крупнейший чемпионат в России по инфобезу. <br/><br/>Как работает: команды сражаются между собой, защищая свой компьютер от хакерских атак других участников 9 часов подряд, при этом пытаясь «ломануть» оппонентов через их уязвимости. Лучшими в этот раз стала <a href="https://cbsctf.ru/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">команда</a> Cat But Sad в состав которой вошли даже студенты-первокурсники. Соревнованию оказалось настолько успешным, что с RuCTF запартнерились даже VK.<br/><br/>Что было весьма ожидаемо — команда VK любит хантить ярких игроков RuCTF, а Дмитрий Лукшто (один из разрабов Дзен и VK) был тимлидом команды разработчиков всех заданий. Узнать о том, как прошёл чемпионат и прочитать советы по подготовке к нему на будущий год можно <a href="https://habr.com/ru/companies/vk/articles/732774/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">в статье </a>на Хабре.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2367"><time datetime="2023-05-03T12:30:16+00:00" class="time">12:30</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2368" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2OCwidCI6MTY4MzI4NTk1MiwiaCI6ImNiNzdhOGQ0NGM4ODE5YWNmMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/campcode/2368"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/MskFKDywHbEmah3cS9gppKvHHmAyYg1gzUPzTsv2I-X-F_X7S_mn1GLyEVBS9tDD6VAabUrN09xMXM0qNOeOU1lIyOaI68Se2TGfX_fQleuf93gD5_4ZEiqe6CT3TWnMoffi8FxsSHGpZAdGEFW4uJfRPGFan2lp7M65KrLDUF1HIgyu4kWZuMULNnzxMeAO8o36ilYQyQWtj7ONu0RRcruHM6mjbdqG5jJaoMTdIq5uJOIsbmxzt9aK6EU0II0SW3AP3FMVTXjEKfM7dl0dnXDYwPt6KS7BdUnIvaAhhztPhQ5OIV1jkX0fGgFXDYRpdIHG2hRw5xUzt_O7VfAWTw')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1264px;padding-top:56.962025316456%">
+  <video src="https://cdn4.telegram-cdn.org/file/0539a1116c.mp4?token=bXu7oMLQK7uAYJjeqpbpVdZO6DjgZBSeQfYD_Cb2UPF9N-wOpXoG5suZwa_mRSeobbycG0ODhdtmcKOLSFdKV8GTWkXOBD11sMZAL9nR16olo24sKo-dAD1SpGG4E93iynfzoOxl7WHt2ZBrYusYXrK5dwcVXIA_XbovCNvPW71229o7GbJNpsw--igv63VE6jCZcRsfyvUu3iKGX_Rw78TXofUtcgWfU2JkO6iua_u1AUnknIfPBk2N4N9JcDizJrTMy3jr26KwytQQOQUk7UR-cE43fAXZ9kdKbsD7kd9yPI1grSGutBakNAAvbyanXcaCA5b4x5cXLw8wzMieNA" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:50</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">За <a href="https://youtu.be/V3SKOANqI-k" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">одно видео</a> определяем стоит ли идти в геймдев и что для этого нужно. Автор <b>за 20 минут доходчиво</b> объясняет термины, технологии, библиотеки и сам процесс разработки.<br/><br/>Если думали над тем, чтобы войти в геймдев, это самое то — послушать эксперта в данной сфере. Для определившихся с выбором в конце также есть полезные советы.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2368"><time datetime="2023-05-03T14:05:49+00:00" class="time">14:05</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2369" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM2OSwidCI6MTY4MzI4NTk1MiwiaCI6IjdjMzQwZTZlYTdiODJjNzRmMiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5377619150370882978 1252074528_456246690" href="https://t.me/campcode/2369" style="width:652px;background-image:url('https://cdn4.telegram-cdn.org/file/afZzhb1VeWj71rIYOvbUUal5VKN1CzoP-_QICdJW5LNe0EsFhpLeaESCHKAHzFXO5F7xeoMp5boGNiTonh7W84ApxqbVUTgwx0t4za1ece0y-g9_4bWmBk3PBcspyJMYBx1oVmcT7MLoEDnG1aT59H9VyDx9UVjYT4eel79S4ShQZA4WrHFFAmELe0PxeJpuOaXEOZNfGF1FTERLG0ctI7PNLydQRzTGUpugg9Z-Ik4XUtc-XPcCpwfgcNfEMpl7O0XWaDhGleVs_FtDFfzYqmOL9f_Tfc3GRhNzDzgJhpSo4Rl-PLsQa7mZxt7sL3OyQxac0nn5P5CjsTGzhqS5OA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:122.69938650307%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Сходил к этому вашему психологу, стало только хуже.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">9.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2369"><time datetime="2023-05-04T07:41:45+00:00" class="time">07:41</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2370" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3MCwidCI6MTY4MzI4NTk1MiwiaCI6ImMzNDYxYjRiMWE1YmViMjRjZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+<div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<span class="tgme_widget_message_forwarded_from_name"><span dir="auto">Киллер-фича</span></span></div>
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/campcode/2370"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/NLfCpiUyn8REM42PMO0CPLFPvbvwwL578AW-xbXK2gPvyxu-UJkOvRHQ-hdBnHH6pKXX_XjHDN5U3itsYeG_pW_i_c5WgcwxNPveW4B6KqnfbCM7OBKc8tWGxPtUSif5lBk2bPOSB4tLDJCWmfGAd9zRNQENR1BABDd6sTnQ_eh9yGNXcI-zJyW5X4xb0PDFx1Wqptxkvpjoach6g7kopGFVZ1wDZ4YSs7G4Jpz622A24t_d9NvD386YkIAstTHpkllZ6SGAQlN-sg-346Lw7XbZNsU-4wHkPiCEHkFwELyQDlFgu_43RB14ipn1bducGhxZHAnDzV1dMpijCQ_reQ')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
+  <video src="https://cdn4.telegram-cdn.org/file/8e7a4172b6.mp4?token=obgeFiHahWApEbGhvehNku6sLfAVtcf04DHB2RJSpfF34Gmu2ngOzZCHMXFKk-z6D9OEPT_z1zKhs-3Y6vRyd96y4eNAIwn0mYcIHBXUSwA7LO5aKpO0m-pZszCTCtDWMf6_bT02UkaZxBhEKHbhvqqks7NSYb12PBf-VvXdY-JSyhCKYpowgqrX9qg2AiRyfdBOGb0m60gToRvnQ4vuVUlCdvjPDlw1iuFLtkdDkhyTk9x3CenkEnOrV5UGpYwQw16WVsCAYYTD9G652YId96sN2d-U5P4RA7DEFcxw028FwEWZ_kkDaBBLKWo7pJuM_LHWK_IBO3ZgzPdp79l0hw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:27</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Разработчиков из DeepMind раскритиковали за травлю <b>играющих в мяч роботов.</b> Зрителей разозлил видос, в котором роботов все время пихают и сбивают с ног, не давая им нормально поиграть.<br/><br/>Пора создавать общество защиты прав роботов.<br/><br/><a href="https://t.me/killerfeat" target="_blank">@killerfeat</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2370"><time datetime="2023-05-04T09:21:38+00:00" class="time">09:21</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2371" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3MSwidCI6MTY4MzI4NTk1MiwiaCI6IjlhYjQxODIwNjA5NDk1NjNmYiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">На Хабре вышла интересная <a href="https://habr.com/ru/articles/729998/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">статья</a> «Как выигрывать соревнования по программированию», в которой опытный тимлид делится опытом участия на хакатонах.<br/><br/>Внезапно: одним из важных факторов победы является участие и <b>внимательное изучение вводных</b>. Из интересного, упомянули соревнования на платформе VK Mini Apps (не знал, что она уже настолько разрослась) наряду с Яндексом, Росатомом и другими.<br/><br/>Присмотритесь к платформе, судя по всему, рядовому миддлу с мозгами в нужном месте побеждать в их хакатонах не сильно сложно.</div>
+<a class="tgme_widget_message_link_preview" href="https://habr.com/ru/articles/729998/?utm_campaign=16005020&amp;utm_source=telegram_flows&amp;utm_medium=social">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">Хабр</div>
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/Jy1tFeqVdKo3A9BECtcPtCh1BK_nU2Dfx11P5NuamCOGkxpVkh9NCfLGLNanWZasXd62oM2bT0USQlLbxHDOj_F6L7Qg0QBrMGu5U6MWlum8gd1eN6NeYDWZL2Wowir0tnmXEqaDxPIEfA98uEowKGxwAPaatIgUkCfgy98zCkhHCmK1QKg8JU8GibN_n7wHcc_9wqShUgv1FxT57Ezl23BEG75Z1rJJG-woUpXtA_e1Rd0y-8bgmJfBCEJ8tAWSN__tFTuQRDtGvG5RlBgKjhrgsf2JSvLinreCP9Sw-6qH3rTn3do1TwjK-DzoXdTo-9gJhKlJvBNpXnc0aJXN3g.jpg');padding-top:56.25%"></i>
+  <div class="link_preview_title" dir="auto">Как выигрывать соревнования по программированию</div>
+  <div class="link_preview_description" dir="auto">Всем привет, меня зовут Денис. В&nbsp;рабочее время я тимлид одной из&nbsp;команд отдела цифровизации в&nbsp;Росатоме, а&nbsp;в&nbsp;личное&nbsp;— фуллстек‑разработчик, у&nbsp;которого есть хобби:...</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">8.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2371"><time datetime="2023-05-04T11:51:01+00:00" class="time">11:51</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2372" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3MiwidCI6MTY4MzI4NTk1MiwiaCI6IjI2YjI2NGY5OGNlMTcwOTZhNiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_document_wrap" href="https://t.me/campcode/2372">
+  <div class="tgme_widget_message_document_icon accent_bg"></div>
+  <div class="tgme_widget_message_document">
+    <div class="tgme_widget_message_document_title accent_color" dir="auto">Интересности_Python.pdf</div>
+    <div class="tgme_widget_message_document_extra" dir="auto">160.1 KB</div>
+  </div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Нашел для вас полезную шпаргалку-обучалку, которое буквально называется «Всякие интересности Python».<br/><br/>О чем рассказывают: компилируемость Python, модуль py_compile, компиляция файлов каталога, система юнит тестирования - PyUnit, пакет PLIB, модуль для работы с документацией исходного кода PyDoc и другое.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">7.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2372"><time datetime="2023-05-04T13:00:57+00:00" class="time">13:00</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2373" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3MywidCI6MTY4MzI4NTk1MiwiaCI6ImNmYjc1NmQ5ZjY5ZTk1YTBkMiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5377564737430210998 1252061859_456247734" href="https://t.me/campcode/2373" style="width:720px;background-image:url('https://cdn4.telegram-cdn.org/file/JJh7_zLqzHmOzYdZKRzVs_sm2KxCZjt0R2kyV7PVfxvq-1PnX8X-sMjdZwy_nLyDbbNkQPbNZHBdFVdq5G4pnfXjChI_lJDMyNlRqztJi7JVwcTbxZLwwFdbendgs_MQ8L4PYrAY9d_79byyEhAF80gqFNdKWAbcJWpJYiRxQpcvnWeQmuV0EMdCFk10g_3yf4RqZ77n5xNGMz9AytgS4LZWIRVuVOhtrXPvl0iEpJ8DfqUPNFmfCMo1bcTyEgJlJYbGrHWu7vWJb_RyqDKWlVWjv5ertwVmBud7N_zeRGkWGqUyNPgnh3Yww4lcCBcpmMSFsXD55UNuHTR4ZV4yWQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:99.444444444444%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Не зря учился</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2373"><time datetime="2023-05-05T07:21:38+00:00" class="time">07:21</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2374" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3NCwidCI6MTY4MzI4NTk1MiwiaCI6IjU5MzY2Mzc5NWY0NjM2OWJjOCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Опа, <b>Hugging Face</b> совместно с <b>ServiceNow</b> собрали и выложили свою копию GitHub CoPilot —с блэкджеком и <b>бесплатно</b>.<br/><br/>Работает чуть хуже оригинальной версии, но это только начало, поэтому делаем большие ставки на развитие модели. <br/><br/>Тыкаем <a href="https://huggingface.co/bigcode/starcoder" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">тут</a>.</div>
+<a class="tgme_widget_message_link_preview" href="https://huggingface.co/bigcode/starcoder">
+  
+  <div class="link_preview_site_name accent_color" dir="auto">huggingface.co</div>
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/WXpWCYeV1JRGEKkLtKDJsQb_05iM-flrbLk3Zfiv_MO_dhJGzmAVHbL7oSXjXQH9NexbT0uda8PYBbpim1tR8xxCea-_eA4YLGj6xlm6SYpOtoS3zCM4eD9kVJW-8_O5mEFJfJUMBDcmMdlusMPbViYHLQ-d09P1jx41vwzjs37_X-QiiAPaM_8cq4_Xi5f_nAwpc5qflTAC5rp8O4APWmQmPSF3OqPl9KD4wacBYWwF_vL9NYDS0j5-vfqGJgPoYTFptVSCvUEW2xaHIFpJ4PG-DUe9bbiX12YbV9xaSsfU7SeUAb4ts0GAoFAFuz6BE4BZAiIvYLVNKjdegDXaRg.jpg');padding-top:54%"></i>
+  <div class="link_preview_title" dir="auto">bigcode/starcoder · Hugging Face</div>
+  <div class="link_preview_description" dir="auto">We’re on a journey to advance and democratize artificial intelligence through open source and open science.</div>
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2374"><time datetime="2023-05-05T08:10:17+00:00" class="time">08:10</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2375" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3NSwidCI6MTY4MzI4NTk1MiwiaCI6IjcyNjYwYmQxYzEwYjIwYzU2ZiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto">Тут недавно прошел Всемирный день паролей, и ребята из VK вместе с GeekBrains провели <a href="https://vk.cc/cnSScF" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">исследование</a>, опросив пользователей соцсети касательно их защиты:<br/><br/>— 36% опрошенных используют один пароль для всех сервисов;<br/>— 42% обходится двумя-тремя;<br/>— При этом 84% россиян знают о том, что это опасно;<br/>— 34% забивают на безопасность, потому что запоминать больше одного пароля <b>сложно</b>;<br/>— 20% не могут вспомнить, какой пароль для какого аккаунта используют (жиза);<br/>— 78% пользователей записывают свои пароли, из них 31% — в заметках, 19% в блокнотах и стикерах, а 14% в «Избранных» в Телеграм (и аналогичные решения);<br/>— 39% знают о генераторах паролей, но не используют их, а 18% респондентов слышал такое словосочетание в первый раз.<br/><br/>Оценив результаты исследований, VK и GeekBrains сделали <a href="https://vk.com/video/playlist/-777107_1?section=playlist_1" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">видосики</a>, которые обучают кибергигиене. Покажите уже своей бабушке.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2375"><time datetime="2023-05-05T08:40:08+00:00" class="time">08:40</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="campcode/2376" data-view="eyJjIjotMTMzMzgwOTk3OSwicCI6MjM3NiwidCI6MTY4MzI4NTk1MiwiaCI6IjQyZTk1M2ZjMjQzMWU3NzkxMCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/campcode"><i class="tgme_widget_message_user_photo bgcolor5" data-content="C"><img src="https://cdn4.telegram-cdn.org/file/gJZ5HjjouK0Uv5ZS6xMsRP8o8EEATXCCDgZng_IsWjEIZY1IG6eWXlCvrTmWGb_ZuFaNT49pb-HC82qsKc6YXMwIZO8U60yVBZP1VRA8w6l2nnm6GLgXSrAZenu4Ckr516-12L7ZlUyGpv3WO_8ZM1usBgCU2x3yZbPuioBq7F0eO-Y4uqhCU6OcTcHmm34Uop0UAsXz8T7wRD_7TAS4q5R4P9B5I_UInO75Ni6JW_sLs2SdkuHvqC5MpuFw_3-u5uIKQgqgUNEeBwZFxq4LrXVheraDkSu2RHMUZq8A5Aatz8or4eHN-5li7PA0mD2gC7cOrcHUtJQSUhmt0SNrgg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/campcode"><span dir="auto">CodeCamp</span></a></div>
+
+
+<a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/campcode/2376"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telegram-cdn.org/file/m9GMY9NnO_QwSL_u8FbCDUYoyodH5kmlSPzEX0z1ylcgjFSiY_CK-2VWAg-79_OjOZNp-KPD0_UL0vuo91MU7G0-WxfEwLX-Htl2gBJ7Losrqo1I_dBgr0X_fWtZUg2OqvSX6663MeIMVi2i4IppIl7t0fMGXStvoGGPKQgz-U3f_MBYPC6c_arx9OczRpdXsdTbiQj5kl2HQCBMXjRj3Ub33NbQf5SieCWuU4rl6mqta14ssQ9foqtVKJCQSzXzieVLKHkFh9ggj_QzrZNtSVVxWlWuaH7-4OJaAhAhSVdCOoVA26EtzZ1blXHHg9ITpeA6kRZPXPf-InJulEtLGw')"></i>
+<video src="https://cdn4.telegram-cdn.org/file/50371289b4.mp4?token=fi0JnBe5e3bSZ_OOGEcjOHqwv7qbZauHutGa7krbDUrTDEydw_ivfR2DuYQo7jCsigOiRqvhm4-xaC7r7NiBxGLEZukDa74UhaH3dkBOwDR6rKzOG9M2pGOoKXmR0VKLKpIxPwGGM2aVakia59EsAf9mAdkJ_a6cPvL9L7NPCQXVsQQpv2WyQ_ibw5Q59mT8OhyZyHoEg4jC0vls648U1-EVcZHvEiYfZqfXEP0EsV-cHSUaAHMMHwOhn6Am72r-pYt_S-qLxDGPCsCcm0CEgrsLdvbPHfMfGAATSAPKm64XVLGMfaIggfIefwgirNf4rUvpYnVMKEOr833cCW3GPQ" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
+<div class="tgme_widget_message_video_wrap" style="width:560px;padding-top:133.33333333333%">
+  <video src="https://cdn4.telegram-cdn.org/file/50371289b4.mp4?token=fi0JnBe5e3bSZ_OOGEcjOHqwv7qbZauHutGa7krbDUrTDEydw_ivfR2DuYQo7jCsigOiRqvhm4-xaC7r7NiBxGLEZukDa74UhaH3dkBOwDR6rKzOG9M2pGOoKXmR0VKLKpIxPwGGM2aVakia59EsAf9mAdkJ_a6cPvL9L7NPCQXVsQQpv2WyQ_ibw5Q59mT8OhyZyHoEg4jC0vls648U1-EVcZHvEiYfZqfXEP0EsV-cHSUaAHMMHwOhn6Am72r-pYt_S-qLxDGPCsCcm0CEgrsLdvbPHfMfGAATSAPKm64XVLGMfaIggfIefwgirNf4rUvpYnVMKEOr833cCW3GPQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:22</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Архивные кадры: джун устраивается на первую работу.</div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">3.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/campcode/2376"><time datetime="2023-05-05T10:26:48+00:00" class="time">10:26</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div>
+    </section>
+  </div>
+</main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//telegram.org/js/tgsticker.js?31"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?62"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init();
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 55.92ms -->

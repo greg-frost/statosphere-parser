@@ -1,0 +1,17 @@
+{{define "content"}}
+	<form class="form">
+		{{with .Fields}}
+			{{template "form.html" .}}
+			<div class="field">
+				<label for="messages">{{.Messages.Caption}}</label>
+				<input type="text" name="messages" id="messages" value="{{.Messages.Value}}" class="small">
+				&nbsp;
+				<input type="checkbox" name="exact" id="exact"{{if .Exact.Value}} checked="checked"{{end}}>
+				<label for="exact">{{.Exact.Caption}}</label>
+			</div>
+		{{end}}
+		<div class="buttons">
+			<input type="submit" value="{{.Submit}}" class="button" />
+		</div>
+	</form>
+{{end}}

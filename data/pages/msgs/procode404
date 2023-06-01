@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>[404] — программирование – Telegram</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible"
+     content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    
+<meta property="og:title" content="[404] — программирование">
+<meta property="og:image" content="https://cdn4.telegram-cdn.org/file/vhT_88er7dsD9mz8IrH41CblU4fjaVKXRwWSq9U8UXQPBuA7-CkI64D3Pw2Fi2hZJNPXG9qOVJMw9RbUpR89WoRpwHfL7jvh6KJmKvdHqa8Ke3pcbvK7Q_69DXOZcKyPGQSG4f237prxFyK3B4N7bi24XHGQGS4e9McVrC-xJ_7_Z1alIxNsUt95OpKLdI3VYlgM5dd3EEZQq4fOacHsH_q8qA1vswointECFQAct-Rgc7UtL9XDjjH7OybjTvXGuOUgc7RNC57ZQkYaKV2443NeSdKlJ1c4zOA_lS2_XiWeSEdP_-x0uf5tOW1RUO3ZgMqCWlN9McCMJDCoLntzTQ.jpg">
+<meta property="og:site_name" content="Telegram">
+<meta property="og:description" content="Научим тебя программировать бесплатно.
+
+Автор: @nankok
+
+Сотрудничество: @NeuroNeron
+Реклама: telega.in/channels/procode404/card?r=sJmHhPPD
+
+Рекламодателям: bit.ly/3y1Py4">
+
+<meta property="twitter:title" content="[404] — программирование">
+<meta property="twitter:image" content="https://cdn4.telegram-cdn.org/file/vhT_88er7dsD9mz8IrH41CblU4fjaVKXRwWSq9U8UXQPBuA7-CkI64D3Pw2Fi2hZJNPXG9qOVJMw9RbUpR89WoRpwHfL7jvh6KJmKvdHqa8Ke3pcbvK7Q_69DXOZcKyPGQSG4f237prxFyK3B4N7bi24XHGQGS4e9McVrC-xJ_7_Z1alIxNsUt95OpKLdI3VYlgM5dd3EEZQq4fOacHsH_q8qA1vswointECFQAct-Rgc7UtL9XDjjH7OybjTvXGuOUgc7RNC57ZQkYaKV2443NeSdKlJ1c4zOA_lS2_XiWeSEdP_-x0uf5tOW1RUO3ZgMqCWlN9McCMJDCoLntzTQ.jpg">
+<meta property="twitter:site" content="@Telegram">
+
+<meta property="al:ios:app_store_id" content="686449807">
+<meta property="al:ios:app_name" content="Telegram Messenger">
+<meta property="al:ios:url" content="tg://resolve?domain=procode404">
+
+<meta property="al:android:url" content="tg://resolve?domain=procode404">
+<meta property="al:android:app_name" content="Telegram">
+<meta property="al:android:package" content="org.telegram.messenger">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Telegram">
+<meta name="twitter:description" content="Научим тебя программировать бесплатно.
+
+Автор: @nankok
+
+Сотрудничество: @NeuroNeron
+Реклама: telega.in/channels/procode404/card?r=sJmHhPPD
+
+Рекламодателям: bit.ly/3y1Py4
+">
+
+    <link rel="prev" href="/s/procode404?before=2307">
+<link rel="canonical" href="/s/procode404?before=2333">
+
+    <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
+    <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="//telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="//telegram.org/img/favicon.ico" type="image/x-icon" />
+    <link href="//telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link href="//telegram.org/css/widget-frame.css?66" rel="stylesheet" media="screen">
+    <link href="//telegram.org/css/telegram-web.css?37" rel="stylesheet" media="screen">
+    <script>TBaseUrl='/';</script>
+  </head>
+  <body class="widget_frame_base tgme_webpreview emoji_image thin_box_shadow tme_mode no_transitions">
+    <div class="tgme_background_wrap">
+      <canvas id="tgme_background" class="tgme_background" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+      <div class="tgme_background_pattern"></div>
+    </div>
+    <header class="tgme_header search_collapsed">
+  <div class="tgme_container">
+    <div class="tgme_header_search">
+      <form class="tgme_header_search_form" action="/s/procode404">
+        <svg class="tgme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20"><g fill="none" stroke="#7D7F81" stroke-width="1.4"><circle cx="9" cy="9" r="6"></circle><path d="M13.5,13.5 L17,17" stroke-linecap="round"></path></g></svg>
+        <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off" value="" />
+        <a href="/s/procode404" class="tgme_header_search_form_clear"><svg class="tgme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20"><g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5"><path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/><path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/><path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/><path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/><path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/><path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/><path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/><path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/><path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/><path d="M186 14l8-8m0 8l-8-8"/></g></svg></a>
+      </form>
+    </div>
+    <div class="tgme_header_right_column">
+      <section class="tgme_right_column">
+        <div class="tgme_channel_info">
+          <div class="tgme_channel_info_header">
+            <i class="tgme_page_photo_image bgcolor4" data-content="4п"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i>
+            <div class="tgme_channel_info_header_title_wrap">
+              <div class="tgme_channel_info_header_title"><span dir="auto">[404] — программирование</span></div>
+              <div class="tgme_channel_info_header_labels"></div>
+            </div>
+            <div class="tgme_channel_info_header_username"><a href="https://t.me/procode404">@procode404</a></div>
+          </div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">62.1K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">90</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">2</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">835</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">Научим тебя программировать бесплатно.<br/><br/>Автор: <a href="https://t.me/nankok" target="_blank">@nankok</a><br/><br/>Сотрудничество: <a href="https://t.me/NeuroNeron" target="_blank">@NeuroNeron</a><br/>Реклама: <a href="http://telega.in/channels/procode404/card?r=sJmHhPPD" target="_blank" rel="noopener">telega.in/channels/procode404/card?r=sJmHhPPD</a><br/><br/>Рекламодателям: <a href="http://bit.ly/3y1Py4" target="_blank" rel="noopener">bit.ly/3y1Py4</a></div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=fd7c28ce858bbeb30a_14369741604528751540">
+            <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
+          </a>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="tgme_header_info">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=fd7c28ce858bbeb30a_14369741604528751540">
+        <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
+      </a>
+      <a class="tgme_header_link" href="https://t.me/procode404">
+        <i class="tgme_page_photo_image bgcolor4" data-content="4п"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i>
+        <div class="tgme_header_title_wrap">
+          <div class="tgme_header_title"><span dir="auto">[404] — программирование</span></div>
+          <div class="tgme_header_labels"></div>
+        </div>
+        <div class="tgme_header_counter">62.1K subscribers</div>
+      </a>
+    </div>
+  </div>
+</header>
+<main class="tgme_main" data-url="/procode404">
+  <div class="tgme_container">
+    <section class="tgme_channel_history js-message_history">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/procode404?before=2307" class="tme_messages_more js-messages_more" data-before="2307"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2307" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMwNywidCI6MTY4MzM1OTM3MSwiaCI6ImM0NjBmNTY5MjdlNDNjYTVkMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/3f554b34fcdb25b0a30ec.flv" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Video</a> <b>Как работать с Prometheus в Go</b> — <a href="https://youtube.com/watch?v=6pQQw-qEoCo" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[21:46]<br/><br/></a>Метрики важны для понимания производительности и использования ресурсов микрослужб. Самым популярным инструментом для мониторинга является Prometheus.<br/><br/>В видео рассказано о работе с Prometheus в Go и интеграции экспортера в приложение на примере рекламного сервера<br/><br/><a href="https://youtube.com/watch?v=6pQQw-qEoCo" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23go">#go</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/3f554b34fcdb25b0a30ec.flv">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/Vi9G4Kdsyu7bQ40TdjgG7xTKLMO2U80nZJPRZ4kwXB-Ld3sQWm_8lupb4JF3HMG6tCwLeajiY7QZLYoHxjr3G_OEtrUkuKjsBlYb6woed-RTT6hq8HWQElnSvy6x5FriHgn58_YsS197WsCRcl5_Lcl8_PUUjsEMQD_eaia6gxFLrJ0oHv-ucKPqCOkJd-byKBwX1jIAkM36CPhCLFGVZ663H6vGjIOGonQkzVzYXWyPXZJbNSmXQca3rU0xPVAAKZE5y7jAHjsgyCQAL5yMddK9Ldf0976CvCvGT2mFsxmi8Ib9pzA1bxuT6Ip1IyQm3YXUsp7h-8YCht9H1Nv6BA.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">7.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2307"><time datetime="2023-04-18T11:45:22+00:00" class="time">11:45</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2308" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMwOCwidCI6MTY4MzM1OTM3MSwiaCI6ImVlZmFlZWQ3ZGJjYmJjZTVjYiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/a389882cc973c390dab2e.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i> <b>Сравниваем скорость встраиваемых key-value баз данных</b> — <a href="https://youtube.com/watch?v=HGUSMFvFxoA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[11:31]<br/><br/></a>этом видео разбирается, как выбрать быструю и эффективную встроенную key-value базу данных для вашего приложения на Go. Какие недостатки у Redis и есть ли альтернативы.<br/><br/>Из ролика вы узнаете о технологиях, лежащих в основе Bolt, LevelDB и Badger, а также увидите их производительность в разных сценариях.<br/><br/><a href="https://youtube.com/watch?v=HGUSMFvFxoA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23go">#go</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/a389882cc973c390dab2e.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/V2ZgjGcIJklyfsqAOpWsRxovzfb3D1-_V-0utTqmfCRlcMR7zT2ERsQK9KheEYNWS23AZDoiZMTxDHRmNdb-cy5jK7JWouQtGv_huy154jSuJhW2Y_-oKVYw95mszV1rrGdFKBPz8ikIjO0SeLeF2TjPJ0etWnzUnQtdux-4q3f-z29mwg0e_hou2kVtWVWU3CaHS753BDWrxUz6ug-IiC0DjxAznk5XXIw6-gycLWi7K3C6T5FHHdmpgyXa68KWFllt251aQK1JjuBglIPUsNN1YhePxVE3lOTTrEpOS_JPEAoemSrIMD3OmVbdLEPEDMw8ECD0Vd4tT44xymzdJg.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">6.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2308"><time datetime="2023-04-19T11:24:40+00:00" class="time">11:24</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2309" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMwOSwidCI6MTY4MzM1OTM3MSwiaCI6IjM2ODI4YmEwZGUwNTRkNTIzMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/d5dee303f37b78fc4d92c.jpg" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA791E2808DF09F92BB.png')"><b>🧑‍💻</b></i> <b>DevOps здорового человека</b> — <a href="https://www.youtube.com/watch?v=htm12lYKDUs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[02:57:40]<br/><br/></a>DevOps-инженер занимается синхронизацией этапов разработки продукта. Он умеет программировать и быстро изучает новые инструменты.<br/><br/>Но работа эта не из простых. Если вы всё-таки решили попробовать себя в этом направлении, то начните с этого видео. Так вы точно поймёте, нравится оно вам или нет.<br/><br/><a href="https://www.youtube.com/watch?v=htm12lYKDUs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F">#профессия</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/d5dee303f37b78fc4d92c.jpg">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/JFO4QW9sO7-FO-7jTlJ2a5qP0USmkB5jOP3zzNRHE9ribNQmzBEMMKDCPlbZsSEYRpLmxVFuv2okkLIrM9P_9q6Z6tNlvHhPdyoC_R3UCaF8-RB8XMKI_pK3dd4JCFv7ohF-iJ0b9ANtJcKwBpEiZ9_v7ZZGiCVnA_Mg9zWnRoMofqkTHQzHR6yL53Bqt6uKoGB4IdXAOm_Qvmz0ELDPy0m0_O3bJ6eG-Oqg-IK432inIwzGEM3F-_6oVIGy_sHezbuPgJRwoK1KtGcJrF4VYGEGtnSoInsaKS1mpI3g-NeOJSduNhroJ2zU3JY3-qMBqx78RxF8sp75ePnYj8ZcfA.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">7.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2309"><time datetime="2023-04-20T09:13:32+00:00" class="time">09:13</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2310" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMxMCwidCI6MTY4MzM1OTM3MSwiaCI6IjNkZmRkNDhjZmQxMzA5YThmZiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/7c63758dc0446df32c177.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> <b>Программистский сленг: как не запутаться в терминах</b> — <a href="https://youtube.com/watch?v=4KPBdvKfILc" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[11:43]<br/><br/></a>«Сначала мержим ветки, потом деплоим, тестим и грузим на продакшен. Я прослежу, чтобы бек не полетел, ты отвечай за фронт» — если вы всё поняли, можете смело пропускать ролик.<br/><br/>Если нет, то это видео для вас. Здесь вы узнаете базовые термины, нужны программисту, такие как: фреймворк, кроссплатформенность, либа.<br/><br/><a href="https://youtube.com/watch?v=4KPBdvKfILc" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/7c63758dc0446df32c177.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/PRMEGWTfTTVEBg1E7HENWOicPzgiLGPLpF_FB4FrlcMRL3kLhlnTCS0-YdmEx4Fm1masT40bocFHXLIrjLe5Kx3pAjRuuDd3ie-P2kxFo8Vyn7Ym5pFATsYgZbCGzy9PI6ze1xjg875R7F2wUtX29sdvqNE7NBjgXAubBywmCmMQDbj3aTCz3nhfG7owoGLS8JI_RHtFdt4dbNZ1hGxVUZhhev_64Lmvp0_RAzho1ZlDWA5BCpmQp8V69eznclU3WXMo7fuuLZM4H8CKEwGA8Kr-HDGDHyBTVmHdZ2Qu71TrZ3Cd9SRJAamy-LUd4u2tig65A1udmlnOPGfUPJKmZw.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2310"><time datetime="2023-04-21T09:05:59+00:00" class="time">09:05</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2313" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMxMywidCI6MTY4MzM1OTM3MSwiaCI6IjgzODA2NzZlMmY3NzllOWFiMSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/c08bc21498c300f2de6e9.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA6BE.png')"><b>🦾</b></i> <b>Сильная, слабая, динамическая и статическая типизации</b> — <a href="https://www.youtube.com/watch?v=9iBg5a01si8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[12:33]<br/><br/></a>Java — это язык со статической типизацией, а Python — язык с динамической типизацией. Если вы не понимаете, в чём разница, то это видео как раз для вас.<br/><br/>Из него вы узнаете не только про отличия динамической и статической типизации, но и поймёте, что такое сильная и слабая типизация, что лучше подходит и для чего.<br/><br/><a href="https://www.youtube.com/watch?v=9iBg5a01si8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/c08bc21498c300f2de6e9.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/jsCg1g1YkbcNriJHWBzdpAkU2obTAB8y7p-rWm4Q2cEChSCglqjS9m3BlBAfWNKgFwCs379EqY5vMgQNi_fvYDxdZZuVsF1EG2iAmQdU0L5X8CEHfjkKRHG0MFJFYHJzTEDKG7y1RRDjaJsEhNHBa0wxaTbSfIu_y7w3rvqRMoTILKMADKNy8kPXBlpfnlqSJCbom3sszc06BNA432iNePfELZ4hu2dCk7wxurtYtJY456KWh__YOHiq-Y__INf9Acor0KtsBguKeeTsuf23OIm0gzR1D6pw_7YThx3XFsquQtHIgGleQXvs2k3wxWdTS7OkMLaep4Th7SySuXMS1A.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2313"><time datetime="2023-04-22T14:26:19+00:00" class="time">14:26</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2314" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMxNCwidCI6MTY4MzM1OTM3MSwiaCI6ImFiZTcxNDBjYjZhYTRjN2JiNyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/c8b8f531fbf9a335166e3.mp4" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Video</a><b>Что учить, чтобы стать аналитиком в IT?</b> — <a href="https://youtube.com/watch?v=iiGWj4aavbk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[13:47]<br/><br/></a>Видео представляет собой обзор основных инструментов, необходимых для того, чтобы стать ИТ-аналитиком.<br/><br/>Речь пойдёт про базы данных (Microsoft SQL Server, MySQL и PostgreSQL) и базовые библиотеки для визуализации данных (Pandas и Matplotlib).<br/><br/><a href="https://youtube.com/watch?v=iiGWj4aavbk" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F">#профессия</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/c8b8f531fbf9a335166e3.mp4">
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2314"><time datetime="2023-04-23T10:23:51+00:00" class="time">10:23</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2315" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMxNSwidCI6MTY4MzM1OTM3MSwiaCI6ImFhOWM1NTAzY2VjYjhjOWUwNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/ef44a953c318a09119654.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')"><b>🧠</b></i> <b>Кто такие devOps и что такое Docker</b> — <a href="https://youtube.com/watch?v=JC_OyWpqNSA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[28:10]<br/><br/></a>В видео речь пойдёт про технологии для devOps, такие как Docker, Kubernetes и микросервисы, в контексте облачных вычислений.<br/><br/>Речь также пойдёт про devOps, чем занимаются эти ребята и почему без правильной инфраструктуры ни одни проект не выживет.<br/><br/><a href="https://youtube.com/watch?v=JC_OyWpqNSA" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/ef44a953c318a09119654.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/j68YfBGQkVdx3JCsVUMwSL4RdGRHmYFXC73RwjLTvHLQGsqv_et81opH57QXI3kKuERC_hPLXyXnNXDetyqUT-gFskX7Uqn4UgSUhIYqfa_0Da_ssDU15sKrqxZTMBHbh6xQHfD2n6yHi0RNJRKDKpwGJK2Z195HUvtuJj0o-C-Nen-ZI4CL6wn032BQQ61TOZjTRyOhkV6Y37UbHjYvvH0nCq4wHwVVN_98pZ8KSehBTBGHp_25xJbthocsziB_edGI6g9V5mlmP7wzLadyX1unLc01EN4ZrVikGDrosgoMUiGX_QVNsd49m9Iwlir2cYwBXwPmG73VW2GcNO6Ddw.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2315"><time datetime="2023-04-24T09:06:28+00:00" class="time">09:06</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2316" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMxNiwidCI6MTY4MzM1OTM3MSwiaCI6ImM1MzNkMDY0ZTUwZjFmNWJkNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/5d0fd0cc63cebabe2ee5d.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F908D.png')"><b>🐍</b></i> <b>Python на рынке</b> — <a href="https://www.youtube.com/watch?v=dc0DXUWefrs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[11:39]<br/><br/></a>И нет, не на том рынке, на который ходит ваша бабушка. Python — очень популярный язык, поэтому если вы хотите зарабатывать на нём, вам придется изрядно попотеть из-за большой конкуренции. <br/><br/>Из видео вы узнаете про сферы использования Python, наличие вакансий и зарплату, а также поймёте, что нужно изучать, чтобы с ноги влиться в эту сферу.<br/><br/><a href="https://www.youtube.com/watch?v=dc0DXUWefrs" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23python">#python</a> <a href="?q=%23%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F">#профессия</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/5d0fd0cc63cebabe2ee5d.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/ZLn2i1Gzk2Fd0jR6wg7WBWoZEjgCSyVG9mRG_-TBS8Aws5Q0tG0u3PFGE5jiJDd0k3gYpjrz3uWZFpfqv6q6chkC4TaDPVY1mhObDO6lp-IhBXG5zMvQNUVOdrmTa1gtrOthBBUWuFj3z6JIaNWkRf1LTEuSJYUZbdylsnAcZK60TlND0IrbPHDkFP65bTUFKALcaIVI1apxU2ExnyUPM-cpwb1arqn32mBrx9rlTbMO7vTUl_dKCE8KheAL3cz51_xiCBWKaDtlK849ryi8GsBg741prKr2ItTrwIMGU2vV--Vj6b3T_k0WEyJR-KTbdEDRBcqGKrCy4aneSxPzwQ.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2316"><time datetime="2023-04-25T14:51:28+00:00" class="time">14:51</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2318" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMxOCwidCI6MTY4MzM1OTM3MSwiaCI6IjM4NDQ5YTI3NTM2YTJjNWY1ZSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/ccfd5ed540eec6dec93ae.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> <b>Что такое бизнес-логика и как ее изолировать</b> — <a href="https://youtube.com/watch?v=gFFDolTeAQw" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[1:02:40]<br/><br/></a>Бизнес-логика — та часть кода, отвечает за всё происходящее в приложении, основной функционал, за который бизнес получает деньги. <br/><br/>Бизнес-логика часто меняется, поэтому её стоит изолировать. Как выделить нужный код и изолировать его от остального вы узнаете из видео:<br/><br/><a href="https://youtube.com/watch?v=gFFDolTeAQw" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/ccfd5ed540eec6dec93ae.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/ULVAaPNbGtItzhoC9Rl1xerUbYjRJawJiFuArK-4jPgQLg2eX2nO1i2fXw5fI6PlhyIedSsvTn_uFmGUaLTsjoepf0u9N9dvfTiC7E5aiuAX_XymA3E7kxZAkyPu_x1rypEZQ_e186z7GG4wgmp4Z-prx_4JZDTNCTZ2_AYUklpJdZVxplRj9bz-m6HPEeYPV26Db7zpCF8Fms54NxtbArJJmcupLw4pOXA8BKWt-zR2kSQXPQtbeMTLKZc1BXv0VgcelKWHiNaXqyQNHxETaJwERNXcYvDjXuAARqoHZlt9sX5n37XSRLpvbE0BWG83rqRtBheFeW48g02bmYAbtw.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2318"><time datetime="2023-04-26T10:00:59+00:00" class="time">10:00</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2320" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyMCwidCI6MTY4MzM1OTM3MSwiaCI6IjU3MTVmYTRkY2VmMmEwMjUwOCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/bc900db049f116ec93415.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> Процесс загрузки web-страницы</b> — <a href="https://www.youtube.com/watch?v=jBvkN8_c7t8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[25:18]<br/><br/></a>В видео рассказывается о каждом этапе процесса загрузки страницы, включая преобразование имени веб-сайта в адрес сервера, установление безопасного соединения, извлечение данных из базы данных, создание разметки, оптимизацию и отображение веб-сайта в браузере.<br/><br/>Этот вопрос часто встречается на собеседованиях, поэтому рекомендую посмотреть:<br/><br/><a href="https://www.youtube.com/watch?v=jBvkN8_c7t8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/bc900db049f116ec93415.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/OkVor9-85jo_umRxE3puCuNW4V-5Fb4g6PaCEIqGwFDBOZo9HkeyuhdTG4vxUXXIVo4jbQ2xRRjcUS_OZY7T5gjRKkb17KOBfZEj200u7RryRkYcsb6SKiPYgyEaLfilo3ZbMA0t69DMJsShK8D0ju1ln0Cvi7WIThempSyYDSJ5SUF2ct5bkz5gH9Pj_qDko874L9RwbdVw0PHPwOQTXeW0kF6kyQ-wXroh6AM5vFk4VhhrWXAIl480xZgm5JDyrWnrLQxp3Q7K2pp7RQVe4zEW5dTSJsXCOxHfD7M2KRMV9f53R-5gVRI_NCt2tp_GuPyVi5wcOj_zTNeLSBCXVQ.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2320"><time datetime="2023-04-27T09:04:26+00:00" class="time">09:04</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2321" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyMSwidCI6MTY4MzM1OTM3MSwiaCI6ImRhM2IyNWUwZjE0NTQwY2Q5NCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/8e47ba83d8dc4aa52bfa4.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7A9.png')"><b>🧩</b></i> <b>Как работают графы</b> — <a href="https://www.youtube.com/watch?v=VehB3eglQMQ" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[22:45]<br/><br/></a>Граф – совокупность точек, соединенных линиями. Структура данных, которая часто встречается при решении задач.<br/><br/>В этом ролике вы узнаете что такое графы, как они работают и где их применять.<br/><br/><a href="https://www.youtube.com/watch?v=VehB3eglQMQ" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/8e47ba83d8dc4aa52bfa4.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/KWVxJvw4W3gQtECGDoXPeu_FEHDluRAq9qiIW8KfgpdAm9aBNCmKJRTxBoJmGh-g3keZ9R9kmSOQ1b5ns51DFNrbVlcOsBRAXHPSkGuInLvzPcSu_D76tXEUr3FxCg0g3Bdo6--WnopIHtBfibJBBZEDVE4xbsCVNKuJlClH4v9gkgCHggVH_ZVWEi5apz4XRro6mELJI8hImrQbr8Jmf9E5UF1nkg6IfepGfbe-z8ZTkP4pv4oeMHZj0RjRwbSrdf-smHakBnwuic5kEeBJWY6u0AUgqPfiwPU6bn5N36UfJOS2jgZqwdamxQBz8LB8QyBWWSte_6v_4tJiit7ayQ.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2321"><time datetime="2023-04-28T10:23:26+00:00" class="time">10:23</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2323" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyMywidCI6MTY4MzM1OTM3MSwiaCI6IjQzZjQ4NmU4ODY1NWIyYzFjZCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/b844cd699a449ca4c1dd9.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> Структуры данных в JavaScript</b> — <a href="https://www.youtube.com/watch?v=dgCsoASa8k0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[43:07]<br/><br/></a>На этой презентации кратко рассказывается про временную сложность алгоритмов (О-нотация), от чего зависит скорость выполнения операций.<br/><br/>Дальше речь идёт про сами структуры данных в JavaScript, такие как массив, список, множество и сравнивается их производительность.<br/><br/><a href="https://www.youtube.com/watch?v=dgCsoASa8k0" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23web">#web</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/b844cd699a449ca4c1dd9.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/PgwpBGf5N5X5IEjLAggj8lKROCPX4J18RpCv9-VfkcuSv8IXWw9kexA6zQFFhUndxVWM0GnXd1wzVeCAiEu9fmZKgSS3mrnJHq8eVA1x-xD_SeNQEVC0DhieblQTzJNxnSFHw_BsrZcEU_FAkoSUcAZsY3GmYL5j1Qfe8PqF0cj-eTO1S0_zmgMk3eEPfCw3-vzV2b_cCcV4fBxrS-5kmnopdtBPfe_1pcVVOObY2kSnJz1ycEqxuVcqjiYXp_ZvZQNEUL_21vwG0wAup457yRF4ucZ3e1fODfyWJ-QtRd88e9ilySHegmb8GxHiM36wg6ZDe_xqZN-Tk90iC82bZw.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.4K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2323"><time datetime="2023-04-29T10:38:37+00:00" class="time">10:38</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2324" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyNCwidCI6MTY4MzM1OTM3MSwiaCI6ImNjODc4OGIwZWFhYjRmN2E2MyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/439e5f0954cff0f24ba84.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i> <b>Чем хорош Golang?</b> — <a href="https://youtube.com/watch?v=HQULZLebAvM" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[18:33]<br/><br/></a>Хоть этот язык и не такой популярный, как Java, Python или JS, но его всё равно часто используют в сложных и быстрых системах.<br/><br/>Чем так хорош этот язык? Что на нём пишут? И сколько платят разработчикам на Go? На все эти вопросы дал ответ автор этого видео.<br/><br/><a href="https://youtube.com/watch?v=HQULZLebAvM" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23go">#go</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/439e5f0954cff0f24ba84.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/embz-YLUch0kLdbfsoeqo_fIacDWuFpogBq-4Up-kORNBjk0ClN6a73kyIuxakVKyHq4tXNvVYMMGfYz4g_d-Ixzzu3BCIXS84RM-Vb_ZLSGgH0LwRIdI3zA3a9Fz1TvofJ58001rSyOJ7Rme3O2WC6QXFRBHmds9Jpg8Zp6vCS8IShyYeJg_ORCfnVzTAoWl3T8x5B9ljR9O6y2pXtG67KtbYT_z_ael1BUQwciYIoQay28uESIgIHahB2tQyDW1LLv0fIQ78PDsQCY43BG8tQ6wnhZWJItqpp2y3jI9wpYvbTJkrdSXRnK1FWbwsB2fP4MGq3HrMcQzujEcpmCDw.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2324"><time datetime="2023-04-30T14:18:09+00:00" class="time">14:18</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2325" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyNSwidCI6MTY4MzM1OTM3MSwiaCI6IjcyNjFmOTlmMTY5NzRjNWMyNCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/0416f751da79ddf63af44.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> Пишем Telegram бота, который говорит с ChatGPT</b> — <a href="https://www.youtube.com/watch?v=-6ufFPvp6CY" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[1:31:19]<br/><br/></a>И говорит в прямом смысле слова, бот принимает голосовые сообщения, переводит их в текст и пересылает их ChatGPT.<br/><br/>Автор создаёт Telegram бота на языке JavaScript, подключает его к инструментам OpenAI (speech-to-text, ChatGPT) и загружает на сервер.<br/><br/><a href="https://www.youtube.com/watch?v=-6ufFPvp6CY" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23web">#web</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/0416f751da79ddf63af44.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/eyc58cxcTiI1EEqUCkCtclmIhov2IQzTcXAj5ghGMtJkXy7AzyYyVjgGKA2FrtxWW72xP3Ph68ocK_wK6Sy0qnrG8E46zio_-t-DTlWsR5n_XOEuPnsveheuyVo7zYUAFLENoLWnUNslht4QriVZNiNf40_FOgwofvsvoWNZgdw7w5zYCUvjtAjDQz4WmlVu7Ab_i92M63ZbVBAfEPmZnNyq7qFV-D6HsZVIdS1J_sHeddm57Dh2oLa3ToNzOJLn6CcRQ4d54aRrLQMvq6xh-Zir0J3PfmJkgLS85dA6is2_cx99ILiXSaPiL632vGtk0FBddYTRzt9fG3VtGDX40Q.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">5.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2325"><time datetime="2023-05-01T09:48:32+00:00" class="time">09:48</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2326" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyNiwidCI6MTY4MzM1OTM3MSwiaCI6IjlhY2QyMjFiODMyYzViYmJhYyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Решаем повседневные задачи при помощи нейросети GigaChat</b> — нейронки могут упрощать нам не только работу, но и жизнь.<br/><br/>Например, если вы не знаете, как <b>провести майские праздники</b> — спросите GigaChat. Он учтет ваши вкусы, предпочтения и поможет вам решить, чем заняться. Реально крутой помощник, который отлично общается на русском языке и запоминает контекст беседы.<br/><br/>Чтобы <b>получить доступ к GigaChat раньше других</b> — подписывайтесь на <a href="https://t.me/+9alCZq6J8s44YTYy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">официальный канал.</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2326"><time datetime="2023-05-02T12:18:20+00:00" class="time">12:18</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2327" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyNywidCI6MTY4MzM1OTM3MSwiaCI6ImU5ZjM2NGFlOTg0NzM3NTcyZiJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/38d4aed514dc58b441340.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA791E2808DF09F92BB.png')"><b>🧑‍💻</b></i> <b>Как работает хэширование</b> — <a href="https://www.youtube.com/watch?v=xV8USnjKGCU" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[21:38]<br/><br/></a>С помощью хэш-функций в базах данных хранят пароли так, что получив их хакер не сможет воспользоваться ими на сайте. Сможет только если подберёт пароль.<br/><br/>Хэширование нужно и в других задачах. Какие бывают хэш функции, где они используется и зачем вообще нужно хэширование вы узнаете их ролика:<br/><br/><a href="https://www.youtube.com/watch?v=xV8USnjKGCU" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/38d4aed514dc58b441340.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/Xcmw1dprLSL5xb587ky2oPE9L_38ifEVfbimpb-qdMg7Q2LDz-11BdGo8j37wVticknQzdPX0uvonG9sfi_BmACCQiRq72VfnJQ8PiLZSdEmj85W-CJ1AiSnNBpXN2CdT-RPPcFueLSb1hfU9i3D6Qp8CEU66fdSLOiq6WceuyEPTSouVR1xQzDbrjpgZuCE8HyTw3Tm7YffDuk505qF11nYCi-fOlEp6bCkleubl4711L_cjgxYwyD6om6pO5rocSyQRVKlcpcT9nynJ3bglBgcju5BNEdTNCRe4VPEy_lEjR_QfoYzkLSwQGoJ6LNAbAqd5ddwZvVFd6Z3TfByuA.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2327"><time datetime="2023-05-02T13:20:05+00:00" class="time">13:20</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2329" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMyOSwidCI6MTY4MzM1OTM3MSwiaCI6IjZkMTljZTM1YjUxNjBlNmE3NCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/83663b95ef76cd6800588.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A9.png')"><b>💩</b></i> <b>Какие языки не стоит учить — </b><a href="https://www.youtube.com/watch?v=M_z84ckVSn8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[8:01]<br/><br/></a>Время — слишком драгоценный ресурс для программиста, чтобы тратить его на бесполезные языки. Поэтому, если вы только начали изучать программирование, всеми силами избегайте языков, описанных в этом видео.<br/><br/>В нём автор рассказывает про умирающие языки, рассказывает, почему их не стоит учить и главное — предлагает улучшенные и гораздо более современные альтернативы.<br/><br/><a href="https://www.youtube.com/watch?v=M_z84ckVSn8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8">#языки</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/83663b95ef76cd6800588.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/D82nAPfd2wWM7ktLt5SsWTOOGHi2ygNNI1IRZcTQugBvVHpK8YXOvb1OiqfzmtzrJeRh7LXEKUO4MfHPYrCIs1zc0GehBBMP0OhmCR6Zoasv3ieV0JtHITJj0NxExv4TScDfIbyoJhR6N-A854clYA6vQSKNhmCEOiLvXMJwkk6I1s1NW8ze61jdFynarJWKfFPiIwC3hvVz6XOAPfJzdht9Cw8XXVEAG4wgmy5leWMfRbGFJrSqcDzLOoapfolTrwQ_wb4jaZQhRYRZyDpTh9_Omv80i7ODnHXshcbK8VQs_ueFWbgoXf5iEMcYetQrAx212S6GvmD3GnjrFRTljg.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">4.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2329"><time datetime="2023-05-03T09:21:13+00:00" class="time">09:21</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2330" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMzMCwidCI6MTY4MzM1OTM3MSwiaCI6IjAyOWI4NmUyYmUzMjJkYzU1MSJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/89449530abd12d7a4bd2b.png" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">​</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F96.png')"><b>🏖</b></i> <b>JavaScript для начинающих. Полный курс</b> — <a href="https://www.youtube.com/watch?v=maPRR_jjyOE" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[6:46:13]<br/><br/></a>Ролик по всем особенностям и возможностям JavaScript: от переменных и операторов до промисов и асинхронного программирования.<br/><br/>В видео каждый теоретический материал подкрепляется практикой. Также за эти 7 часов вы создадите пару приложений.<br/><br/><a href="https://www.youtube.com/watch?v=maPRR_jjyOE" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23web">#web</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/89449530abd12d7a4bd2b.png">
+  
+  
+  <i class="link_preview_image" style="background-image:url('https://cdn4.telegram-cdn.org/file/ltsH27oWr014gEIZYVkG7EQsVEEQkX7qqRZsIMYFAyZcIQlr_aMv4cbKHwjrCTzad0y14LnfkRTpCfPCJ7QgytfuOIu9XRORJnjw05RV4EVaon4JeAzJv1qeT0lursfk-oQs9yBw7ISozYlNLLEWBJTtXbaUmrM0e9SCOWRxdNjRXIl4QO9LZn99s3W5uw4aOltHckGtojkgHR5lAUSDY70HtMLg_oW623uuLH5olRefF9rllesZilSCjUCqze2h_rKQ-hZ4apkxCZ_CtGucSsELHfw-zfvHImTAgFoSsZs6l6WSelScHKr6CtXmk0Wo-PaBb_qjgdeL328-nOsAVw.jpg');padding-top:50%"></i>
+  
+  
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">3.9K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2330"><time datetime="2023-05-04T09:18:11+00:00" class="time">09:18</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2331" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMzMSwidCI6MTY4MzM1OTM3MSwiaCI6IjZkZjUxMWMxOTdjOThmNzliMyJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 5377684103161300044 1252089651_456246348" href="https://t.me/procode404/2331" style="width:800px;background-image:url('https://cdn4.telegram-cdn.org/file/VAASyTUIxRLKa2QMeE8GEjdL7liU_Qh3wxuazDpIUvliNaHZfZOky7DF2qK835g_fG6rtfz-5uKu3FiCV1qFFGAKwl-dm9ToTdd4VHcBXlqpyTk61B49yIYuaUNTMJk2Lsa06QszEdOF3LRgwzqAuPZj88vG1_vOYeZZ9WsFMucEdv1bUCNJE-0MWcttL2WrhLdU3x3DU-WlUhXFqK4-nUcxWlGrnybIT9IXF93haYUKSvJLbTwvw54DxhMn0heJPBsAFfhKXB8-Z8THIq-ELbk66HWBSn31ijsRcw_XQfPDqmKrD4VnP7V_IPwCTcTyZaNptTqP7YPM9xKQSyKYzw.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:44.75%"></div>
+</a>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Weekend offer от VK для SRE-специалистов</b><br/> <br/>Команды администрирования публичного облака, системного администрирования IM-сервисов, продуктовых проектов, RuStore, а также отдел технической поддержки облачных сервисов приглашают разработчиков пообщаться с командами и получить шанс попасть в одну из них за пару дней.<br/> <br/>Уже 27 и 28 мая состоятся встречи с тимлидами, которые расскажут про процессы и задачи, которые предстоит решать, и ответят на все вопросы. Также состоятся интервью и финальные собеседования с кандидатами. А вечером 28 мая определят лучших и отправят им оффер.<br/> <br/><a href="https://team.vk.company/VK_offer_tech/?utm_source=tg&amp;amp;utm_medium=procode404" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Оставить отклик до 25 мая</a></div>
+
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">3.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2331"><time datetime="2023-05-05T06:51:06+00:00" class="time">06:51</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="procode404/2332" data-view="eyJjIjotMTM1NzU4MjAyNywicCI6MjMzMiwidCI6MTY4MzM1OTM3MSwiaCI6IjNlM2Q4MmM4Mjk5NzJjNDM4NCJ9">
+  <div class="tgme_widget_message_user"><a href="https://t.me/procode404"><i class="tgme_widget_message_user_photo bgcolor4" data-content="4"><img src="https://cdn4.telegram-cdn.org/file/crIiNCj4yHyIbgSdC4pc4a6S-PzIaDV_JBeqrqIGntCxNgCDrYok0TLPOwEtPk7ixytuZyE4YGF83bH3JGakdjalEfjRHMlFa4duISKE_V6zjVWTf7UzNH5mVby2bbK8pF9g1olinIVDcVa_gTg9PK4T4o6KUbktsvBqVE7UaXeO7rFbGNqU56jF2vkMiZL_Y95PVmIw3eqAf8dXTWKH7EnlrY_JDampvsIl1HTIiSzQs955kvKu8gZsQDeLZbJ17Iqmyyu5zV7xM2ya5J92_G34qY28IjbGbZgRLEkyFU9MjVqegrBMePTLT5YoDPcuwtZLsTUlhuEgKNLgMDAURg.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/procode404"><span dir="auto">[404] — программирование</span></a></div>
+
+
+
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://telegra.ph/file/0ab5cb761d967bb289d9c.mpeg4" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Video</a> <b>Что такое SQL?</b> — <a href="https://www.youtube.com/watch?v=GQfC0nYrto8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">[13:12]<br/><br/></a>В какой бы вы сфере ни работали, там всегда найдётся место базам данных. И чаще всего это реляционные БД, такие как MySQL, PostgreSQL или Oracle.<br/><br/>Если вы до сих пор не знаете, что такое реляционная база данных, какие её преимущества и где она применяется, то это видео для вас.<br/><br/><a href="https://www.youtube.com/watch?v=GQfC0nYrto8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Перейти к просмотру<br/><br/></a><a href="?q=%23%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE">#видео</a> <a href="?q=%23%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F">#теория</a></div>
+<a class="tgme_widget_message_link_preview" href="https://telegra.ph/file/0ab5cb761d967bb289d9c.mpeg4">
+    
+</a>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/procode404/2332"><time datetime="2023-05-05T08:04:22+00:00" class="time">08:04</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div>
+    </section>
+  </div>
+</main>
+    <script src="//telegram.org/js/jquery.min.js"></script>
+    <script src="//telegram.org/js/jquery-ui.min.js"></script>
+    <script src="//telegram.org/js/tgwallpaper.min.js?3"></script>
+<script src="//telegram.org/js/tgsticker.js?31"></script>
+
+    <script src="//telegram.org/js/widget-frame.js?62"></script>
+    <script src="//telegram.org/js/telegram-web.js?14"></script>
+    <script>TWeb.init();
+</script>
+    
+  </body>
+</html>
+<!-- page generated in 79ms -->
