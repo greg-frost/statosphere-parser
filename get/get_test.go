@@ -144,10 +144,15 @@ func TestPageFile(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.test, func(t *testing.T) {
 			if tt.remove != "" {
-				os.Remove(tt.remove)
+				os.Rename(tt.remove, tt.remove+"_orig")
 			}
 
 			result, _, err := PageFile(tt.value, "")
+
+			if tt.remove != "" {
+				os.Remove(tt.remove)
+				os.Rename(tt.remove+"_orig", tt.remove)
+			}
 
 			if (err != nil) != tt.isError {
 				t.Fatalf("Получена ошибка: %v, ожидается: %v", err, tt.isError)
