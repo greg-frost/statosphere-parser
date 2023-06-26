@@ -24,6 +24,7 @@ var ts = t.templates
 func TestSetTemplate(t *testing.T) {
 	one := template.Must(template.ParseFiles("templates/page.html"))
 	many := template.Must(template.ParseFiles("templates/info.html", "templates/form.html"))
+	none, _ := template.New("none").Parse("Веб-форма недоступна, используйте REST")
 
 	tests := []struct {
 		test   string
@@ -33,6 +34,7 @@ func TestSetTemplate(t *testing.T) {
 	}{
 		{"One", "one", []string{"templates/page.html"}, one},
 		{"Many", "many", []string{"templates/info.html", "templates/form.html"}, many},
+		{"None", "none", []string{"templates/none.html"}, none},
 	}
 
 	for _, tt := range tests {

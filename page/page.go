@@ -54,7 +54,12 @@ func SetTemplate(key string, files ...string) {
 	t.m.Lock()
 	defer t.m.Unlock()
 
-	t.templates[key] = template.Must(template.ParseFiles(files...))
+	tpl, err := template.ParseFiles(files...)
+	if err != nil {
+		tpl, _ = template.New(key).Parse("Веб-форма недоступна, используйте REST")
+	}
+
+	t.templates[key] = tpl
 }
 
 // Получение шаблона
