@@ -17,8 +17,8 @@ import (
 )
 
 var (
-	CurlFasterTreshold = 50    // Предел запросов, до которого curl может оказаться быстрее http
-	IsCacheDisable     = false // Отключение кэша
+	CurlFasterThreshold = 50    // Предел запросов, до которого curl может оказаться быстрее http
+	IsCacheDisable      = false // Отключение кэша
 )
 
 // Получение страницы (оптимальным способом)
@@ -208,7 +208,7 @@ func SetTransport(transport string, requests int) {
 
 	o.transport = "http"
 	switch {
-	case transport == "curl" && requests <= CurlFasterTreshold:
+	case transport == "curl" && requests <= CurlFasterThreshold:
 		o.transport = "curl"
 	case transport == "file":
 		o.transport = "file"

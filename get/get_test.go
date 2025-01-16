@@ -165,7 +165,7 @@ func TestPageFile(t *testing.T) {
 }
 
 func TestSetTransport(t *testing.T) {
-	CurlFasterTreshold = 10
+	CurlFasterThreshold = 10
 
 	tests := []struct {
 		test   string

@@ -80,7 +80,7 @@ func (pc *Channels) Parse(ctx context.Context, isExactParticipants bool, message
 			var resInfo, resMsgs response.Response
 			var chInfo, chMsgs = make(chan response.Response), make(chan response.Response)
 
-			// Если нужно точное число подпичсиков
+			// Если нужно точное число подписчиков
 			if isExactParticipants {
 				go Info(chInfo, *c)
 			} else {
@@ -491,11 +491,11 @@ func Info(chRes chan<- response.Response, c channel.Channel) {
 }
 
 var (
-	messagesTriesFactor   = 10    // Среднее количество сообщений на странице
-	messagesTriesSpare    = 3     // Количество запасных подгружаемых страниц
-	siblingsTresholdRatio = 0.3   // Коффициент упоминания "родственной" рекламы, после которого она игнорируется
-	siblingsMinMessages   = 10    // Минимальное число сообщений, при котором анализируются "родственные" ссылки
-	isSkipNotextMessages  = false // Пропускать пустые сообщения?
+	messagesTriesFactor    = 10    // Среднее количество сообщений на странице
+	messagesTriesSpare     = 3     // Количество запасных подгружаемых страниц
+	siblingsThresholdRatio = 0.3   // Коэффициент упоминания "родственной" рекламы, после которого она игнорируется
+	siblingsMinMessages    = 10    // Минимальное число сообщений, при котором анализируются "родственные" ссылки
+	isSkipNotextMessages   = false // Пропускать пустые сообщения?
 	//timeZoneShift       = 3     // Часовой пояс
 )
 
@@ -714,7 +714,7 @@ func Messages(chRes chan<- response.Response, c channel.Channel, messagesCount, 
 	var lastMessageId uint
 
 	advsCount := make(map[string]int)
-	siblingsTreshold := int(float64(messagesCount) * siblingsTresholdRatio)
+	siblingsThreshold := int(float64(messagesCount) * siblingsThresholdRatio)
 
 	messagesTries := int(messagesCount)/messagesTriesFactor + messagesTriesSpare
 
@@ -920,7 +920,7 @@ func Messages(chRes chan<- response.Response, c channel.Channel, messagesCount, 
 					for key, adv := range nm.Advs {
 						advsCount[key]++
 
-						if с := advsCount[key]; с >= siblingsTreshold {
+						if с := advsCount[key]; с >= siblingsThreshold {
 							c.Siblings.Add(adv.Link, "", 0)
 
 							nm.Advs.Remove(key)

@@ -8,9 +8,9 @@ import (
 )
 
 const (
-	mainTreshold  uint = 10
-	proxyTreshold uint = 3
-	cooldown           = 50 * time.Millisecond
+	mainThreshold  uint = 10
+	proxyThreshold uint = 3
+	cooldown            = 50 * time.Millisecond
 )
 
 var (
@@ -44,7 +44,7 @@ func TestEnable(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.test, func(t *testing.T) {
 			if tt.isEnable {
-				Enable(mainTreshold, proxyTreshold, cooldown)
+				Enable(mainThreshold, proxyThreshold, cooldown)
 			}
 
 			result := p.isEnabled
@@ -57,7 +57,7 @@ func TestEnable(t *testing.T) {
 }
 
 func TestDisable(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	tests := []struct {
 		test      string
@@ -84,7 +84,7 @@ func TestDisable(t *testing.T) {
 }
 
 func TestPrepare(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	tests := []struct {
 		test   string
@@ -111,7 +111,7 @@ func TestPrepare(t *testing.T) {
 }
 
 func TestPrepareFromList(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	tests := []struct {
 		test   string
@@ -138,7 +138,7 @@ func TestPrepareFromList(t *testing.T) {
 }
 
 func TestPrepareFromFile(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	tests := []struct {
 		test   string
@@ -173,7 +173,7 @@ func TestPrepareFromFile(t *testing.T) {
 }
 
 func TestReset(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	Clear()
 	PrepareFromList(validProxies)
@@ -212,7 +212,7 @@ func TestReset(t *testing.T) {
 }
 
 func TestClear(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	Clear()
 	PrepareFromList(validProxies)
@@ -251,7 +251,7 @@ func TestClear(t *testing.T) {
 }
 
 func TestCurrent(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	Clear()
 	PrepareFromList(validProxies)
@@ -289,7 +289,7 @@ func TestCurrent(t *testing.T) {
 }
 
 func TestNext(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	Clear()
 	PrepareFromList(validProxies)
@@ -327,7 +327,7 @@ func TestNext(t *testing.T) {
 }
 
 func TestRound(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	Clear()
 	PrepareFromList(validProxies)
@@ -365,7 +365,7 @@ func TestRound(t *testing.T) {
 }
 
 func TestCooldown(t *testing.T) {
-	Enable(mainTreshold, proxyTreshold, cooldown)
+	Enable(mainThreshold, proxyThreshold, cooldown)
 
 	Clear()
 	PrepareFromList(validProxies)

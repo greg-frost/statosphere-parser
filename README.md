@@ -174,7 +174,7 @@ json := response.New(
 	errs, time.Now().Sub(start),
 )
 result, _ := json.EncodeJSON()
-response.PrintJSON(res,result)
+response.PrintJSON(res, result)
 ```
 
 ## P.S.

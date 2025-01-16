@@ -11,27 +11,27 @@ import (
 
 // Прокси
 type proxy struct {
-	isEnabled     bool
-	proxies       []string
-	current       int
-	last          int
-	requests      int
-	mainTreshold  int
-	proxyTreshold int
-	cooldown      time.Duration
-	lastCooldown  time.Time
-	m             sync.Mutex
+	isEnabled      bool
+	proxies        []string
+	current        int
+	last           int
+	requests       int
+	mainThreshold  int
+	proxyThreshold int
+	cooldown       time.Duration
+	lastCooldown   time.Time
+	m              sync.Mutex
 }
 
 // Объект прокси
 var p = proxy{proxies: []string{""}}
 
 // Включение прокси
-func Enable(mainTreshold, proxyTreshold uint, cooldown time.Duration) {
+func Enable(mainThreshold, proxyThreshold uint, cooldown time.Duration) {
 	p.isEnabled = true
 
-	p.mainTreshold = int(mainTreshold)
-	p.proxyTreshold = int(proxyTreshold)
+	p.mainThreshold = int(mainThreshold)
+	p.proxyThreshold = int(proxyThreshold)
 
 	p.cooldown = cooldown
 	p.lastCooldown = time.Now()
@@ -147,7 +147,7 @@ func Round() string {
 
 	p.requests++
 
-	if p.current == 0 && p.requests > p.mainTreshold || p.current > 0 && p.requests > p.proxyTreshold {
+	if p.current == 0 && p.requests > p.mainThreshold || p.current > 0 && p.requests > p.proxyThreshold {
 		p.current = (p.current + 1) % len(p.proxies)
 		p.requests = 1
 	}
@@ -170,7 +170,7 @@ func Cooldown() string {
 
 	p.requests++
 
-	if p.current == 0 && p.requests > p.mainTreshold || p.current > 0 && p.requests > p.proxyTreshold {
+	if p.current == 0 && p.requests > p.mainThreshold || p.current > 0 && p.requests > p.proxyThreshold {
 		p.requests = 1
 
 		if p.last == 0 {
