@@ -39,7 +39,7 @@ func NewChannels() Channels {
 
 // Парсинг каналов
 func (pc *Channels) Parse(ctx context.Context, isExactParticipants bool, messagesCount uint) (int, []error) {
-	const cacheDuration = 5 * time.Minute // Время кеширования
+	const cacheDuration = 5 * time.Minute // Время кэширования
 
 	var (
 		parsed int
