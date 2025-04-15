@@ -50,7 +50,7 @@ func TestParse(t *testing.T) {
 	valid := NewChannels()
 
 	valid.Add("thecodemedia")
-	valid.Add("glav_hack")
+	valid.Add("gregory_demons")
 	valid.Add("not_existed_channel")
 
 	empty := NewChannels()
@@ -73,7 +73,7 @@ func TestParse(t *testing.T) {
 			errors.New("Ошибка парсинга информации: нет данных для @not_existed_channel"),
 		}},
 		{"NotExact", &valid, ctx, false, 0, true, 1, []error{
-			errors.New("Ошибка парсинга сообщений: нет данных для @glav_hack"),
+			errors.New("Ошибка парсинга сообщений: нет данных для @gregory_demons"),
 			errors.New("Ошибка парсинга сообщений: нет данных для @not_existed_channel"),
 		}},
 		{"Cache", &valid, ctx, true, 0, true, 2, []error{
@@ -82,11 +82,11 @@ func TestParse(t *testing.T) {
 		{"Messages", &valid, ctx, true, 5, true, 2, []error{
 			errors.New("Ошибка парсинга информации: нет данных для @not_existed_channel"),
 			errors.New("Ошибка парсинга сообщений: нет данных для @not_existed_channel"),
-			errors.New("Ошибка парсинга сообщений: нет данных для @glav_hack"),
+			errors.New("Ошибка парсинга сообщений: нет данных для @gregory_demons"),
 		}},
 		{"Cancel", &valid, timeout, true, 5, false, 0, []error{
 			errors.New("Ошибка парсинга: отмена для @thecodemedia"),
-			errors.New("Ошибка парсинга: отмена для @glav_hack"),
+			errors.New("Ошибка парсинга: отмена для @gregory_demons"),
 			errors.New("Ошибка парсинга: отмена для @not_existed_channel"),
 		}},
 		{"Empty", &empty, ctx, false, 0, false, 0, []error{errors.New("Ошибка парсинга: нет каналов")}},
