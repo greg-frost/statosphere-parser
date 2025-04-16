@@ -171,7 +171,7 @@ channels.RemoveUnmessaged() // удаление каналов без сообщ
 
 json := response.New(
 	channels.Channels.Channels, channels.Count(),
-	errs, time.Now().Sub(start),
+	errs, time.Since(start),
 )
 result, _ := json.EncodeJSON()
 response.PrintJSON(res, result)

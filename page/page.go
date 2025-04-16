@@ -145,7 +145,7 @@ func Info(res http.ResponseWriter, req *http.Request) {
 	// Подготовка JSON
 	json := response.New(
 		channels.Channels.Channels, channels.Count(),
-		errs, time.Now().Sub(start),
+		errs, time.Since(start),
 	)
 	result, _ := json.EncodeJSON()
 
@@ -216,7 +216,7 @@ func Messages(res http.ResponseWriter, req *http.Request) {
 	// Подготовка JSON
 	json := response.New(
 		channels.Channels.Channels, channels.Count(),
-		errs, time.Now().Sub(start),
+		errs, time.Since(start),
 	)
 	result, _ := json.EncodeJSON()
 

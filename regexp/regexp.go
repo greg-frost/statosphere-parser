@@ -92,7 +92,7 @@ func (r *group) Match(text string) bool {
 	res = r.regexp.MatchString(text)
 
 	if isProfiler {
-		profilerTime(r.group, time.Now().Sub(start))
+		profilerTime(r.group, time.Since(start))
 	}
 
 	return res
@@ -120,7 +120,7 @@ func (r *group) Find(text string) map[string]string {
 	}
 
 	if isProfiler {
-		profilerTime(r.group, time.Now().Sub(start))
+		profilerTime(r.group, time.Since(start))
 	}
 
 	return res
@@ -152,7 +152,7 @@ func (r *group) FindAll(text string) []map[string]string {
 	}
 
 	if isProfiler {
-		profilerTime(r.group, time.Now().Sub(start))
+		profilerTime(r.group, time.Since(start))
 	}
 
 	return res
@@ -175,7 +175,7 @@ func (r *group) ReplaceAll(text, replace string) string {
 	res = r.regexp.ReplaceAllString(text, replace)
 
 	if isProfiler {
-		profilerTime(r.group, time.Now().Sub(start))
+		profilerTime(r.group, time.Since(start))
 	}
 
 	return res

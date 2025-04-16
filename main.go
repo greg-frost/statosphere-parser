@@ -126,7 +126,7 @@ func main() {
 		channels.PrintReport(errs, false)
 
 		// Время выполнения
-		fmt.Println(time.Now().Sub(start))
+		fmt.Println(time.Since(start))
 
 	// Прокси
 	case "proxy":
